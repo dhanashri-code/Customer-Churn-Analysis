@@ -30,19 +30,19 @@ Customer-Churn-Analysis/
 ## Charts
 
 ### Churn Rate by Plan Type
-![Churn by Plan](Customer Churn Analysis/output/charts/01_churn_by_plan.png)
+![Churn by Plan](Customer%20Churn%20Analysis/output/charts/01_churn_by_plan.png)
 
 ### Churn Rate by State
-![Churn by State](output/charts/02_churn_by_state.png)
+![Churn by State](Customer%20Churn%20Analysis/output/charts/02_churn_by_state.png)
 
 ### Customer Churn Distribution
-![Churn Distribution](output/charts/03_churn_distribution.png)
+![Churn Distribution](Customer%20Churn%20Analysis/output/charts/03_churn_distribution.png)
 
 ### Monthly Churn Trend
-![Monthly Churn](output/charts/04_monthly_churn_trend.png)
+![Monthly Churn](Customer%20Churn%20Analysis/output/charts/04_monthly_churn_trend.png)
 
 ### Churn Rate by Complaint Count
-![Complaint vs Churn](output/charts/05_churn_by_complaints.png)
+![Complaint vs Churn](Customer%20Churn%20Analysis/output/charts/05_churn_by_complaints.png)
 
 ## Tools
 Python | Pandas | NumPy | Matplotlib | Seaborn | MySQL | XAMPP | SQL
