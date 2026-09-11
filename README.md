@@ -18,13 +18,14 @@ The workflow combines **MySQL/XAMPP, SQL, Python, Pandas, Matplotlib, and Seabor
 ## Project Structure
 ```text
 Customer-Churn-Analysis/
-├── data/
-├── sql/
-├── notebook/
-├── output/
-│   └── charts/
-├── README.md
-└── requirements.txt
+├── Customer Churn Analysis/
+│   ├── data/
+│   ├── sql/
+│   ├── notebook/
+│   ├── output/
+│   │   └── charts/
+│   ├── README.md
+│   └── requirements.txt
 ```
 
 ## Charts
