@@ -30,7 +30,7 @@ Customer-Churn-Analysis/
 ## Charts
 
 ### Churn Rate by Plan Type
-![Churn by Plan](output/charts/01_churn_by_plan.png)
+![Churn by Plan](Customer Churn Analysis/output/charts/01_churn_by_plan.png)
 
 ### Churn Rate by State
 ![Churn by State](output/charts/02_churn_by_state.png)
