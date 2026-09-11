@@ -1,0 +1,1001 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,customer_name,country,state,gender,dob,escalations,csat_score,complaint_count,churn_risk,tenure_days
+0002-ORFBO,15-03-2021,Refferal,15-03-2025,Standard,Annual,,,13.99,627,12,0,keshav,India,Maharashtra,Male,12-04-1982,,,0,Low,1461
+0003-MKNFE,01-08-2020,Paid,01-08-2024,Premium,Annual,10-09-2024,Switched to competitor,12.99,1150,91,1,raghav,India,Karnataka,Male,23-11-1995,N,60,2,High,1461
+0004-TLHLJ,20-11-2022,Organic,20-11-2025,Basic,Monthly,,,6.99,210,34,0,lalita,India,Delhi,Female,15-02-1978,,,0,Low,1096
+0011-IGKFF,10-05-2019,Paid,10-05-2025,Premium,Annual,,,22.99,1725,8,0,mohan,India,Nagaland,Male,30-08-2001,,,0,Low,2192
+0013-EXCHZ,05-01-2023,Refferal,05-01-2024,Standard,Monthly,28-02-2024,Too expensive,13.99,195,88,1,mira,India,Delhi,Female,05-05-1990,Y,20,1,High,365
+0013-MHZWF,18-06-2022,Paid,18-06-2025,Standard,Annual,,,17.99,720,22,0,durga,,Delhi,Women,10-12-1988,N,90,1,Low,1096
+0013-SMEOE,30-09-2021,Refferal,30-09-2024,Basic,Monthly,15-11-2024,Not enough content,8.99,230,79,1,mina,India,Meghalaya,Female,21-09-1976,N,30,1,High,1096
+0014-BMAQU,14-02-2020,Organic,14-02-2025,Premium,Annual,,,22.99,1840,5,0,madan,India,Rajasthan,Male,14-03-1999,,,0,Low,1827
+0015-UOCOJ,22-07-2023,Organic,22-07-2024,Standard,Monthly,,,13.99,240,34,0,maya,,Kathmandu,Women,07-07-1985,,,0,Low,366
+0016-QLJIS,03-04-2022,Organic,03-04-2025,Basic,Annual,,,6.99,335,41,0,arjun,Nepal,Kathmandu,Male,29-10-1993,,,0,Low,1096
+0017-DINOC,01-12-2021,Organic,01-12-2025,Premium,Annual,,,22.99,1610,14,0,shiva,India,Maharashtra,Men,22-01-1997,,,0,Low,1461
+0017-IUDMW,17-03-2023,Refferal,17-03-2024,Standard,Monthly,01-05-2024,Poor streaming quality,7.99,270,83,1,rangadevi,India,Karnataka,Female,18-06-1981,Y,25,1,High,366
+0018-NYROU,09-10-2020,Organic,09-10-2025,Standard,Annual,,,13.99,980,19,0,chitra,,Telangana,Female,01-12-2004,,,0,Low,1826
+0019-EFAEP,25-08-2022,Refferal,25-08-2024,Basic,Monthly,31-10-2024,Switched to competitor,12.99,160,76,1,raju,India,Meghalaya,Female,25-04-1992,Y,30,1,High,731
+0019-GFNTW,11-11-2019,Paid,11-11-2025,Premium,Annual,,,92.99,2185,3,0,Madhav,India,Uttar Pradesh,Men,11-11-1979,,,0,Low,2192
+0020-INWCK,06-05-2023,Organic,06-05-2025,Standard,Monthly,,,13.99,640,58,0,parvati,India,Delhi,Female,28-02-1986,,,0,Medium,731
+0020-JDNXP,19-01-2022,Organic,19-01-2024,Premium,Annual,,,20.99,550,62,0,rikim,India,Meghalaya,Female,19-08-1994,,,0,Medium,730
+0021-IKXGC,07-07-2021,Paid,07-07-2025,Standard,Annual,,,13.99,840,27,0,vishakha,India,Rajasthan,Female,02-09-2000,,,0,Low,1461
+0022-TCJCI,14-09-2023,Refferal,14-09-2024,Basic,Monthly,14-09-2024,Forgot to cancel trial,16.99,42,99,1,raghvendra,India,Telangana,Male,30-12-1983,N,90,2,High,366
+0023-HGHWL,23-06-2020,Organic,23-06-2025,Premium,Annual,,,22.99,1955,7,0,rishabh,India,Uttar Pradesh,Men,14-05-1991,,,0,Low,1826
+0023-UYUPN,31-12-2022,Paid,31-12-2025,Standard,Monthly,,,13.99,790,47,0,sudevi,India,Maharashtra,Women,06-10-1977,,,0,Low,1096
+1001-RAGFT,23-04-2023 00:00,Organic,23-04-2024 00:00,Standard,Monthly,,,15.08,1009,52,0,Harsh,India,Meghalaya,Male,07-02-1971 00:00,N,30,2,Medium,366
+1002-JJGBM,08-11-2019 00:00,Refferal,08-11-2020 00:00,Premium,Annual,,,24.34,901,48,0,Omkar,India,Maharashtra,Male,20-11-1988 00:00,,,0,Low,366
+1003-WDJSS,23-11-2021 00:00,Refferal,23-11-2022 00:00,Standard,Annual,,,17.46,597,65,0,Pranav,India,Uttar Pradesh,Male,08-12-2004 00:00,N,100,1,Medium,365
+1004-HRKXM,05-04-2021 00:00,Organic,05-04-2022 00:00,Standard,Monthly,25-07-2021 00:00,Poor streaming quality,15.18,715,45,1,Neha,India,Karnataka,Female,24-05-2004 00:00,,,0,Low,365
+1005-QMGPY,24-12-2019 00:00,Organic,24-12-2020 00:00,Basic,Monthly,,,8.52,340,5,0,Varun,India,West Bengal,Male,10-02-1991 00:00,,,0,Low,366
+1006-RQDUN,03-10-2020 00:00,Organic,03-10-2021 00:00,Basic,Monthly,,,6.75,613,26,0,Pranav,India,Delhi,Male,12-02-1971 00:00,,,0,Low,365
+1007-MPGWL,04-08-2023 00:00,Organic,04-08-2024 00:00,Basic,Monthly,,,5.99,759,17,0,Varun,India,West Bengal,Male,10-12-1982 00:00,N,50,2,Low,366
+1008-MNTXP,28-08-2022 00:00,Refferal,28-08-2023 00:00,Standard,Annual,21-04-2023 00:00,Not enough content,13.49,570,49,1,Manish,India,Tamil Nadu,Male,04-02-1982 00:00,N,70,1,Low,365
+1009-GFYLW,07-08-2022 00:00,Organic,07-08-2023 00:00,Premium,Annual,24-03-2023 00:00,Not enough content,19.79,940,56,1,Rohan,India,Uttar Pradesh,Male,03-01-2004 00:00,,,0,Medium,365
+1010-GSTUR,19-01-2019 00:00,Paid,19-01-2020 00:00,Standard,Annual,05-11-2019 00:00,Switched to competitor,14.82,848,37,1,Neha,India,Karnataka,Female,19-01-1983 00:00,N,100,1,Low,365
+1011-PABRP,25-06-2022 00:00,Paid,25-06-2023 00:00,Premium,Monthly,,,19.67,652,99,0,Mira,India,Karnataka,Female,09-04-1990 00:00,,,0,High,365
+1012-NDJBF,10-09-2024 00:00,Refferal,10-09-2025 00:00,Premium,Monthly,03-12-2024 00:00,Forgot to cancel trial,18.66,447,80,1,Pooja,India,Rajasthan,Female,10-12-2004 00:00,N,50,1,High,365
+1013-MXWCL,04-01-2023 00:00,Refferal,04-01-2024 00:00,Basic,Annual,,,8.45,399,2,0,Priya,India,Maharashtra,Female,09-11-1978 00:00,,,0,Low,365
+1014-DDHXV,26-03-2020 00:00,Organic,26-03-2021 00:00,Premium,Annual,,,21.42,866,70,0,Yash,India,Karnataka,Male,04-11-1985 00:00,,,0,High,365
+1015-VWVGU,01-04-2020 00:00,Organic,01-04-2021 00:00,Standard,Monthly,20-09-2020 00:00,Not enough content,13.74,504,49,1,Omkar,India,Kerala,Male,07-04-2000 00:00,,,0,Low,365
+1016-ZNYCZ,14-06-2024 00:00,Organic,14-06-2025 00:00,Standard,Monthly,,,12.41,771,45,0,Harsh,India,Bihar,Male,04-01-1986 00:00,,,0,Low,365
+1017-AYNTT,11-07-2024 00:00,Organic,11-07-2025 00:00,Standard,Monthly,,,14.75,996,15,0,Yash,India,Rajasthan,Male,11-10-1991 00:00,,,0,Low,365
+1018-XQHPA,22-03-2024 00:00,Paid,22-03-2025 00:00,Basic,Monthly,,,7.14,693,37,0,Ananya,India,Rajasthan,Female,15-08-1990 00:00,,,0,Low,365
+1019-SFEAF,08-07-2022 00:00,Refferal,08-07-2023 00:00,Basic,Annual,,,10.26,575,63,0,Kritika,India,Kerala,Female,14-08-1974 00:00,,,0,Medium,365
+1020-FVSMP,17-12-2023 00:00,Organic,17-12-2024 00:00,Standard,Annual,15-09-2024 00:00,Poor streaming quality,13.31,779,55,1,Saurabh,India,Maharashtra,Male,17-11-1999 00:00,,,0,Medium,366
+1021-RUNRG,23-07-2020 00:00,Organic,23-07-2021 00:00,Basic,Monthly,,,6.94,302,45,0,Raghav,India,Karnataka,Male,18-06-1991 00:00,,,0,Low,365
+1022-VKUYA,09-04-2022 00:00,Organic,09-04-2023 00:00,Standard,Monthly,,,11.36,852,74,0,Sakshi,India,Maharashtra,Female,25-05-1992 00:00,Y,90,1,High,365
+1023-XQRCL,25-05-2022 00:00,Refferal,25-05-2023 00:00,Premium,Monthly,,,20.83,1146,85,0,Pooja,India,Maharashtra,Female,07-06-1994 00:00,N,20,3,High,365
+1024-CYMGJ,03-04-2024 00:00,Organic,03-04-2025 00:00,Standard,Annual,,,12.57,879,56,0,Rahul,India,Bihar,Male,01-10-1976 00:00,,,0,Medium,365
+1025-VVPAN,21-06-2022 00:00,Organic,21-06-2023 00:00,Premium,Monthly,14-04-2023 00:00,Not enough content,20.91,528,97,1,Sneha,India,Telangana,Female,28-01-1991 00:00,,,0,High,365
+1026-UMVQH,28-08-2019 00:00,Organic,28-08-2020 00:00,Basic,Monthly,17-02-2020 00:00,Forgot to cancel trial,9.8,599,52,1,Aditya,India,Delhi,Male,25-04-1998 00:00,,,0,Medium,366
+1027-AYCTM,23-07-2020 00:00,Organic,23-07-2021 00:00,Basic,Annual,,,8.19,468,2,0,Manish,India,Uttar Pradesh,Male,26-08-2001 00:00,,,0,Low,365
+1028-PJLHF,19-12-2021 00:00,Organic,19-12-2022 00:00,Premium,Monthly,27-04-2022 00:00,Not enough content,21.78,682,95,1,Nikhil,India,Maharashtra,Male,06-12-2004 00:00,N,20,1,High,365
+1029-PSDWM,27-02-2022 00:00,Paid,27-02-2023 00:00,Basic,Monthly,,,6.21,586,41,0,Harsh,India,Delhi,Male,11-08-2000 00:00,,,0,Low,365
+1030-YCFPK,02-10-2023 00:00,Refferal,02-10-2024 00:00,Standard,Annual,17-02-2024 00:00,Not enough content,14.71,904,35,1,Aniket,India,Nagaland,Male,28-05-1998 00:00,N,70,1,Low,366
+1031-SMAGG,21-04-2023 00:00,Organic,21-04-2024 00:00,Basic,Monthly,25-10-2023 00:00,Forgot to cancel trial,8.2,481,72,1,Sneha,India,Gujarat,Female,19-11-1986 00:00,,,0,High,366
+1032-GCSSY,22-04-2019 00:00,Refferal,22-04-2020 00:00,Premium,Monthly,,,20.27,749,52,0,Tanvi,India,Maharashtra,Female,24-07-1972 00:00,,,0,Medium,366
+1033-AUMRX,04-11-2021 00:00,Paid,04-11-2022 00:00,Premium,Monthly,27-06-2022 00:00,Forgot to cancel trial,21.64,649,71,1,Harsh,India,Rajasthan,Male,16-02-2001 00:00,Y,70,1,High,365
+1034-VAWMB,16-12-2022 00:00,Paid,16-12-2023 00:00,Basic,Annual,,,7.47,372,12,0,Kritika,India,West Bengal,Female,07-01-1998 00:00,,,0,Low,365
+1035-PCZXM,15-04-2022 00:00,Refferal,15-04-2023 00:00,Standard,Monthly,,,13.24,819,37,0,Kunal,India,Rajasthan,Male,23-09-1988 00:00,,,0,Low,365
+1036-GUKYN,25-09-2021 00:00,Organic,25-09-2022 00:00,Standard,Monthly,24-02-2022 00:00,Forgot to cancel trial,14.88,726,99,1,Raghav,India,Gujarat,Male,15-03-2001 00:00,,,0,High,365
+1037-KHMXK,15-09-2019 00:00,Refferal,15-09-2020 00:00,Basic,Monthly,,,8.56,102,48,0,Manish,India,Bihar,Male,19-09-1978 00:00,,,0,Low,366
+1038-GQKBH,10-11-2024 00:00,Organic,10-11-2025 00:00,Premium,Annual,30-01-2025 00:00,Poor streaming quality,20.93,1162,55,1,Meera,India,Uttar Pradesh,Female,02-09-2001 00:00,,,0,Medium,365
+1039-AHBJL,05-10-2022 00:00,Organic,05-10-2023 00:00,Basic,Annual,,,7.57,611,48,0,Aniket,India,Meghalaya,Male,06-03-1981 00:00,,,0,Low,365
+1040-GPBYZ,19-07-2020 00:00,Paid,19-07-2021 00:00,Standard,Monthly,08-03-2021 00:00,Not enough content,11.42,609,85,1,Diya,India,Gujarat,Female,07-05-1999 00:00,,,0,High,365
+1041-UZXTV,21-02-2024 00:00,Organic,21-02-2025 00:00,Standard,Monthly,,,15.73,1134,35,0,Isha,India,Uttar Pradesh,Female,21-04-1992 00:00,,,0,Low,366
+1042-HTEDN,03-08-2019 00:00,Refferal,03-08-2020 00:00,Basic,Annual,,,5.99,960,55,0,Pallavi,India,Rajasthan,Female,09-03-1987 00:00,,,0,Medium,366
+1043-VJUAN,20-01-2022 00:00,Refferal,20-01-2023 00:00,Premium,Monthly,23-03-2022 00:00,Poor streaming quality,18.81,1113,48,1,Nandini,India,Gujarat,Female,13-10-1986 00:00,,,0,Low,365
+1044-KDYHM,24-12-2023 00:00,Organic,24-12-2024 00:00,Basic,Monthly,,,6.88,500,14,0,Arjun,India,Kerala,Male,15-07-1978 00:00,,,0,Low,366
+1045-AJLYW,22-02-2022 00:00,Refferal,22-02-2023 00:00,Basic,Annual,10-09-2022 00:00,Too expensive,5.99,402,52,1,Yash,India,Telangana,Male,13-01-1992 00:00,,,0,Medium,365
+1046-EVPQV,22-02-2020 00:00,Organic,22-02-2021 00:00,Premium,Monthly,,,24.4,1039,43,0,Nikhil,India,West Bengal,Male,28-05-1970 00:00,N,90,1,Low,366
+1047-TMUNC,22-07-2022 00:00,Organic,22-07-2023 00:00,Basic,Annual,,,9.78,582,13,0,Pranav,India,Maharashtra,Male,15-05-2003 00:00,,,0,Low,365
+1048-DQQTK,14-04-2022 00:00,Organic,14-04-2023 00:00,Basic,Monthly,18-12-2022 00:00,Not enough content,10.87,713,13,1,Tanvi,India,Telangana,Female,26-02-1997 00:00,,,0,Low,365
+1049-DYBVC,28-06-2022 00:00,Refferal,28-06-2023 00:00,Standard,Annual,,,14.56,719,65,0,Yash,India,Tamil Nadu,Male,18-10-1973 00:00,,,0,Medium,365
+1050-JPFRF,20-10-2023 00:00,Paid,20-10-2024 00:00,Standard,Monthly,,,11.08,750,71,0,Yash,India,Kerala,Male,25-02-1993 00:00,Y,60,1,High,366
+1051-EDRBT,24-05-2021 00:00,Paid,24-05-2022 00:00,Basic,Annual,,,8.54,346,52,0,Aditya,India,West Bengal,Male,14-07-1983 00:00,,,0,Medium,365
+1052-BBLLQ,19-11-2024 00:00,Organic,19-11-2025 00:00,Standard,Annual,,,14.5,650,54,0,Mira,India,Karnataka,Female,12-02-2002 00:00,N,50,1,Medium,365
+1053-HATEK,28-02-2022 00:00,Organic,28-02-2023 00:00,Basic,Monthly,,,12.09,372,60,0,Aniket,India,Telangana,Male,13-02-1992 00:00,,,0,Medium,365
+1054-ZEYMS,24-05-2022 00:00,Organic,24-05-2023 00:00,Basic,Monthly,,,9.43,615,27,0,Sneha,India,Rajasthan,Female,14-04-1976 00:00,,,0,Low,365
+1055-XJTVV,15-08-2024 00:00,Organic,15-08-2025 00:00,Premium,Annual,,,23.54,1225,35,0,Vivek,India,Maharashtra,Male,20-03-1982 00:00,,,0,Low,365
+1056-QWRDB,02-01-2022 00:00,Paid,02-01-2023 00:00,Standard,Monthly,,,14.9,905,77,0,Riya,India,Tamil Nadu,Female,17-06-1973 00:00,,,0,High,365
+1057-KPYTA,17-02-2024 00:00,Paid,17-02-2025 00:00,Standard,Monthly,,,13.45,553,41,0,Nikhil,India,Uttar Pradesh,Male,02-03-2002 00:00,,,0,Low,366
+1058-JYKUS,20-11-2024 00:00,Paid,20-11-2025 00:00,Premium,Monthly,17-06-2025 00:00,Not enough content,19.2,1207,63,1,Nikhil,India,Maharashtra,Male,22-09-1976 00:00,,,0,Medium,365
+1059-KQYHK,10-06-2019 00:00,Refferal,10-06-2020 00:00,Basic,Monthly,,,8.6,490,69,0,Neha,India,Gujarat,Female,21-02-2003 00:00,,,0,Medium,366
+1060-BWCUW,26-10-2024 00:00,Organic,26-10-2025 00:00,Premium,Annual,,,24.19,1675,47,0,Nikhil,India,Kerala,Male,13-10-1978 00:00,,,0,Low,365
+1061-QUUFF,26-04-2020 00:00,Organic,26-04-2021 00:00,Standard,Annual,,,15.37,509,28,0,Ananya,India,Nagaland,Female,25-08-1998 00:00,,,0,Low,365
+1062-TNCCD,13-01-2022 00:00,Refferal,13-01-2023 00:00,Standard,Monthly,,,15.05,667,50,0,Pallavi,India,Maharashtra,Female,08-02-1997 00:00,,,0,Medium,365
+1063-WRUDG,27-04-2021 00:00,Paid,27-04-2022 00:00,Basic,Annual,,,9.03,493,43,0,Neha,India,West Bengal,Female,20-08-2000 00:00,,,0,Low,365
+1064-CFRQB,12-10-2019 00:00,Paid,12-10-2020 00:00,Basic,Monthly,13-05-2020 00:00,Switched to competitor,5.99,715,42,1,Kritika,India,Telangana,Female,08-10-2002 00:00,,,0,Low,366
+1065-UNAWB,21-11-2024 00:00,Paid,21-11-2025 00:00,Basic,Annual,19-06-2025 00:00,Forgot to cancel trial,8.46,544,16,1,Nandini,India,Karnataka,Female,26-06-1971 00:00,,,0,Low,365
+1066-VSZME,10-06-2019 00:00,Paid,10-06-2020 00:00,Standard,Annual,,,14.84,886,30,0,Aditya,India,Gujarat,Male,10-01-1999 00:00,,,0,Low,366
+1067-JUWHC,09-09-2021 00:00,Organic,09-09-2022 00:00,Premium,Annual,,,21.12,1202,27,0,Diya,India,Kerala,Female,11-07-1998 00:00,,,0,Low,365
+1068-HBRHQ,03-01-2024 00:00,Paid,03-01-2025 00:00,Standard,Monthly,,,15.22,791,83,0,Pooja,India,Gujarat,Female,02-08-1992 00:00,N,70,2,High,366
+1069-ADLJL,06-12-2019 00:00,Paid,06-12-2020 00:00,Standard,Monthly,17-05-2020 00:00,Poor streaming quality,10.96,628,37,1,Harsh,India,Maharashtra,Male,11-07-1993 00:00,,,0,Low,366
+1070-SZEDB,23-03-2021 00:00,Organic,23-03-2022 00:00,Standard,Annual,,,15.12,1322,59,0,Saurabh,India,Bihar,Male,12-11-1990 00:00,,,0,Medium,365
+1071-VFMJP,03-10-2022 00:00,Organic,03-10-2023 00:00,Basic,Monthly,,,9.25,754,76,0,Mansi,India,Maharashtra,Female,10-02-1975 00:00,N,30,2,High,365
+1072-NHDYF,06-11-2023 00:00,Organic,06-11-2024 00:00,Standard,Annual,,,15.42,1085,40,0,Sneha,India,Karnataka,Female,21-03-1987 00:00,,,0,Low,366
+1073-YAWBY,16-05-2024 00:00,Organic,16-05-2025 00:00,Basic,Annual,,,6.29,437,36,0,Ananya,India,West Bengal,Female,21-10-1996 00:00,,,0,Low,365
+1074-KMJDW,04-08-2020 00:00,Organic,04-08-2021 00:00,Basic,Monthly,18-03-2021 00:00,Forgot to cancel trial,8.17,189,99,1,Nandini,India,Bihar,Female,17-06-1978 00:00,,,0,High,365
+1075-XVYTE,15-09-2022 00:00,Organic,15-09-2023 00:00,Premium,Monthly,25-06-2023 00:00,Forgot to cancel trial,22.5,1148,24,1,Manish,India,Bihar,Male,10-08-1999 00:00,,,0,Low,365
+1076-MNWLX,03-05-2023 00:00,Paid,03-05-2024 00:00,Standard,Monthly,,,16.39,658,60,0,Shreya,India,Nagaland,Female,19-01-1995 00:00,,,0,Medium,366
+1077-DCJZP,11-12-2020 00:00,Organic,11-12-2021 00:00,Premium,Monthly,,,19.42,541,77,0,Neha,India,Karnataka,Female,17-07-2002 00:00,,,0,High,365
+1078-HKQWQ,21-12-2024 00:00,Refferal,21-12-2025 00:00,Basic,Monthly,,,8.47,507,51,0,Avni,India,Delhi,Female,11-06-1971 00:00,,,0,Medium,365
+1079-TQERQ,14-06-2022 00:00,Organic,14-06-2023 00:00,Basic,Annual,,,12.71,477,56,0,Neha,India,Tamil Nadu,Female,19-01-1985 00:00,,,0,Medium,365
+1080-TBDEH,22-12-2024 00:00,Paid,22-12-2025 00:00,Standard,Annual,27-05-2025 00:00,Not enough content,14.4,911,35,1,Pallavi,India,Nagaland,Female,18-08-1981 00:00,,,0,Low,365
+1081-ZHGES,25-06-2022 00:00,Organic,25-06-2023 00:00,Premium,Monthly,,,19.25,880,59,0,Sakshi,India,Delhi,Female,04-05-1987 00:00,,,0,Medium,365
+1082-GMENY,14-02-2019 00:00,Paid,14-02-2020 00:00,Basic,Monthly,22-12-2019 00:00,Too expensive,9.89,509,25,1,Neha,India,Maharashtra,Female,02-04-1985 00:00,,,0,Low,365
+1083-XMEZH,27-01-2020 00:00,Refferal,27-01-2021 00:00,Standard,Monthly,,,12.95,1172,40,0,Aditya,India,Uttar Pradesh,Male,24-09-1984 00:00,,,0,Low,366
+1084-APCZG,21-08-2024 00:00,Paid,21-08-2025 00:00,Basic,Monthly,,,8.88,750,23,0,Neha,India,Kerala,Female,07-05-1999 00:00,,,0,Low,365
+1085-EWXVN,08-07-2021 00:00,Organic,08-07-2022 00:00,Standard,Monthly,,,18.66,627,79,0,Omkar,India,Uttar Pradesh,Male,16-03-1981 00:00,,,0,High,365
+1086-JFSMD,15-03-2022 00:00,Organic,15-03-2023 00:00,Standard,Annual,,,12.92,549,77,0,Kavya,India,Uttar Pradesh,Female,20-06-1988 00:00,,,0,High,365
+1087-RFFUW,05-09-2023 00:00,Organic,05-09-2024 00:00,Basic,Annual,,,8.97,461,59,0,Aniket,India,Rajasthan,Male,19-02-1993 00:00,,,0,Medium,366
+1088-XLBDK,19-04-2024 00:00,Paid,19-04-2025 00:00,Basic,Monthly,,,7.86,248,2,0,Varun,India,Rajasthan,Male,01-12-1989 00:00,,,0,Low,365
+1089-ZMGED,28-11-2024 00:00,Organic,28-11-2025 00:00,Standard,Annual,,,13.43,1012,19,0,Nandini,India,Bihar,Female,28-08-1994 00:00,,,0,Low,365
+1090-TFAAH,25-12-2020 00:00,Organic,25-12-2021 00:00,Basic,Annual,,,5.99,572,31,0,Mansi,India,Nagaland,Female,15-04-1984 00:00,N,80,1,Low,365
+1091-SWFBL,05-05-2020 00:00,Organic,05-05-2021 00:00,Premium,Monthly,,,24.16,1275,28,0,Rohan,India,Maharashtra,Male,27-04-1988 00:00,,,0,Low,365
+1092-TESPB,25-03-2022 00:00,Organic,25-03-2023 00:00,Standard,Monthly,,,14.01,654,33,0,Shreya,India,West Bengal,Female,14-12-1990 00:00,,,0,Low,365
+1093-BKKNK,13-05-2019 00:00,Refferal,13-05-2020 00:00,Standard,Annual,07-04-2020 00:00,Forgot to cancel trial,14.43,623,34,1,Ananya,India,Delhi,Female,28-08-1975 00:00,Y,100,3,Low,366
+1094-EXPUK,11-06-2020 00:00,Organic,11-06-2021 00:00,Standard,Monthly,21-11-2020 00:00,Forgot to cancel trial,13.14,985,58,1,Riya,India,Karnataka,Female,15-08-2002 00:00,,,0,Medium,365
+1095-LDHKW,26-12-2020 00:00,Paid,26-12-2021 00:00,Standard,Monthly,29-10-2021 00:00,Switched to competitor,17.48,1221,30,1,Mansi,India,Uttar Pradesh,Female,25-05-1991 00:00,,,0,Low,365
+1096-BVBAD,22-11-2023 00:00,Paid,22-11-2024 00:00,Premium,Annual,19-09-2024 00:00,Forgot to cancel trial,16.7,862,53,1,Aditya,India,Gujarat,Male,17-04-1970 00:00,N,30,2,Medium,366
+1097-YNFQG,27-11-2021 00:00,Refferal,27-11-2022 00:00,Premium,Annual,,,21.61,647,39,0,Mira,India,Tamil Nadu,Female,13-06-1975 00:00,,,0,Low,365
+1098-PBAEM,03-01-2021 00:00,Paid,03-01-2022 00:00,Standard,Monthly,,,12.91,716,45,0,Meera,India,Telangana,Female,02-09-1976 00:00,,,0,Low,365
+1099-AEDVV,05-12-2022 00:00,Organic,05-12-2023 00:00,Premium,Annual,,,21.78,1015,38,0,Raghav,India,Maharashtra,Male,27-10-1985 00:00,,,0,Low,365
+1100-FBQQQ,19-11-2020 00:00,Paid,19-11-2021 00:00,Standard,Monthly,,,14.67,947,77,0,Aditi,India,Uttar Pradesh,Female,08-08-1998 00:00,N,70,1,High,365
+1101-JCYLU,03-01-2019 00:00,Paid,03-01-2020 00:00,Standard,Monthly,,,12.17,758,46,0,Kunal,India,Maharashtra,Male,18-08-1997 00:00,,,0,Low,365
+1102-KCXXZ,09-07-2020 00:00,Organic,09-07-2021 00:00,Standard,Monthly,12-12-2020 00:00,Poor streaming quality,15.33,824,55,1,Omkar,India,Maharashtra,Male,09-05-1987 00:00,N,70,1,Medium,365
+1103-WKWLL,23-12-2021 00:00,Paid,23-12-2022 00:00,Standard,Annual,,,16.8,792,37,0,Raghav,India,Delhi,Male,11-08-1982 00:00,,,0,Low,365
+1104-JYEZE,05-08-2024 00:00,Paid,05-08-2025 00:00,Standard,Monthly,,,13.55,1022,53,0,Saurabh,India,Goa,Male,26-08-1983 00:00,,,0,Medium,365
+1105-ZMKNY,22-11-2020 00:00,Organic,22-11-2021 00:00,Standard,Annual,,,15.81,1093,66,0,Mansi,India,Maharashtra,Female,26-12-1993 00:00,,,0,Medium,365
+1106-UZLAG,04-08-2019 00:00,Organic,04-08-2020 00:00,Basic,Annual,,,8.04,541,57,0,Saurabh,India,Nagaland,Male,19-11-1999 00:00,,,0,Medium,366
+1107-JUNJC,24-03-2024 00:00,Organic,24-03-2025 00:00,Basic,Monthly,,,8.7,698,47,0,Meera,India,Maharashtra,Female,04-12-1972 00:00,,,0,Low,365
+1108-KERLA,19-02-2024 00:00,Organic,19-02-2025 00:00,Basic,Annual,,,9.3,944,23,0,Saurabh,India,Uttar Pradesh,Male,23-01-1994 00:00,,,0,Low,366
+1109-WNRQQ,08-02-2021 00:00,Paid,08-02-2022 00:00,Basic,Monthly,,,5.99,673,25,0,Yash,India,Nagaland,Male,06-10-1999 00:00,,,0,Low,365
+1110-KERSR,16-01-2021 00:00,Refferal,16-01-2022 00:00,Basic,Annual,,,9.73,704,56,0,Varun,India,Maharashtra,Male,06-03-1988 00:00,,,0,Medium,365
+1111-KWMBA,04-09-2023 00:00,Paid,04-09-2024 00:00,Standard,Monthly,,,13.96,750,38,0,Raghav,India,Maharashtra,Male,10-09-1984 00:00,,,0,Low,366
+1112-ULFLT,07-04-2019 00:00,Organic,07-04-2020 00:00,Premium,Annual,,,19.5,936,76,0,Raghav,India,Kerala,Male,09-08-1972 00:00,Y,20,1,High,366
+1113-JGNHS,28-05-2019 00:00,Organic,28-05-2020 00:00,Standard,Annual,08-12-2019 00:00,Too expensive,12.17,835,40,1,Avni,India,Karnataka,Female,27-11-2002 00:00,,,0,Low,366
+1114-MPGKL,28-01-2023 00:00,Paid,28-01-2024 00:00,Premium,Annual,,,19.75,1034,38,0,Omkar,India,Telangana,Male,12-12-1987 00:00,,,0,Low,365
+1115-BNFLF,02-01-2024 00:00,Organic,02-01-2025 00:00,Basic,Annual,21-04-2024 00:00,Poor streaming quality,8.53,460,30,1,Meera,India,Tamil Nadu,Female,19-09-1991 00:00,,,0,Low,366
+1116-LZXXH,24-05-2024 00:00,Paid,24-05-2025 00:00,Standard,Monthly,,,14.5,265,25,0,Sneha,India,Uttar Pradesh,Female,12-02-1986 00:00,,,0,Low,365
+1117-DFSAS,12-06-2019 00:00,Paid,12-06-2020 00:00,Premium,Monthly,,,19.41,725,60,0,Akash,India,Gujarat,Male,08-02-2000 00:00,,,0,Medium,366
+1118-DNARL,13-12-2023 00:00,Paid,13-12-2024 00:00,Standard,Monthly,24-02-2024 00:00,Too expensive,17.24,816,78,1,Kunal,India,Madhya Pradesh,Male,03-04-1998 00:00,,,0,High,366
+1119-QUSWR,13-08-2020 00:00,Paid,13-08-2021 00:00,Basic,Monthly,,,7.95,649,29,0,Ananya,India,Telangana,Female,24-04-2002 00:00,,,0,Low,365
+1120-YDWPJ,02-01-2020 00:00,Organic,02-01-2021 00:00,Premium,Monthly,,,20.35,925,69,0,Manish,India,Goa,Male,19-01-1974 00:00,,,0,Medium,366
+1121-KRNDC,24-07-2024 00:00,Organic,24-07-2025 00:00,Premium,Monthly,,,22.13,689,97,0,Aniket,India,Madhya Pradesh,Male,11-09-1979 00:00,,,0,High,365
+1122-BRREA,25-12-2020 00:00,Organic,25-12-2021 00:00,Premium,Annual,,,21.87,776,69,0,Aarav,India,Maharashtra,Male,17-09-1992 00:00,,,0,Medium,365
+1123-NGZRM,17-12-2020 00:00,Organic,17-12-2021 00:00,Basic,Annual,21-07-2021 00:00,Poor streaming quality,8.48,679,42,1,Priya,India,Rajasthan,Female,06-06-1980 00:00,N,60,3,Low,365
+1124-SBFNB,10-04-2021 00:00,Paid,10-04-2022 00:00,Standard,Monthly,,,12.29,792,59,0,Sneha,India,Kerala,Female,11-05-1988 00:00,,,0,Medium,365
+1125-UEXUF,28-07-2024 00:00,Organic,28-07-2025 00:00,Standard,Monthly,,,17.18,1162,78,0,Akash,India,Maharashtra,Male,21-06-2004 00:00,,,0,High,365
+1126-ZDGBF,19-10-2019 00:00,Organic,19-10-2020 00:00,Basic,Annual,27-04-2020 00:00,Poor streaming quality,6.3,560,62,1,Nandini,India,Rajasthan,Female,04-10-1975 00:00,,,0,Medium,366
+1127-HGBEU,10-08-2020 00:00,Organic,10-08-2021 00:00,Standard,Annual,,,18.81,603,29,0,Kunal,India,Maharashtra,Male,11-08-1998 00:00,,,0,Low,365
+1128-QFWDT,24-09-2022 00:00,Organic,24-09-2023 00:00,Standard,Monthly,,,12.67,442,7,0,Shreya,India,Telangana,Female,27-05-1989 00:00,,,0,Low,365
+1129-UFEKS,04-06-2019 00:00,Organic,04-06-2020 00:00,Basic,Monthly,,,6.32,612,53,0,Harsh,India,Uttar Pradesh,Male,03-01-1974 00:00,,,0,Medium,366
+1130-ASEFE,18-07-2022 00:00,Organic,18-07-2023 00:00,Standard,Monthly,13-05-2023 00:00,Too expensive,18.12,811,77,1,Tanvi,India,Kerala,Female,20-10-1972 00:00,,,0,High,365
+1131-VZUJP,08-10-2021 00:00,Organic,08-10-2022 00:00,Basic,Annual,,,6.01,238,53,0,Nandini,India,Madhya Pradesh,Female,13-06-2002 00:00,,,0,Medium,365
+1132-QFDFF,26-06-2023 00:00,Paid,26-06-2024 00:00,Standard,Monthly,,,18.02,676,86,0,Arjun,India,Uttar Pradesh,Male,27-06-1994 00:00,,,0,High,366
+1133-DYWVZ,01-08-2023 00:00,Paid,01-08-2024 00:00,Basic,Annual,29-11-2023 00:00,Not enough content,5.99,380,76,1,Pooja,India,Rajasthan,Female,08-01-1975 00:00,N,90,2,High,366
+1134-CHDDY,23-12-2021 00:00,Organic,23-12-2022 00:00,Basic,Monthly,,,10.71,537,13,0,Meera,India,Maharashtra,Female,22-04-1992 00:00,,,0,Low,365
+1135-UPEHV,21-03-2021 00:00,Paid,21-03-2022 00:00,Premium,Monthly,,,21,1093,66,0,Harsh,India,Maharashtra,Male,11-03-2001 00:00,,,0,Medium,365
+1136-GFBGC,04-07-2023 00:00,Paid,04-07-2024 00:00,Premium,Annual,,,22.36,761,32,0,Rohan,India,Nagaland,Male,14-03-1996 00:00,,,0,Low,366
+1137-VAAGC,16-10-2023 00:00,Paid,16-10-2024 00:00,Standard,Monthly,,,14.25,827,70,0,Pooja,India,Kerala,Female,03-12-1980 00:00,N,90,1,High,366
+1138-YNRHC,27-05-2019 00:00,Organic,27-05-2020 00:00,Standard,Annual,21-09-2019 00:00,Not enough content,11.52,1040,12,1,Avni,India,Telangana,Female,02-03-2001 00:00,,,0,Low,366
+1139-CUMXG,09-08-2022 00:00,Organic,09-08-2023 00:00,Basic,Monthly,,,8.72,885,32,0,Pooja,India,Nagaland,Female,06-06-1994 00:00,,,0,Low,365
+1140-JNZQP,13-02-2021 00:00,Paid,13-02-2022 00:00,Premium,Annual,,,21.24,1141,84,0,Pallavi,India,Meghalaya,Female,28-11-2004 00:00,,,0,High,365
+1141-QCUEZ,11-05-2023 00:00,Organic,11-05-2024 00:00,Premium,Annual,30-12-2023 00:00,Forgot to cancel trial,25.52,888,94,1,Siddharth,India,Maharashtra,Male,22-02-1997 00:00,Y,100,1,High,366
+1142-NLKDQ,21-07-2021 00:00,Organic,21-07-2022 00:00,Standard,Annual,01-11-2021 00:00,Forgot to cancel trial,16.13,1083,62,1,Vivek,India,Telangana,Male,28-05-1976 00:00,,,0,Medium,365
+1143-AXHFT,24-05-2020 00:00,Organic,24-05-2021 00:00,Standard,Annual,,,11.87,898,63,0,Nandini,India,Maharashtra,Female,09-05-1989 00:00,,,0,Medium,365
+1144-FVTUW,01-10-2023 00:00,Organic,01-10-2024 00:00,Basic,Annual,16-11-2023 00:00,Poor streaming quality,5.99,40,14,1,Aniket,India,Tamil Nadu,Male,23-05-1974 00:00,,,0,Low,366
+1145-EJMKY,24-05-2020 00:00,Organic,24-05-2021 00:00,Premium,Monthly,11-04-2021 00:00,Too expensive,20.4,1401,78,1,Arjun,India,Nagaland,Male,28-03-1998 00:00,,,0,High,365
+1146-SGKAU,23-05-2023 00:00,Organic,23-05-2024 00:00,Premium,Annual,17-12-2023 00:00,Poor streaming quality,21.15,529,91,1,Manish,India,Madhya Pradesh,Male,26-10-1981 00:00,,,0,High,366
+1147-SVKCN,21-05-2021 00:00,Paid,21-05-2022 00:00,Basic,Monthly,,,5.99,576,51,0,Mansi,India,Uttar Pradesh,Female,22-05-1988 00:00,,,0,Medium,365
+1148-NFBWV,24-07-2022 00:00,Paid,24-07-2023 00:00,Basic,Annual,,,7.92,575,2,0,Meera,India,Gujarat,Female,16-11-1971 00:00,,,0,Low,365
+1149-NUXSN,08-02-2024 00:00,Organic,08-02-2025 00:00,Standard,Annual,,,11.12,643,63,0,Varun,India,Karnataka,Male,05-08-1976 00:00,,,0,Medium,366
+1150-HWMWQ,28-01-2022 00:00,Organic,28-01-2023 00:00,Premium,Monthly,,,18.92,716,50,0,Manish,India,Kerala,Male,28-02-2002 00:00,,,0,Medium,365
+1151-LHTUM,05-02-2022 00:00,Organic,05-02-2023 00:00,Standard,Annual,,,13.85,490,69,0,Nikhil,India,Uttar Pradesh,Male,09-08-1970 00:00,Y,60,1,Medium,365
+1152-ESRFS,10-05-2019 00:00,Paid,10-05-2020 00:00,Standard,Monthly,,,15.1,695,46,0,Riya,India,Maharashtra,Female,19-09-1994 00:00,,,0,Low,366
+1153-ZMUDX,23-06-2019 00:00,Refferal,23-06-2020 00:00,Standard,Monthly,,,13.75,627,32,0,Aditi,India,Karnataka,Female,24-04-1978 00:00,N,20,4,Low,366
+1154-CNQSL,25-04-2023 00:00,Organic,25-04-2024 00:00,Basic,Monthly,,,5.99,449,95,0,Aniket,India,Gujarat,Male,04-05-1977 00:00,N,80,1,High,366
+1155-FACCP,09-05-2022 00:00,Organic,09-05-2023 00:00,Standard,Monthly,03-11-2022 00:00,Not enough content,12.45,766,60,1,Neha,India,Goa,Female,24-02-2002 00:00,,,0,Medium,365
+1156-TCUBW,13-02-2020 00:00,Refferal,13-02-2021 00:00,Standard,Monthly,,,13.5,833,70,0,Nikhil,India,Nagaland,Male,09-10-1998 00:00,,,0,High,366
+1157-XEDTZ,01-10-2021 00:00,Paid,01-10-2022 00:00,Premium,Annual,,,19.82,835,43,0,Vivek,India,Meghalaya,Male,22-10-2000 00:00,,,0,Low,365
+1158-XLBRA,21-11-2024 00:00,Paid,21-11-2025 00:00,Standard,Annual,,,8.93,695,16,0,Nikhil,India,Telangana,Male,22-07-1976 00:00,,,0,Low,365
+1159-DWWWB,15-02-2020 00:00,Organic,15-02-2021 00:00,Standard,Monthly,,,17.61,835,50,0,Meera,India,Karnataka,Female,17-01-1987 00:00,,,0,Medium,366
+1160-TAKAP,27-01-2021 00:00,Paid,27-01-2022 00:00,Basic,Monthly,,,8.67,755,99,0,Pranav,India,Bihar,Male,18-09-1989 00:00,,,0,High,365
+1161-TCUFJ,20-05-2019 00:00,Refferal,20-05-2020 00:00,Basic,Monthly,24-09-2019 00:00,Not enough content,7.71,151,28,1,Mansi,India,Telangana,Female,06-01-1976 00:00,,,0,Low,366
+1162-YWQUL,06-10-2024 00:00,Organic,06-10-2025 00:00,Standard,Monthly,,,14.44,643,38,0,Manish,India,Maharashtra,Male,14-09-1973 00:00,,,0,Low,365
+1163-KZXUG,28-09-2024 00:00,Paid,28-09-2025 00:00,Basic,Annual,,,6.57,744,20,0,Riya,India,Rajasthan,Female,14-03-1978 00:00,,,0,Low,365
+1164-SYDTZ,27-12-2024 00:00,Organic,27-12-2025 00:00,Standard,Annual,21-03-2025 00:00,Switched to competitor,15.93,987,47,1,Aniket,India,Telangana,Male,04-12-1990 00:00,N,30,1,Low,365
+1165-SDBUE,26-09-2020 00:00,Paid,26-09-2021 00:00,Premium,Annual,09-05-2021 00:00,Poor streaming quality,21.16,1156,37,1,Yash,India,Tamil Nadu,Male,28-10-1976 00:00,,,0,Low,365
+1166-SZBTE,06-08-2021 00:00,Refferal,06-08-2022 00:00,Premium,Monthly,,,22.18,678,38,0,Isha,India,Madhya Pradesh,Female,18-10-1993 00:00,N,100,1,Low,365
+1167-AMYAY,17-06-2024 00:00,Organic,17-06-2025 00:00,Basic,Monthly,,,6.06,633,18,0,Pranav,India,Tamil Nadu,Male,26-08-1989 00:00,,,0,Low,365
+1168-CFFHJ,20-10-2024 00:00,Refferal,20-10-2025 00:00,Basic,Monthly,,,12.19,875,17,0,Pranav,India,Telangana,Male,22-02-1970 00:00,,,0,Low,365
+1169-GTANU,01-09-2023 00:00,Paid,01-09-2024 00:00,Standard,Monthly,05-05-2024 00:00,Switched to competitor,12.56,459,47,1,Sakshi,India,Maharashtra,Female,17-06-1982 00:00,,,0,Low,366
+1170-XTLVB,03-09-2021 00:00,Organic,03-09-2022 00:00,Standard,Monthly,,,12.09,560,57,0,Aarav,India,Rajasthan,Male,03-01-1991 00:00,,,0,Medium,365
+1171-ASNRQ,13-07-2022 00:00,Organic,13-07-2023 00:00,Premium,Monthly,28-02-2023 00:00,Forgot to cancel trial,21.59,772,60,1,Aditya,India,Nagaland,Male,10-02-2002 00:00,,,0,Medium,365
+1172-HXZWR,24-04-2021 00:00,Organic,24-04-2022 00:00,Standard,Annual,,,11.99,922,34,0,Varun,India,Kerala,Male,02-02-1979 00:00,,,0,Low,365
+1173-EQGCS,19-12-2020 00:00,Organic,19-12-2021 00:00,Standard,Monthly,,,15.09,590,33,0,Varun,India,Rajasthan,Male,22-05-1974 00:00,,,0,Low,365
+1174-XHLQH,24-12-2020 00:00,Organic,24-12-2021 00:00,Standard,Monthly,,,15.64,788,17,0,Harsh,India,Telangana,Male,06-07-1990 00:00,,,0,Low,365
+1175-LUMCR,21-09-2019 00:00,Organic,21-09-2020 00:00,Basic,Annual,,,6.53,438,55,0,Madhav,India,Kerala,Male,07-09-1978 00:00,,,0,Medium,366
+1176-PZMUJ,17-06-2022 00:00,Refferal,17-06-2023 00:00,Basic,Monthly,,,5.99,521,12,0,Harsh,India,Gujarat,Male,15-03-1988 00:00,,,0,Low,365
+1177-DDPPW,08-06-2021 00:00,Refferal,08-06-2022 00:00,Basic,Monthly,,,8.56,664,29,0,Manish,India,Madhya Pradesh,Male,25-04-1972 00:00,,,0,Low,365
+1178-BZHSN,13-05-2023 00:00,Organic,13-05-2024 00:00,Premium,Monthly,,,17.33,521,60,0,Mira,India,Uttar Pradesh,Female,21-07-1981 00:00,,,0,Medium,366
+1179-XAXLF,04-12-2021 00:00,Organic,04-12-2022 00:00,Standard,Monthly,01-08-2022 00:00,Switched to competitor,12.56,425,57,1,Ananya,India,Maharashtra,Female,20-06-1980 00:00,N,20,1,Medium,365
+1180-DDYNK,20-07-2020 00:00,Paid,20-07-2021 00:00,Basic,Annual,,,7.14,413,68,0,Raghav,India,Goa,Male,20-08-1983 00:00,,,0,Medium,365
+1181-SYQBK,20-08-2020 00:00,Paid,20-08-2021 00:00,Standard,Annual,,,15.83,677,25,0,Vivek,India,Maharashtra,Male,22-09-2003 00:00,,,0,Low,365
+1182-XNAYS,19-06-2022 00:00,Refferal,19-06-2023 00:00,Premium,Annual,,,24.16,827,2,0,Pallavi,India,Meghalaya,Female,17-12-1972 00:00,,,0,Low,365
+1183-UXCQP,07-11-2022 00:00,Organic,07-11-2023 00:00,Standard,Monthly,02-10-2023 00:00,Not enough content,15.26,715,51,1,Ananya,India,Maharashtra,Female,17-10-1970 00:00,,,0,Medium,365
+1184-PQZKE,28-03-2024 00:00,Organic,28-03-2025 00:00,Premium,Monthly,,,19.66,1127,63,0,Pooja,India,Nagaland,Female,10-05-2000 00:00,,,0,Medium,365
+1185-NUVQS,09-02-2019 00:00,Organic,09-02-2020 00:00,Basic,Monthly,,,10.56,831,55,0,Rahul,India,Meghalaya,Male,27-02-1970 00:00,,,0,Medium,365
+1186-NTQYV,22-03-2023 00:00,Organic,22-03-2024 00:00,Basic,Monthly,09-09-2023 00:00,Poor streaming quality,7.08,403,38,1,Tanvi,India,Maharashtra,Female,07-05-2003 00:00,,,0,Low,366
+1187-QNTBC,19-07-2022 00:00,Paid,19-07-2023 00:00,Basic,Monthly,,,8.86,619,43,0,Mansi,India,Madhya Pradesh,Female,27-06-1992 00:00,,,0,Low,365
+1188-CNGNV,16-01-2023 00:00,Paid,16-01-2024 00:00,Basic,Monthly,,,12.56,685,73,0,Tanvi,India,Bihar,Female,25-04-2000 00:00,,,0,High,365
+1189-HYNAV,19-04-2021 00:00,Paid,19-04-2022 00:00,Basic,Annual,,,10.63,252,35,0,Raghav,India,Maharashtra,Male,18-02-1991 00:00,,,0,Low,365
+1190-TWEEF,20-06-2022 00:00,Refferal,20-06-2023 00:00,Basic,Annual,,,5.99,376,2,0,Neha,India,West Bengal,Female,22-02-1977 00:00,,,0,Low,365
+1191-UNKUD,17-12-2019 00:00,Organic,17-12-2020 00:00,Standard,Annual,08-11-2020 00:00,Switched to competitor,14.03,706,86,1,Sakshi,India,Madhya Pradesh,Female,12-09-1972 00:00,,,0,High,366
+1192-GPFMQ,06-08-2021 00:00,Paid,06-08-2022 00:00,Standard,Annual,,,13.51,397,70,0,Pooja,India,Rajasthan,Female,23-07-1983 00:00,,,0,High,365
+1193-PWEVT,09-05-2022 00:00,Organic,09-05-2023 00:00,Standard,Monthly,,,14.51,278,73,0,Aditi,India,Karnataka,Female,28-03-2001 00:00,,,0,High,365
+1194-MRLJJ,11-06-2021 00:00,Paid,11-06-2022 00:00,Standard,Monthly,,,16.51,662,66,0,Nandini,India,Maharashtra,Female,28-06-1977 00:00,,,0,Medium,365
+1195-RDEVJ,13-11-2023 00:00,Refferal,13-11-2024 00:00,Basic,Monthly,08-10-2024 00:00,Forgot to cancel trial,9.38,745,99,1,Sneha,India,Maharashtra,Female,11-04-1991 00:00,,,0,High,366
+1196-EATRY,25-09-2022 00:00,Paid,25-09-2023 00:00,Premium,Monthly,12-05-2023 00:00,Not enough content,21.54,618,54,1,Siddharth,India,Maharashtra,Male,03-02-1976 00:00,,,0,Medium,365
+1197-LDNEA,06-09-2024 00:00,Paid,06-09-2025 00:00,Standard,Monthly,,,15.82,757,39,0,Meera,India,Kerala,Female,09-09-1999 00:00,,,0,Low,365
+1198-NXMFC,16-05-2021 00:00,Paid,16-05-2022 00:00,Standard,Annual,,,12.94,670,62,0,Nandini,India,Meghalaya,Female,01-05-1979 00:00,,,0,Medium,365
+1199-VQVPE,17-04-2024 00:00,Paid,17-04-2025 00:00,Premium,Annual,,,23.27,799,45,0,Shreya,India,Karnataka,Female,08-07-1994 00:00,,,0,Low,365
+1200-VKWEG,06-01-2023 00:00,Organic,06-01-2024 00:00,Premium,Monthly,,,18.84,655,51,0,Kritika,India,Rajasthan,Female,11-04-2001 00:00,,,0,Medium,365
+1201-AFLUM,18-02-2022 00:00,Refferal,18-02-2023 00:00,Standard,Monthly,,,15.66,1081,34,0,Tanvi,India,Gujarat,Female,03-06-1972 00:00,,,0,Low,365
+1202-UFULT,11-05-2024 00:00,Paid,11-05-2025 00:00,Basic,Annual,,,10.97,843,54,0,Siddharth,India,Rajasthan,Male,22-09-1976 00:00,,,0,Medium,365
+1203-HJBSZ,19-01-2019 00:00,Paid,19-01-2020 00:00,Premium,Monthly,,,19.29,321,36,0,Akash,India,Delhi,Male,19-05-1980 00:00,,,0,Low,365
+1204-CQYZR,25-11-2023 00:00,Paid,25-11-2024 00:00,Basic,Annual,05-07-2024 00:00,Not enough content,11.28,704,60,1,Yash,India,Uttar Pradesh,Male,05-02-2004 00:00,,,0,Medium,366
+1205-ASPPM,15-03-2023 00:00,Organic,15-03-2024 00:00,Basic,Monthly,29-12-2023 00:00,Poor streaming quality,8.61,1059,24,1,Varun,India,Delhi,Male,28-05-1999 00:00,,,0,Low,366
+1206-QJQHB,11-11-2022 00:00,Organic,11-11-2023 00:00,Basic,Monthly,,,8.27,587,52,0,Ananya,India,Telangana,Female,05-09-2001 00:00,,,0,Medium,365
+1207-EMCPW,16-11-2020 00:00,Organic,16-11-2021 00:00,Premium,Annual,,,22.05,727,59,0,Pallavi,India,Uttar Pradesh,Female,12-01-1986 00:00,,,0,Medium,365
+1208-XVVBQ,07-07-2023 00:00,Paid,07-07-2024 00:00,Basic,Annual,,,9.03,829,88,0,Aditya,India,Tamil Nadu,Male,17-04-1974 00:00,,,0,High,366
+1209-TUPSS,15-10-2023 00:00,Paid,15-10-2024 00:00,Premium,Annual,,,24.5,1110,45,0,Kavya,India,Maharashtra,Female,13-09-1981 00:00,,,0,Low,366
+1210-RVHFP,10-01-2024 00:00,Refferal,10-01-2025 00:00,Standard,Monthly,11-07-2024 00:00,Too expensive,13.71,791,57,1,Mansi,India,Madhya Pradesh,Female,15-06-1986 00:00,,,0,Medium,366
+1211-UYVYN,26-05-2020 00:00,Paid,26-05-2021 00:00,Basic,Monthly,03-08-2020 00:00,Not enough content,5.99,504,88,1,Vivek,India,Maharashtra,Male,05-03-1992 00:00,Y,25,2,High,365
+1212-BBUJV,17-05-2019 00:00,Organic,17-05-2020 00:00,Basic,Monthly,,,7.05,155,26,0,Kavya,India,Kerala,Female,21-12-1984 00:00,N,70,2,Low,366
+1213-UDJMT,16-04-2023 00:00,Paid,16-04-2024 00:00,Standard,Monthly,,,15.8,553,60,0,Mira,India,Maharashtra,Female,25-07-2002 00:00,,,0,Medium,366
+1214-GLSPC,20-06-2020 00:00,Paid,20-06-2021 00:00,Premium,Annual,,,18.14,1375,49,0,Diya,India,Nagaland,Female,12-06-1982 00:00,,,0,Low,365
+1215-SDTCT,11-01-2022 00:00,Organic,11-01-2023 00:00,Basic,Monthly,,,7.42,425,15,0,Pranav,India,Madhya Pradesh,Male,11-01-1988 00:00,,,0,Low,365
+1216-TDSAP,01-11-2022 00:00,Paid,01-11-2023 00:00,Basic,Annual,,,7.39,481,2,0,Madhav,India,Maharashtra,Male,26-04-1988 00:00,,,0,Low,365
+1217-HXKZN,01-12-2023 00:00,Organic,01-12-2024 00:00,Basic,Annual,,,7.48,912,58,0,Nikhil,India,Rajasthan,Male,06-02-2004 00:00,N,40,2,Medium,366
+1218-XVAPG,19-04-2022 00:00,Refferal,19-04-2023 00:00,Basic,Annual,,,10.47,428,35,0,Nikhil,India,Madhya Pradesh,Male,24-02-1978 00:00,,,0,Low,365
+1219-DNVWH,24-09-2023 00:00,Refferal,24-09-2024 00:00,Basic,Monthly,,,13.65,821,51,0,Akash,India,Bihar,Male,19-11-1979 00:00,,,0,Medium,366
+1220-KKLYX,08-04-2023 00:00,Paid,08-04-2024 00:00,Standard,Monthly,,,13.94,693,63,0,Neha,India,West Bengal,Female,06-03-1976 00:00,,,0,Medium,366
+1221-TJWMD,15-03-2019 00:00,Organic,15-03-2020 00:00,Premium,Monthly,,,19.73,736,49,0,Arjun,India,Maharashtra,Male,14-05-1970 00:00,,,0,Low,366
+1222-BTKHQ,18-01-2024 00:00,Refferal,18-01-2025 00:00,Standard,Annual,29-09-2024 00:00,Poor streaming quality,12.79,850,31,1,Aniket,India,Maharashtra,Male,08-01-1999 00:00,,,0,Low,366
+1223-GDHYS,18-12-2023 00:00,Organic,18-12-2024 00:00,Basic,Monthly,14-11-2024 00:00,Too expensive,7.43,131,84,1,Saurabh,India,Tamil Nadu,Male,24-02-1998 00:00,Y,30,1,High,366
+1224-TCSRC,28-10-2021 00:00,Refferal,28-10-2022 00:00,Standard,Monthly,23-12-2021 00:00,Poor streaming quality,16.39,324,84,1,Pallavi,India,Uttar Pradesh,Female,18-07-1980 00:00,,,0,High,365
+1225-ZGEXZ,08-08-2023 00:00,Organic,08-08-2024 00:00,Basic,Annual,,,7.24,286,33,0,Pranav,India,West Bengal,Male,16-08-1970 00:00,N,20,3,Low,366
+1226-PQHCC,11-05-2019 00:00,Organic,11-05-2020 00:00,Standard,Monthly,,,12.28,1002,30,0,Rahul,India,Gujarat,Male,24-08-1981 00:00,,,0,Low,366
+1227-DSGNN,09-06-2023 00:00,Organic,09-06-2024 00:00,Standard,Annual,22-04-2024 00:00,Poor streaming quality,16.05,921,77,1,Pranav,India,Maharashtra,Male,16-02-2003 00:00,,,0,High,366
+1228-MEQTZ,12-06-2019 00:00,Organic,12-06-2020 00:00,Standard,Annual,03-12-2019 00:00,Not enough content,11.51,834,35,1,Vivek,India,Maharashtra,Male,28-12-1977 00:00,,,0,Low,366
+1229-NHASJ,21-03-2022 00:00,Refferal,21-03-2023 00:00,Standard,Annual,,,11.3,702,64,0,Rahul,India,Karnataka,Male,16-11-1991 00:00,,,0,Medium,365
+1230-BNPSP,21-07-2021 00:00,Paid,21-07-2022 00:00,Standard,Monthly,18-10-2021 00:00,Not enough content,13.17,856,75,1,Siddharth,India,Uttar Pradesh,Male,03-06-1991 00:00,N,40,1,High,365
+1231-LYFHC,16-06-2020 00:00,Paid,16-06-2021 00:00,Standard,Monthly,04-09-2020 00:00,Forgot to cancel trial,13.2,571,85,1,Siddharth,India,Madhya Pradesh,Male,01-09-1998 00:00,N,90,2,High,365
+1232-WWHXC,18-05-2021 00:00,Organic,18-05-2022 00:00,Basic,Monthly,04-11-2021 00:00,Switched to competitor,9.35,389,63,1,Aditi,India,Uttar Pradesh,Female,07-11-1989 00:00,,,0,Medium,365
+1233-NEJHD,01-03-2019 00:00,Organic,01-03-2020 00:00,Standard,Annual,04-11-2019 00:00,Poor streaming quality,14.71,766,19,1,Avni,India,Karnataka,Female,20-05-1974 00:00,,,0,Low,366
+1234-QWSQH,22-05-2022 00:00,Organic,22-05-2023 00:00,Standard,Annual,,,13.58,751,35,0,Varun,India,Maharashtra,Male,05-10-1999 00:00,,,0,Low,365
+1235-GJEYH,25-05-2020 00:00,Paid,25-05-2021 00:00,Basic,Monthly,,,6.44,254,20,0,Tanvi,India,Rajasthan,Female,04-08-1974 00:00,,,0,Low,365
+1236-PBHMQ,14-10-2024 00:00,Paid,14-10-2025 00:00,Premium,Monthly,,,22.32,1109,35,0,Pranav,India,Karnataka,Male,13-08-1980 00:00,,,0,Low,365
+1237-BYPMQ,25-10-2024 00:00,Paid,25-10-2025 00:00,Premium,Monthly,15-03-2025 00:00,Too expensive,16.41,1021,99,1,Meera,India,Telangana,Female,10-03-1998 00:00,,,0,High,365
+1238-RADDN,12-12-2022 00:00,Paid,12-12-2023 00:00,Premium,Annual,,,20.78,1212,44,0,Kritika,India,Uttar Pradesh,Female,22-04-1982 00:00,,,0,Low,365
+1239-BXZAP,13-07-2024 00:00,Paid,13-07-2025 00:00,Standard,Monthly,,,13.91,608,84,0,Kavya,India,Kerala,Female,14-04-1971 00:00,,,0,High,365
+1240-YWDZS,21-03-2019 00:00,Refferal,21-03-2020 00:00,Premium,Annual,,,21.32,1205,45,0,Aarav,India,Maharashtra,Male,24-03-1971 00:00,,,0,Low,366
+1241-LLVKF,12-10-2023 00:00,Paid,12-10-2024 00:00,Basic,Monthly,,,8.67,338,13,0,Kritika,India,Maharashtra,Female,08-12-2001 00:00,,,0,Low,366
+1242-BTNWU,18-11-2024 00:00,Organic,18-11-2025 00:00,Premium,Monthly,23-12-2024 00:00,Poor streaming quality,22.63,915,65,1,Tanvi,India,Telangana,Female,03-10-2003 00:00,,,0,Medium,365
+1243-PHJZH,19-08-2024 00:00,Refferal,19-08-2025 00:00,Basic,Monthly,,,8.03,474,57,0,Rohan,India,Gujarat,Male,26-12-1989 00:00,,,0,Medium,365
+1244-BNWGD,12-08-2024 00:00,Paid,12-08-2025 00:00,Premium,Monthly,,,19.28,875,69,0,Mira,India,Kerala,Female,04-12-1970 00:00,,,0,Medium,365
+1245-JCDYD,09-11-2019 00:00,Organic,09-11-2020 00:00,Premium,Monthly,,,21.89,1012,22,0,Diya,India,West Bengal,Female,15-11-1985 00:00,,,0,Low,366
+1246-UNKSM,02-11-2023 00:00,Organic,02-11-2024 00:00,Basic,Monthly,,,9.03,778,55,0,Aniket,India,Kerala,Male,26-05-1970 00:00,,,0,Medium,366
+1247-GGVGQ,27-01-2024 00:00,Paid,27-01-2025 00:00,Basic,Monthly,,,11.65,266,76,0,Isha,India,Gujarat,Female,11-09-1982 00:00,,,0,High,366
+1248-GAQBQ,19-11-2024 00:00,Organic,19-11-2025 00:00,Premium,Monthly,18-05-2025 00:00,Poor streaming quality,18.17,937,47,1,Pranav,India,Uttar Pradesh,Male,28-02-1977 00:00,N,60,1,Low,365
+1249-DBUKH,06-07-2023 00:00,Paid,06-07-2024 00:00,Standard,Monthly,,,15.13,839,42,0,Madhav,India,Goa,Male,15-03-1986 00:00,,,0,Low,366
+1250-LGABT,23-03-2021 00:00,Organic,23-03-2022 00:00,Basic,Monthly,,,6.33,288,35,0,Aditi,India,Madhya Pradesh,Female,21-11-1979 00:00,,,0,Low,365
+1251-KTVBF,03-11-2024 00:00,Organic,03-11-2025 00:00,Standard,Annual,,,11.96,577,16,0,Sakshi,India,Maharashtra,Female,11-06-2004 00:00,,,0,Low,365
+1252-EPZRH,01-04-2019 00:00,Paid,01-04-2020 00:00,Standard,Annual,01-02-2020 00:00,Not enough content,16.31,1263,29,1,Kavya,India,Uttar Pradesh,Female,03-08-1992 00:00,,,0,Low,366
+1253-VZAJJ,24-01-2019 00:00,Organic,24-01-2020 00:00,Basic,Annual,,,9.08,294,46,0,Omkar,India,Maharashtra,Male,22-08-2003 00:00,,,0,Low,365
+1254-DEBHV,11-07-2020 00:00,Paid,11-07-2021 00:00,Premium,Annual,,,22.53,1319,43,0,Kritika,India,Maharashtra,Female,04-02-1974 00:00,,,0,Low,365
+1255-DWVUQ,02-10-2020 00:00,Paid,02-10-2021 00:00,Basic,Annual,,,13.62,776,42,0,Sneha,India,Maharashtra,Female,06-07-1979 00:00,,,0,Low,365
+1256-BAYSQ,14-08-2023 00:00,Paid,14-08-2024 00:00,Basic,Monthly,,,6.44,854,52,0,Diya,India,Gujarat,Female,05-12-2000 00:00,,,0,Medium,366
+1257-CVHLP,22-11-2022 00:00,Organic,22-11-2023 00:00,Basic,Monthly,21-08-2023 00:00,Poor streaming quality,6.61,562,91,1,Vivek,India,Bihar,Male,12-10-1976 00:00,,,0,High,365
+1258-BRGLJ,03-02-2023 00:00,Paid,03-02-2024 00:00,Premium,Annual,14-06-2023 00:00,Not enough content,19.75,908,71,1,Priya,India,Maharashtra,Female,06-09-1973 00:00,N,40,1,High,365
+1259-XBQBL,11-04-2021 00:00,Organic,11-04-2022 00:00,Basic,Annual,,,9.36,549,5,0,Pranav,India,Rajasthan,Male,05-06-1994 00:00,,,0,Low,365
+1260-EJXQU,27-08-2023 00:00,Organic,27-08-2024 00:00,Standard,Monthly,,,13.45,713,54,0,Harsh,India,Bihar,Male,14-02-1984 00:00,,,0,Medium,366
+1261-FYYXX,16-07-2023 00:00,Organic,16-07-2024 00:00,Premium,Annual,,,21.38,742,23,0,Priya,India,Maharashtra,Female,25-12-2000 00:00,,,0,Low,366
+1262-SKFJF,28-03-2022 00:00,Refferal,28-03-2023 00:00,Standard,Monthly,,,15.33,1048,68,0,Aarav,India,Rajasthan,Male,23-03-1989 00:00,Y,60,1,Medium,365
+1263-ALGYP,12-07-2019 00:00,Organic,12-07-2020 00:00,Standard,Monthly,,,15.82,859,66,0,Aditya,India,Uttar Pradesh,Male,02-12-1991 00:00,,,0,Medium,366
+1264-UDJNR,12-06-2019 00:00,Refferal,12-06-2020 00:00,Standard,Monthly,,,10.34,657,65,0,Arjun,India,Delhi,Male,22-09-1987 00:00,,,0,Medium,366
+1265-XLJSS,06-02-2019 00:00,Paid,06-02-2020 00:00,Basic,Annual,,,8.59,368,15,0,Siddharth,India,Kerala,Male,03-02-1999 00:00,,,0,Low,365
+1266-HZNDJ,11-10-2022 00:00,Paid,11-10-2023 00:00,Standard,Annual,,,16.31,927,50,0,Aditi,India,Delhi,Female,28-01-1974 00:00,,,0,Medium,365
+1267-LPXHU,06-10-2020 00:00,Refferal,06-10-2021 00:00,Standard,Monthly,,,14.05,972,56,0,Manish,India,Nagaland,Male,05-01-1988 00:00,,,0,Medium,365
+1268-DFAHD,06-09-2022 00:00,Organic,06-09-2023 00:00,Standard,Monthly,,,12.85,706,58,0,Nandini,India,Karnataka,Female,11-11-1972 00:00,,,0,Medium,365
+1269-YDZPN,02-08-2024 00:00,Organic,02-08-2025 00:00,Basic,Monthly,,,7.03,623,42,0,Sakshi,India,Madhya Pradesh,Female,24-10-1979 00:00,,,0,Low,365
+1270-CBRQF,11-08-2020 00:00,Organic,11-08-2021 00:00,Standard,Monthly,,,12.94,487,84,0,Ananya,India,Maharashtra,Female,22-08-2004 00:00,,,0,High,365
+1271-LKAJH,24-07-2024 00:00,Paid,24-07-2025 00:00,Premium,Monthly,07-12-2024 00:00,Not enough content,20.58,1162,54,1,Mansi,India,Maharashtra,Female,14-12-1998 00:00,,,0,Medium,365
+1272-ZBZUC,18-05-2022 00:00,Organic,18-05-2023 00:00,Standard,Annual,,,14.42,463,71,0,Mira,India,Meghalaya,Female,19-12-1999 00:00,,,0,High,365
+1273-FUDHR,16-05-2019 00:00,Paid,16-05-2020 00:00,Premium,Monthly,,,21.58,1005,85,0,Kavya,India,Uttar Pradesh,Female,06-07-1988 00:00,,,0,High,366
+1274-RMSCN,09-01-2020 00:00,Refferal,09-01-2021 00:00,Standard,Annual,06-07-2020 00:00,Forgot to cancel trial,16.33,1112,36,1,Madhav,India,Maharashtra,Male,11-03-1973 00:00,N,25,1,Low,366
+1275-UPWVS,17-03-2019 00:00,Organic,17-03-2020 00:00,Basic,Annual,,,13.05,479,33,0,Mira,India,Gujarat,Female,18-02-1993 00:00,,,0,Low,366
+1276-NVVPS,23-05-2021 00:00,Refferal,23-05-2022 00:00,Standard,Annual,,,17.19,858,84,0,Akash,India,Rajasthan,Male,27-02-1974 00:00,,,0,High,365
+1277-TAVFW,25-08-2019 00:00,Organic,25-08-2020 00:00,Standard,Monthly,,,13.07,487,49,0,Arjun,India,Delhi,Male,03-03-1983 00:00,,,0,Low,366
+1278-XBHAC,09-12-2020 00:00,Organic,09-12-2021 00:00,Premium,Monthly,,,18.97,861,38,0,Pranav,India,Karnataka,Male,22-03-1982 00:00,,,0,Low,365
+1279-PCPAF,19-12-2021 00:00,Organic,19-12-2022 00:00,Basic,Annual,,,7.91,931,47,0,Raghav,India,Maharashtra,Male,24-01-2004 00:00,,,0,Low,365
+1280-NKUHM,13-02-2022 00:00,Organic,13-02-2023 00:00,Basic,Annual,,,5.99,431,64,0,Manish,India,West Bengal,Male,24-09-1988 00:00,,,0,Medium,365
+1281-GWEBW,13-03-2019 00:00,Organic,13-03-2020 00:00,Standard,Annual,,,13.88,713,63,0,Nandini,India,Karnataka,Female,04-11-2001 00:00,,,0,Medium,366
+1282-ZJQZC,09-09-2022 00:00,Organic,09-09-2023 00:00,Basic,Monthly,,,8.83,582,53,0,Sakshi,India,Delhi,Female,13-11-1987 00:00,,,0,Medium,365
+1283-ATVMA,25-09-2024 00:00,Organic,25-09-2025 00:00,Standard,Monthly,10-07-2025 00:00,Not enough content,14.63,643,99,1,Omkar,India,Uttar Pradesh,Male,10-03-1990 00:00,,,0,High,365
+1284-NAUZX,28-11-2023 00:00,Organic,28-11-2024 00:00,Premium,Annual,,,19.82,683,39,0,Omkar,India,Rajasthan,Male,15-08-1994 00:00,,,0,Low,366
+1285-UPMPN,20-07-2023 00:00,Organic,20-07-2024 00:00,Standard,Annual,16-06-2024 00:00,Switched to competitor,12.59,793,75,1,Sakshi,India,Telangana,Female,02-09-1980 00:00,,,0,High,366
+1286-VQURK,19-05-2024 00:00,Refferal,19-05-2025 00:00,Basic,Annual,12-09-2024 00:00,Switched to competitor,6.73,595,22,1,Nandini,India,Bihar,Female,02-06-1996 00:00,N,70,2,Low,365
+1287-ZKKPV,16-04-2022 00:00,Organic,16-04-2023 00:00,Standard,Annual,,,12.78,610,62,0,Siddharth,India,Delhi,Male,11-11-2002 00:00,,,0,Medium,365
+1288-HPVQY,26-06-2020 00:00,Paid,26-06-2021 00:00,Basic,Annual,28-04-2021 00:00,Not enough content,5.99,749,80,1,Harsh,India,Delhi,Male,26-10-1974 00:00,,,0,High,365
+1289-QLUEA,12-04-2023 00:00,Paid,12-04-2024 00:00,Standard,Monthly,,,12.64,861,50,0,Harsh,India,Rajasthan,Male,21-05-1999 00:00,,,0,Medium,366
+1290-WXRWG,26-04-2019 00:00,Paid,26-04-2020 00:00,Premium,Monthly,,,21.73,1410,80,0,Pooja,India,Karnataka,Female,08-07-1985 00:00,N,50,1,High,366
+1291-PRBTU,08-03-2024 00:00,Refferal,08-03-2025 00:00,Basic,Annual,,,7.6,355,23,0,Aditya,India,Delhi,Male,14-02-1989 00:00,,,0,Low,365
+1292-YGXFC,06-02-2020 00:00,Organic,06-02-2021 00:00,Basic,Monthly,,,6.38,729,49,0,Meera,India,Tamil Nadu,Female,24-12-1994 00:00,,,0,Low,366
+1293-SCPMF,08-11-2024 00:00,Paid,08-11-2025 00:00,Basic,Monthly,,,6.85,585,58,0,Neha,India,Nagaland,Female,01-05-1993 00:00,,,0,Medium,365
+1294-NFLAZ,26-07-2024 00:00,Refferal,26-07-2025 00:00,Basic,Annual,,,10.6,513,99,0,Riya,India,Maharashtra,Female,07-05-1985 00:00,,,0,High,365
+1295-WTXVV,25-01-2024 00:00,Paid,25-01-2025 00:00,Basic,Annual,,,6.91,555,69,0,Pallavi,India,Maharashtra,Female,24-10-1996 00:00,,,0,Medium,366
+1296-RHBDN,27-10-2024 00:00,Organic,27-10-2025 00:00,Basic,Monthly,15-06-2025 00:00,Poor streaming quality,12.05,758,63,1,Pranav,India,Gujarat,Male,16-08-1990 00:00,,,0,Medium,365
+1297-FYYRR,12-02-2020 00:00,Organic,12-02-2021 00:00,Basic,Monthly,,,9.29,803,75,0,Saurabh,India,Karnataka,Male,13-01-1980 00:00,,,0,High,366
+1298-VMFEY,07-11-2024 00:00,Organic,07-11-2025 00:00,Standard,Monthly,20-04-2025 00:00,Too expensive,15.11,1017,80,1,Riya,India,West Bengal,Female,14-03-1994 00:00,,,0,High,365
+1299-JSLAD,02-09-2019 00:00,Organic,02-09-2020 00:00,Basic,Annual,,,11.03,636,56,0,Shreya,India,Gujarat,Female,14-12-1994 00:00,,,0,Medium,366
+1300-VTVAN,16-09-2020 00:00,Organic,16-09-2021 00:00,Premium,Annual,14-07-2021 00:00,Poor streaming quality,21.31,563,81,1,Riya,India,Bihar,Female,18-03-1993 00:00,N,50,1,High,365
+1301-JLXGV,05-04-2019 00:00,Organic,05-04-2020 00:00,Basic,Monthly,30-12-2019 00:00,Poor streaming quality,8.8,468,40,1,Pallavi,India,Delhi,Female,24-06-1980 00:00,,,0,Low,366
+1302-MLZPL,27-09-2024 00:00,Paid,27-09-2025 00:00,Basic,Annual,,,10.8,785,49,0,Kunal,India,Maharashtra,Male,28-04-1975 00:00,,,0,Low,365
+1303-PKBUS,03-01-2020 00:00,Organic,03-01-2021 00:00,Standard,Annual,,,11,670,65,0,Aditi,India,Delhi,Female,12-07-1977 00:00,,,0,Medium,366
+1304-HBQLY,09-07-2019 00:00,Refferal,09-07-2020 00:00,Basic,Annual,22-11-2019 00:00,Too expensive,12.75,679,34,1,Siddharth,India,Kerala,Male,26-06-1988 00:00,,,0,Low,366
+1305-RYDHV,09-08-2022 00:00,Paid,09-08-2023 00:00,Standard,Monthly,,,14.54,769,95,0,Kritika,India,Maharashtra,Female,17-06-1976 00:00,,,0,High,365
+1306-LAJMF,05-05-2022 00:00,Organic,05-05-2023 00:00,Premium,Annual,08-01-2023 00:00,Not enough content,21.6,1026,67,1,Manish,India,Telangana,Male,10-02-2003 00:00,,,0,Medium,365
+1307-YNNKM,02-07-2020 00:00,Organic,02-07-2021 00:00,Basic,Annual,,,7.01,694,46,0,Nandini,India,Karnataka,Female,01-09-1975 00:00,,,0,Low,365
+1308-QGZWE,04-07-2019 00:00,Organic,04-07-2020 00:00,Basic,Annual,,,5.99,382,45,0,Aditya,India,West Bengal,Male,04-11-1986 00:00,,,0,Low,366
+1309-THVQS,16-04-2019 00:00,Organic,16-04-2020 00:00,Standard,Annual,,,16.62,843,12,0,Riya,India,Maharashtra,Female,07-01-1978 00:00,,,0,Low,366
+1310-HMMAD,27-10-2021 00:00,Organic,27-10-2022 00:00,Premium,Monthly,,,21.82,1082,98,0,Saurabh,India,Bihar,Male,28-01-2000 00:00,,,0,High,365
+1311-WTQPG,11-10-2022 00:00,Paid,11-10-2023 00:00,Standard,Monthly,,,12.77,276,99,0,Shreya,India,Rajasthan,Female,23-04-2001 00:00,,,0,High,365
+1312-RLLDT,23-12-2021 00:00,Refferal,23-12-2022 00:00,Standard,Monthly,,,9.15,446,66,0,Nandini,India,Rajasthan,Female,19-04-2002 00:00,,,0,Medium,365
+1313-ZDESC,07-04-2021 00:00,Organic,07-04-2022 00:00,Standard,Annual,27-07-2021 00:00,Too expensive,11.74,812,64,1,Neha,India,Maharashtra,Female,16-10-1980 00:00,,,0,Medium,365
+1314-ABLQC,20-09-2024 00:00,Refferal,20-09-2025 00:00,Standard,Annual,,,12.75,823,18,0,Manish,India,Karnataka,Male,25-06-1991 00:00,,,0,Low,365
+1315-CCQUY,24-08-2023 00:00,Organic,24-08-2024 00:00,Premium,Monthly,,,22.42,1051,59,0,Aniket,India,Maharashtra,Male,12-04-1977 00:00,,,0,Medium,366
+1316-ZUAWM,14-09-2020 00:00,Organic,14-09-2021 00:00,Premium,Monthly,,,18.64,957,26,0,Pallavi,India,Maharashtra,Female,23-06-1987 00:00,,,0,Low,365
+1317-NSYLU,05-11-2024 00:00,Paid,05-11-2025 00:00,Premium,Monthly,,,20.89,984,70,0,Aditya,India,Delhi,Male,14-03-1995 00:00,,,0,High,365
+1318-HKSPH,18-04-2024 00:00,Organic,18-04-2025 00:00,Standard,Annual,,,14.76,1141,19,0,Nandini,India,Maharashtra,Female,20-09-1987 00:00,,,0,Low,365
+1319-UXCNK,01-03-2024 00:00,Paid,01-03-2025 00:00,Basic,Annual,02-09-2024 00:00,Poor streaming quality,7.81,710,70,1,Aniket,India,Bihar,Male,03-04-1988 00:00,N,90,1,High,365
+1320-CUYLP,10-05-2021 00:00,Paid,10-05-2022 00:00,Standard,Annual,19-12-2021 00:00,Forgot to cancel trial,14.99,937,64,1,Saurabh,India,Delhi,Male,19-12-1985 00:00,Y,60,1,Medium,365
+1321-CTVBB,16-10-2021 00:00,Paid,16-10-2022 00:00,Standard,Annual,,,15.4,904,81,0,Manish,India,Karnataka,Male,22-06-1974 00:00,,,0,High,365
+1322-DNMLZ,04-07-2023 00:00,Organic,04-07-2024 00:00,Basic,Monthly,09-02-2024 00:00,Not enough content,9.55,986,47,1,Siddharth,India,Rajasthan,Male,06-12-1972 00:00,,,0,Low,366
+1323-MUDQB,16-07-2019 00:00,Refferal,16-07-2020 00:00,Standard,Monthly,,,12.5,658,97,0,Riya,India,Karnataka,Female,04-01-2001 00:00,,,0,High,366
+1324-QUNML,11-07-2020 00:00,Refferal,11-07-2021 00:00,Standard,Annual,,,10.84,550,50,0,Neha,India,Kerala,Female,26-02-1990 00:00,,,0,Medium,365
+1325-SPVSP,01-09-2022 00:00,Organic,01-09-2023 00:00,Basic,Annual,14-01-2023 00:00,Too expensive,9.84,612,26,1,Varun,India,Maharashtra,Male,25-10-2004 00:00,,,0,Low,365
+1326-PCNHQ,04-02-2021 00:00,Organic,04-02-2022 00:00,Premium,Monthly,20-04-2021 00:00,Too expensive,16.83,271,51,1,Aditi,India,Delhi,Female,01-07-1981 00:00,,,0,Medium,365
+1327-EQHAB,25-04-2020 00:00,Paid,25-04-2021 00:00,Standard,Monthly,,,10.51,898,76,0,Kavya,India,Delhi,Female,09-06-1996 00:00,,,0,High,365
+1328-HPBAR,15-07-2023 00:00,Organic,15-07-2024 00:00,Basic,Annual,,,8.93,525,19,0,Madhav,India,Telangana,Male,25-04-1976 00:00,,,0,Low,366
+1329-UNLXL,09-10-2021 00:00,Organic,09-10-2022 00:00,Premium,Monthly,,,20.98,1254,35,0,Saurabh,India,Goa,Male,06-11-1988 00:00,,,0,Low,365
+1330-BTPHK,21-06-2024 00:00,Organic,21-06-2025 00:00,Basic,Annual,,,9.92,746,36,0,Kunal,India,Gujarat,Male,07-07-1987 00:00,,,0,Low,365
+1331-MQASR,26-02-2023 00:00,Paid,26-02-2024 00:00,Premium,Annual,,,21.45,1102,10,0,Pranav,India,Rajasthan,Male,06-11-1970 00:00,,,0,Low,365
+1332-CZKQK,12-12-2024 00:00,Paid,12-12-2025 00:00,Basic,Annual,,,6.49,390,21,0,Vivek,India,Rajasthan,Male,01-08-1982 00:00,,,0,Low,365
+1333-ZAMSQ,07-09-2020 00:00,Paid,07-09-2021 00:00,Standard,Monthly,,,17.94,501,73,0,Siddharth,India,Bihar,Male,28-02-1995 00:00,Y,40,1,High,365
+1334-TGWAZ,04-05-2022 00:00,Organic,04-05-2023 00:00,Standard,Monthly,,,15.25,1100,88,0,Mansi,India,Kerala,Female,21-07-1970 00:00,,,0,High,365
+1335-GLLAE,10-06-2020 00:00,Organic,10-06-2021 00:00,Basic,Annual,,,8.12,553,27,0,Harsh,India,Tamil Nadu,Male,14-12-1984 00:00,,,0,Low,365
+1336-YWFMZ,19-08-2024 00:00,Refferal,19-08-2025 00:00,Basic,Annual,,,8.86,784,62,0,Nikhil,India,Telangana,Male,25-02-1985 00:00,,,0,Medium,365
+1337-UBVBQ,25-10-2019 00:00,Paid,25-10-2020 00:00,Standard,Annual,,,16.3,1003,38,0,Sneha,India,Maharashtra,Female,02-09-1973 00:00,,,0,Low,366
+1338-LQCRS,21-03-2023 00:00,Paid,21-03-2024 00:00,Standard,Monthly,,,14.42,473,99,0,Saurabh,India,Telangana,Male,04-02-1982 00:00,N,70,1,High,366
+1339-ZUHXU,17-04-2019 00:00,Organic,17-04-2020 00:00,Premium,Monthly,27-08-2019 00:00,Too expensive,24.81,1139,66,1,Manish,India,Delhi,Male,12-05-1991 00:00,,,0,Medium,366
+1340-SSZQH,21-01-2020 00:00,Paid,21-01-2021 00:00,Basic,Monthly,07-08-2020 00:00,Poor streaming quality,6.93,523,45,1,Kritika,India,Delhi,Female,04-03-1991 00:00,N,60,4,Low,366
+1341-FGEWF,10-04-2021 00:00,Organic,10-04-2022 00:00,Standard,Monthly,03-02-2022 00:00,Forgot to cancel trial,15.14,923,42,1,Aarav,India,Karnataka,Male,01-02-1986 00:00,,,0,Low,365
+1342-BDYVE,08-06-2020 00:00,Refferal,08-06-2021 00:00,Basic,Annual,,,12.7,938,81,0,Nandini,India,Delhi,Female,08-11-1997 00:00,,,0,High,365
+1343-FBMRB,16-08-2024 00:00,Refferal,16-08-2025 00:00,Basic,Monthly,,,8.07,540,52,0,Pallavi,India,Nagaland,Female,06-08-2003 00:00,,,0,Medium,365
+1344-EWKHX,08-06-2023 00:00,Paid,08-06-2024 00:00,Standard,Monthly,,,11.74,340,53,0,Yash,India,Karnataka,Male,25-03-1975 00:00,,,0,Medium,366
+1345-VHKEF,04-02-2020 00:00,Organic,04-02-2021 00:00,Basic,Monthly,20-08-2020 00:00,Not enough content,8.87,427,64,1,Yash,India,Madhya Pradesh,Male,17-09-1988 00:00,,,0,Medium,366
+1346-SGSZZ,17-11-2022 00:00,Refferal,17-11-2023 00:00,Premium,Annual,,,24.45,934,25,0,Aditi,India,West Bengal,Female,26-06-1988 00:00,,,0,Low,365
+1347-FQPMV,01-09-2022 00:00,Organic,01-09-2023 00:00,Standard,Monthly,,,14.48,825,80,0,Sneha,India,Delhi,Female,25-07-1982 00:00,,,0,High,365
+1348-WJLSK,03-07-2020 00:00,Organic,03-07-2021 00:00,Standard,Monthly,,,12.98,664,80,0,Meera,India,Uttar Pradesh,Female,05-03-1972 00:00,,,0,High,365
+1349-CCPAS,03-09-2024 00:00,Organic,03-09-2025 00:00,Standard,Monthly,01-05-2025 00:00,Poor streaming quality,13.61,686,76,1,Aditi,India,Karnataka,Female,10-07-1974 00:00,N,70,1,High,365
+1350-DELTM,20-07-2019 00:00,Refferal,20-07-2020 00:00,Premium,Monthly,,,17.52,1053,95,0,Avni,India,Karnataka,Female,07-05-1999 00:00,,,0,High,366
+1351-TGXLS,06-11-2022 00:00,Paid,06-11-2023 00:00,Standard,Monthly,24-02-2023 00:00,Not enough content,12.61,912,68,1,Shreya,India,Uttar Pradesh,Female,08-07-1981 00:00,,,0,Medium,365
+1352-RBTXX,06-08-2022 00:00,Organic,06-08-2023 00:00,Basic,Monthly,29-04-2023 00:00,Poor streaming quality,8.56,396,37,1,Mansi,India,Maharashtra,Female,25-02-1993 00:00,,,0,Low,365
+1353-EAGTD,27-05-2022 00:00,Paid,27-05-2023 00:00,Basic,Annual,28-08-2022 00:00,Forgot to cancel trial,7.93,693,71,1,Sakshi,India,Rajasthan,Female,22-09-1975 00:00,N,20,2,High,365
+1354-NLBRN,12-04-2020 00:00,Organic,12-04-2021 00:00,Premium,Monthly,19-05-2020 00:00,Not enough content,20.17,586,79,1,Omkar,India,Gujarat,Male,20-01-1998 00:00,,,0,High,365
+1355-BZCWR,14-07-2023 00:00,Organic,14-07-2024 00:00,Basic,Monthly,,,10.52,519,9,0,Rohan,India,Meghalaya,Male,11-06-1976 00:00,,,0,Low,366
+1356-KMBVR,26-09-2024 00:00,Organic,26-09-2025 00:00,Premium,Annual,,,18.53,1120,24,0,Priya,India,Maharashtra,Female,10-07-1983 00:00,,,0,Low,365
+1357-SSZSH,23-10-2023 00:00,Paid,23-10-2024 00:00,Premium,Monthly,,,19.96,776,72,0,Sakshi,India,Maharashtra,Female,19-10-1971 00:00,,,0,High,366
+1358-UQBJH,11-05-2020 00:00,Paid,11-05-2021 00:00,Standard,Annual,,,15.04,587,52,0,Omkar,India,Karnataka,Male,24-04-1972 00:00,,,0,Medium,365
+1359-AWHFN,03-08-2019 00:00,Refferal,03-08-2020 00:00,Premium,Monthly,,,23.18,455,50,0,Arjun,India,Uttar Pradesh,Male,11-09-1994 00:00,,,0,Medium,366
+1360-PVENL,15-10-2021 00:00,Refferal,15-10-2022 00:00,Premium,Monthly,17-05-2022 00:00,Poor streaming quality,20.05,981,96,1,Riya,India,Maharashtra,Female,14-04-1982 00:00,,,0,High,365
+1361-LQLDY,06-12-2023 00:00,Organic,06-12-2024 00:00,Basic,Monthly,,,7.22,482,41,0,Aditi,India,West Bengal,Female,25-02-1997 00:00,,,0,Low,366
+1362-DMDEA,19-11-2021 00:00,Refferal,19-11-2022 00:00,Basic,Annual,04-10-2022 00:00,Too expensive,12.56,639,50,1,Sakshi,India,Meghalaya,Female,24-07-1996 00:00,,,0,Medium,365
+1363-GXTNM,23-11-2021 00:00,Paid,23-11-2022 00:00,Standard,Annual,13-08-2022 00:00,Too expensive,16.26,621,56,1,Priya,India,Uttar Pradesh,Female,08-12-1997 00:00,,,0,Medium,365
+1364-YWAUR,10-12-2021 00:00,Refferal,10-12-2022 00:00,Standard,Monthly,,,13.56,795,54,0,Shreya,India,Gujarat,Female,07-09-1975 00:00,,,0,Medium,365
+1365-YWCPV,03-02-2019 00:00,Organic,03-02-2020 00:00,Premium,Monthly,11-10-2019 00:00,Too expensive,22.59,890,63,1,Madhav,India,West Bengal,Male,10-12-1995 00:00,N,25,1,Medium,365
+1366-PFETV,03-05-2019 00:00,Organic,03-05-2020 00:00,Standard,Monthly,,,13.81,345,57,0,Madhav,India,Bihar,Male,21-08-1996 00:00,,,0,Medium,366
+1367-CBUAP,20-06-2022 00:00,Refferal,20-06-2023 00:00,Standard,Monthly,,,16.01,1112,63,0,Vivek,India,Karnataka,Male,20-07-1970 00:00,,,0,Medium,365
+1368-RKBJH,23-05-2023 00:00,Organic,23-05-2024 00:00,Premium,Monthly,,,14.62,876,99,0,Aarav,India,Rajasthan,Male,27-12-1995 00:00,,,0,High,366
+1369-RARYH,26-10-2024 00:00,Refferal,26-10-2025 00:00,Basic,Monthly,,,10.43,876,26,0,Priya,India,Bihar,Female,15-11-1990 00:00,,,0,Low,365
+1370-XTHED,16-02-2022 00:00,Organic,16-02-2023 00:00,Standard,Monthly,,,11.67,1051,41,0,Kunal,India,Rajasthan,Male,27-05-1975 00:00,,,0,Low,365
+1371-LTDYX,11-12-2019 00:00,Paid,11-12-2020 00:00,Premium,Annual,,,20.57,1163,62,0,Isha,India,Gujarat,Female,04-11-2000 00:00,,,0,Medium,366
+1372-TTKRP,07-10-2024 00:00,Organic,07-10-2025 00:00,Standard,Monthly,,,15.08,1024,59,0,Isha,India,Karnataka,Female,03-05-1977 00:00,,,0,Medium,365
+1373-ABNWZ,18-01-2022 00:00,Paid,18-01-2023 00:00,Premium,Monthly,09-06-2022 00:00,Poor streaming quality,26.28,1266,63,1,Nandini,India,Tamil Nadu,Female,22-09-1978 00:00,Y,20,1,Medium,365
+1374-HNSGW,23-04-2024 00:00,Paid,23-04-2025 00:00,Standard,Annual,,,16.3,1114,76,0,Ananya,India,Rajasthan,Female,26-01-1994 00:00,,,0,High,365
+1375-VXDAK,23-04-2024 00:00,Organic,23-04-2025 00:00,Premium,Monthly,,,22.4,1320,35,0,Sakshi,India,Bihar,Female,03-07-1995 00:00,,,0,Low,365
+1376-WTLDD,04-10-2024 00:00,Organic,04-10-2025 00:00,Standard,Annual,,,11.47,483,54,0,Riya,India,Madhya Pradesh,Female,26-04-1983 00:00,,,0,Medium,365
+1377-YCZEB,13-04-2019 00:00,Refferal,13-04-2020 00:00,Standard,Annual,,,13.85,722,55,0,Avni,India,Rajasthan,Female,24-11-1979 00:00,,,0,Medium,366
+1378-VRUWR,19-10-2019 00:00,Paid,19-10-2020 00:00,Premium,Monthly,16-09-2020 00:00,Too expensive,21.92,963,99,1,Tanvi,India,Nagaland,Female,03-02-1977 00:00,,,0,High,366
+1379-SHDHT,27-09-2019 00:00,Paid,27-09-2020 00:00,Standard,Annual,10-02-2020 00:00,Switched to competitor,13.45,789,73,1,Omkar,India,Tamil Nadu,Male,18-07-1971 00:00,,,0,High,366
+1380-EPVCD,06-09-2021 00:00,Organic,06-09-2022 00:00,Standard,Annual,28-06-2022 00:00,Not enough content,11.29,819,61,1,Rahul,India,Maharashtra,Male,03-01-1986 00:00,,,0,Medium,365
+1381-PSNZJ,20-03-2020 00:00,Organic,20-03-2021 00:00,Standard,Annual,,,13.34,642,79,0,Vivek,India,Uttar Pradesh,Male,02-04-1972 00:00,,,0,High,365
+1382-GRDLY,21-11-2023 00:00,Organic,21-11-2024 00:00,Premium,Annual,30-07-2024 00:00,Poor streaming quality,21.27,638,50,1,Neha,India,Telangana,Female,24-11-1974 00:00,,,0,Medium,366
+1383-BCCPB,08-07-2019 00:00,Refferal,08-07-2020 00:00,Standard,Monthly,10-01-2020 00:00,Forgot to cancel trial,11.58,1046,22,1,Yash,India,Madhya Pradesh,Male,28-03-1987 00:00,,,0,Low,366
+1384-NSWPQ,09-03-2023 00:00,Organic,09-03-2024 00:00,Basic,Monthly,18-10-2023 00:00,Forgot to cancel trial,6.13,140,27,1,Rahul,India,Delhi,Male,12-03-1994 00:00,N,80,2,Low,366
+1385-LJMGY,08-12-2019 00:00,Organic,08-12-2020 00:00,Premium,Monthly,,,19.58,1215,31,0,Raghav,India,Uttar Pradesh,Male,14-05-1975 00:00,,,0,Low,366
+1386-WZLNT,23-01-2024 00:00,Organic,23-01-2025 00:00,Standard,Monthly,,,16.21,1270,40,0,Sakshi,India,Telangana,Female,04-12-2004 00:00,,,0,Low,366
+1387-ZYSBL,16-07-2019 00:00,Organic,16-07-2020 00:00,Standard,Monthly,,,16.15,213,48,0,Aniket,India,Madhya Pradesh,Male,12-02-1981 00:00,,,0,Low,366
+1388-UCHHF,20-01-2021 00:00,Organic,20-01-2022 00:00,Standard,Monthly,,,19.03,702,24,0,Ananya,India,Madhya Pradesh,Female,15-01-2002 00:00,,,0,Low,365
+1389-ALENX,10-06-2022 00:00,Paid,10-06-2023 00:00,Standard,Annual,19-02-2023 00:00,Poor streaming quality,16.24,872,99,1,Kavya,India,Madhya Pradesh,Female,25-03-1970 00:00,,,0,High,365
+1390-LJWEE,16-07-2019 00:00,Paid,16-07-2020 00:00,Standard,Annual,,,15.23,1031,64,0,Kunal,India,Meghalaya,Male,06-01-1991 00:00,,,0,Medium,366
+1391-NYWKC,24-10-2022 00:00,Organic,24-10-2023 00:00,Basic,Monthly,30-06-2023 00:00,Too expensive,9.66,643,56,1,Aarav,India,Maharashtra,Male,01-09-1992 00:00,,,0,Medium,365
+1392-EGCGS,21-11-2023 00:00,Organic,21-11-2024 00:00,Basic,Monthly,,,7.85,412,32,0,Ananya,India,Rajasthan,Female,24-12-1976 00:00,,,0,Low,366
+1393-AEWKN,12-05-2019 00:00,Organic,12-05-2020 00:00,Basic,Monthly,,,5.99,220,47,0,Arjun,India,Delhi,Male,17-01-2000 00:00,N,80,1,Low,366
+1394-XCEYJ,24-06-2024 00:00,Organic,24-06-2025 00:00,Premium,Monthly,,,18.56,946,66,0,Kavya,India,Maharashtra,Female,18-11-1970 00:00,,,0,Medium,365
+1395-XDTCQ,25-08-2024 00:00,Organic,25-08-2025 00:00,Basic,Annual,,,10.01,437,5,0,Siddharth,India,Gujarat,Male,18-02-1976 00:00,,,0,Low,365
+1396-XWXZX,09-10-2020 00:00,Organic,09-10-2021 00:00,Standard,Monthly,,,16.06,883,33,0,Kavya,India,Madhya Pradesh,Female,14-08-1974 00:00,,,0,Low,365
+1397-TKSWZ,01-03-2020 00:00,Paid,01-03-2021 00:00,Basic,Monthly,,,9.2,675,30,0,Saurabh,India,West Bengal,Male,25-09-1994 00:00,,,0,Low,365
+1398-SNHFS,28-05-2020 00:00,Organic,28-05-2021 00:00,Premium,Annual,,,18.06,918,40,0,Rahul,India,Karnataka,Male,10-04-2004 00:00,Y,60,1,Low,365
+1399-YXGDX,22-09-2019 00:00,Paid,22-09-2020 00:00,Premium,Annual,04-05-2020 00:00,Not enough content,17.49,1015,67,1,Meera,India,Bihar,Female,08-06-1970 00:00,,,0,Medium,366
+1400-PVFGP,06-08-2020 00:00,Paid,06-08-2021 00:00,Premium,Monthly,,,22.21,999,70,0,Neha,India,Rajasthan,Female,05-06-1997 00:00,,,0,High,365
+1401-HXVSE,20-01-2024 00:00,Organic,20-01-2025 00:00,Basic,Monthly,12-03-2024 00:00,Too expensive,8.27,508,40,1,Aditya,India,Meghalaya,Male,13-11-1999 00:00,N,20,1,Low,366
+1402-PVWCD,04-09-2024 00:00,Paid,04-09-2025 00:00,Basic,Monthly,04-05-2025 00:00,Too expensive,9.19,445,54,1,Pooja,India,Delhi,Female,08-03-2000 00:00,,,0,Medium,365
+1403-FKJGY,04-06-2023 00:00,Organic,04-06-2024 00:00,Standard,Annual,19-09-2023 00:00,Too expensive,12.45,394,32,1,Kavya,India,Rajasthan,Female,04-04-1977 00:00,,,0,Low,366
+1404-ELXSQ,25-03-2019 00:00,Organic,25-03-2020 00:00,Standard,Monthly,,,17.84,863,27,0,Nandini,India,Kerala,Female,22-08-1987 00:00,,,0,Low,366
+1405-BPZGC,11-11-2023 00:00,Refferal,11-11-2024 00:00,Basic,Annual,,,6.41,449,62,0,Rahul,India,West Bengal,Male,16-06-1992 00:00,,,0,Medium,366
+1406-MNFCT,02-02-2020 00:00,Refferal,02-02-2021 00:00,Premium,Monthly,,,23.74,806,46,0,Aditya,India,Karnataka,Male,28-04-1970 00:00,,,0,Low,366
+1407-WPYLF,12-07-2024 00:00,Paid,12-07-2025 00:00,Basic,Monthly,11-06-2025 00:00,Too expensive,6.15,184,99,1,Rohan,India,West Bengal,Male,23-12-1977 00:00,,,0,High,365
+1408-BBPVD,23-11-2022 00:00,Organic,23-11-2023 00:00,Basic,Monthly,,,8.67,662,64,0,Manish,India,West Bengal,Male,10-12-2003 00:00,,,0,Medium,365
+1409-DKLYL,07-12-2020 00:00,Organic,07-12-2021 00:00,Standard,Monthly,,,13.58,909,53,0,Avni,India,Rajasthan,Female,06-07-1984 00:00,,,0,Medium,365
+1410-BSMRK,12-02-2019 00:00,Organic,12-02-2020 00:00,Standard,Annual,16-12-2019 00:00,Switched to competitor,13.67,930,70,1,Pooja,India,Maharashtra,Female,14-11-1993 00:00,,,0,High,365
+1411-UHPRA,10-02-2021 00:00,Organic,10-02-2022 00:00,Basic,Monthly,,,6.76,425,18,0,Sneha,India,Bihar,Female,26-10-1972 00:00,,,0,Low,365
+1412-TZSCK,05-03-2021 00:00,Paid,05-03-2022 00:00,Standard,Monthly,,,19.67,1027,40,0,Aniket,India,Tamil Nadu,Male,19-01-1979 00:00,,,0,Low,365
+1413-SDTZN,13-11-2024 00:00,Paid,13-11-2025 00:00,Basic,Annual,,,11.68,776,32,0,Tanvi,India,West Bengal,Female,12-05-1991 00:00,,,0,Low,365
+1414-CAUHW,12-06-2023 00:00,Paid,12-06-2024 00:00,Basic,Monthly,10-03-2024 00:00,Not enough content,11.57,702,44,1,Manish,India,Maharashtra,Male,10-03-1990 00:00,,,0,Low,366
+1415-YYZMJ,14-11-2019 00:00,Refferal,14-11-2020 00:00,Standard,Monthly,,,12.71,610,32,0,Shreya,India,Meghalaya,Female,12-08-1978 00:00,,,0,Low,366
+1416-TFVAW,15-08-2021 00:00,Organic,15-08-2022 00:00,Standard,Annual,08-11-2021 00:00,Poor streaming quality,11.3,591,48,1,Shreya,India,Maharashtra,Female,08-02-1995 00:00,N,100,1,Low,365
+1417-FTCLP,16-07-2021 00:00,Organic,16-07-2022 00:00,Basic,Monthly,,,8.5,595,14,0,Neha,India,Uttar Pradesh,Female,02-10-1990 00:00,,,0,Low,365
+1418-EDGBW,06-05-2021 00:00,Paid,06-05-2022 00:00,Basic,Annual,,,9.82,746,2,0,Diya,India,Telangana,Female,27-03-1986 00:00,,,0,Low,365
+1419-LXPVP,16-03-2022 00:00,Refferal,16-03-2023 00:00,Premium,Monthly,,,23.69,1326,34,0,Aditya,India,Gujarat,Male,22-06-1979 00:00,N,100,1,Low,365
+1420-ATESU,10-05-2019 00:00,Paid,10-05-2020 00:00,Standard,Annual,,,14.91,718,34,0,Ananya,India,Delhi,Female,19-11-1982 00:00,,,0,Low,366
+1421-JPNUC,28-05-2022 00:00,Paid,28-05-2023 00:00,Standard,Annual,,,15.22,1054,52,0,Saurabh,India,Rajasthan,Male,20-09-1981 00:00,,,0,Medium,365
+1422-CCWCA,28-05-2024 00:00,Organic,28-05-2025 00:00,Standard,Monthly,,,11.96,295,59,0,Kavya,India,Rajasthan,Female,21-02-2004 00:00,,,0,Medium,365
+1423-CZXKV,08-11-2022 00:00,Organic,08-11-2023 00:00,Basic,Annual,17-06-2023 00:00,Forgot to cancel trial,7.75,475,21,1,Aditi,India,Madhya Pradesh,Female,10-09-1984 00:00,,,0,Low,365
+1424-JZZFZ,17-06-2022 00:00,Paid,17-06-2023 00:00,Basic,Monthly,15-09-2022 00:00,Forgot to cancel trial,10.71,822,78,1,Pranav,India,Uttar Pradesh,Male,14-10-1973 00:00,,,0,High,365
+1425-RGPYE,24-12-2019 00:00,Paid,24-12-2020 00:00,Basic,Monthly,,,5.99,651,45,0,Aarav,India,Rajasthan,Male,20-01-1979 00:00,,,0,Low,366
+1426-HNFUU,04-10-2022 00:00,Refferal,04-10-2023 00:00,Basic,Monthly,14-07-2023 00:00,Not enough content,8.3,723,99,1,Priya,India,Delhi,Female,01-11-1979 00:00,N,80,1,High,365
+1427-BSKHX,16-06-2021 00:00,Organic,16-06-2022 00:00,Premium,Annual,,,21.41,809,46,0,Rahul,India,Delhi,Male,19-11-1981 00:00,,,0,Low,365
+1428-QNNUF,16-05-2021 00:00,Paid,16-05-2022 00:00,Basic,Monthly,,,7.65,694,69,0,Kavya,India,Madhya Pradesh,Female,05-06-1971 00:00,,,0,Medium,365
+1429-LYYGE,20-07-2022 00:00,Paid,20-07-2023 00:00,Standard,Annual,,,12.26,311,20,0,Shreya,India,Maharashtra,Female,26-03-1989 00:00,,,0,Low,365
+1430-JRBEA,26-07-2021 00:00,Organic,26-07-2022 00:00,Basic,Monthly,,,9.11,89,24,0,Avni,India,Meghalaya,Female,13-06-2003 00:00,,,0,Low,365
+1431-ASTFP,09-09-2019 00:00,Paid,09-09-2020 00:00,Standard,Annual,,,14.84,777,99,0,Isha,India,Telangana,Female,20-05-1994 00:00,,,0,High,366
+1432-SLVEB,19-06-2023 00:00,Organic,19-06-2024 00:00,Standard,Monthly,,,15.83,926,57,0,Sakshi,India,Maharashtra,Female,04-07-1987 00:00,,,0,Medium,366
+1433-XGWKX,13-06-2021 00:00,Paid,13-06-2022 00:00,Basic,Annual,12-12-2021 00:00,Poor streaming quality,10.01,646,38,1,Nikhil,India,Uttar Pradesh,Male,04-08-1974 00:00,,,0,Low,365
+1434-XWYCF,24-04-2019 00:00,Refferal,24-04-2020 00:00,Premium,Monthly,,,21.7,1412,46,0,Kunal,India,Maharashtra,Male,24-12-1990 00:00,,,0,Low,366
+1435-GUCYB,11-03-2019 00:00,Refferal,11-03-2020 00:00,Premium,Annual,,,20.61,961,36,0,Kritika,India,Tamil Nadu,Female,23-05-1994 00:00,,,0,Low,366
+1436-CNPRZ,24-11-2024 00:00,Organic,24-11-2025 00:00,Premium,Annual,,,19.01,705,54,0,Sakshi,India,Karnataka,Female,23-05-1986 00:00,,,0,Medium,365
+1437-MKMJV,28-08-2022 00:00,Organic,28-08-2023 00:00,Standard,Monthly,01-05-2023 00:00,Too expensive,16.38,878,66,1,Riya,India,Gujarat,Female,04-09-1979 00:00,,,0,Medium,365
+1438-PCMCC,18-02-2021 00:00,Organic,18-02-2022 00:00,Basic,Monthly,,,9.79,696,81,0,Saurabh,India,Karnataka,Male,22-08-1971 00:00,N,70,1,High,365
+1439-YEEEG,19-01-2019 00:00,Organic,19-01-2020 00:00,Basic,Monthly,,,8.01,377,19,0,Pallavi,India,Rajasthan,Female,08-11-1973 00:00,,,0,Low,365
+1440-KCTXG,17-03-2019 00:00,Paid,17-03-2020 00:00,Premium,Annual,,,20.32,991,42,0,Rahul,India,West Bengal,Male,10-11-1992 00:00,,,0,Low,366
+1441-SDHLZ,01-10-2022 00:00,Organic,01-10-2023 00:00,Standard,Monthly,,,14.11,739,68,0,Diya,India,Delhi,Female,03-05-1981 00:00,,,0,Medium,365
+1442-WNEDC,27-01-2022 00:00,Refferal,27-01-2023 00:00,Standard,Annual,,,15.06,557,49,0,Meera,India,Rajasthan,Female,09-09-1992 00:00,,,0,Low,365
+1443-QCSTA,24-04-2021 00:00,Organic,24-04-2022 00:00,Basic,Annual,11-10-2021 00:00,Forgot to cancel trial,5.99,334,38,1,Isha,India,Uttar Pradesh,Female,16-06-1979 00:00,,,0,Low,365
+1444-YNGSX,14-02-2023 00:00,Paid,14-02-2024 00:00,Premium,Monthly,11-05-2023 00:00,Switched to competitor,22.31,1188,99,1,Avni,India,Meghalaya,Female,07-05-1987 00:00,,,0,High,365
+1445-MDZQR,02-02-2023 00:00,Organic,02-02-2024 00:00,Standard,Monthly,,,13.52,550,90,0,Sakshi,India,Delhi,Female,15-01-1988 00:00,N,90,2,High,365
+1446-EQBFM,06-05-2023 00:00,Organic,06-05-2024 00:00,Standard,Annual,,,13.25,716,33,0,Isha,India,Tamil Nadu,Female,13-07-1994 00:00,,,0,Low,366
+1447-DPHCP,23-11-2023 00:00,Organic,23-11-2024 00:00,Standard,Monthly,,,13.14,708,59,0,Mansi,India,Karnataka,Female,05-02-1997 00:00,,,0,Medium,366
+1448-AUCDX,13-03-2022 00:00,Paid,13-03-2023 00:00,Standard,Monthly,,,14,1077,69,0,Harsh,India,Telangana,Male,18-10-1978 00:00,,,0,Medium,365
+1449-GZCQV,18-03-2023 00:00,Organic,18-03-2024 00:00,Standard,Monthly,,,16.08,493,21,0,Meera,India,Kerala,Female,19-12-1977 00:00,,,0,Low,366
+1450-HZAMS,27-01-2022 00:00,Refferal,27-01-2023 00:00,Standard,Monthly,,,16.05,733,24,0,Aditya,India,Maharashtra,Male,04-09-1977 00:00,,,0,Low,365
+1451-FWGQL,10-08-2022 00:00,Paid,10-08-2023 00:00,Basic,Monthly,,,5.99,537,11,0,Akash,India,Maharashtra,Male,05-03-1971 00:00,,,0,Low,365
+1452-VMVDG,15-03-2021 00:00,Organic,15-03-2022 00:00,Premium,Monthly,26-12-2021 00:00,Forgot to cancel trial,22.66,317,48,1,Harsh,India,Meghalaya,Male,21-01-1989 00:00,,,0,Low,365
+1453-NNEDR,13-08-2024 00:00,Organic,13-08-2025 00:00,Premium,Annual,,,19.79,632,63,0,Tanvi,India,Gujarat,Female,26-05-1978 00:00,,,0,Medium,365
+1454-GSQPQ,25-04-2021 00:00,Organic,25-04-2022 00:00,Premium,Annual,,,21.39,837,53,0,Sneha,India,Maharashtra,Female,04-04-1980 00:00,,,0,Medium,365
+1455-ULBQC,19-11-2020 00:00,Paid,19-11-2021 00:00,Standard,Monthly,,,14.25,826,36,0,Saurabh,India,West Bengal,Male,11-03-1971 00:00,,,0,Low,365
+1456-LNUCA,24-11-2020 00:00,Paid,24-11-2021 00:00,Premium,Annual,09-04-2021 00:00,Forgot to cancel trial,20.64,954,56,1,Siddharth,India,Maharashtra,Male,12-01-1978 00:00,,,0,Medium,365
+1457-JXWVL,20-01-2020 00:00,Refferal,20-01-2021 00:00,Standard,Monthly,,,13.01,787,35,0,Sneha,India,Telangana,Female,10-09-1978 00:00,,,0,Low,366
+1458-JWDGN,09-08-2023 00:00,Organic,09-08-2024 00:00,Standard,Monthly,08-10-2023 00:00,Too expensive,17.76,385,24,1,Aniket,India,Madhya Pradesh,Male,13-05-2002 00:00,,,0,Low,366
+1459-HUXBM,24-05-2020 00:00,Paid,24-05-2021 00:00,Basic,Monthly,,,11.23,493,48,0,Yash,India,Bihar,Male,24-10-1996 00:00,,,0,Low,365
+1460-WZABU,23-07-2022 00:00,Paid,23-07-2023 00:00,Basic,Annual,21-10-2022 00:00,Forgot to cancel trial,10.28,1086,31,1,Varun,India,Uttar Pradesh,Male,22-11-1994 00:00,,,0,Low,365
+1461-ELBFQ,05-01-2019 00:00,Organic,05-01-2020 00:00,Standard,Monthly,,,15.48,1334,44,0,Akash,India,West Bengal,Male,02-10-2004 00:00,,,0,Low,365
+1462-DKRRB,17-04-2024 00:00,Paid,17-04-2025 00:00,Premium,Monthly,10-11-2024 00:00,Poor streaming quality,19.66,1065,82,1,Manish,India,Gujarat,Male,15-04-1992 00:00,,,0,High,365
+1463-GEDZF,27-08-2019 00:00,Organic,27-08-2020 00:00,Basic,Monthly,,,10.85,496,85,0,Vivek,India,Nagaland,Male,08-01-1979 00:00,,,0,High,366
+1464-QMWKB,25-10-2019 00:00,Refferal,25-10-2020 00:00,Premium,Annual,,,19.33,811,64,0,Omkar,India,Karnataka,Male,02-09-1997 00:00,,,0,Medium,366
+1465-JVLLT,15-07-2020 00:00,Organic,15-07-2021 00:00,Standard,Annual,01-01-2021 00:00,Switched to competitor,18.42,1062,51,1,Vivek,India,Telangana,Male,15-09-1988 00:00,,,0,Medium,365
+1466-HPAGG,01-08-2022 00:00,Refferal,01-08-2023 00:00,Standard,Monthly,,,14.4,706,25,0,Kritika,India,Maharashtra,Female,22-10-1989 00:00,,,0,Low,365
+1467-BYGQH,05-03-2024 00:00,Organic,05-03-2025 00:00,Premium,Annual,,,23.63,597,38,0,Saurabh,India,Karnataka,Male,28-05-1987 00:00,,,0,Low,365
+1468-LHPFY,17-02-2019 00:00,Organic,17-02-2020 00:00,Standard,Monthly,25-09-2019 00:00,Poor streaming quality,15.17,689,83,1,Mira,India,Maharashtra,Female,23-09-1992 00:00,,,0,High,365
+1469-GAQJZ,19-03-2021 00:00,Paid,19-03-2022 00:00,Basic,Annual,,,10.18,435,27,0,Sakshi,India,Goa,Female,01-10-1988 00:00,,,0,Low,365
+1470-PJFVA,04-12-2023 00:00,Organic,04-12-2024 00:00,Premium,Monthly,,,24.29,1001,54,0,Omkar,India,West Bengal,Male,08-02-1975 00:00,,,0,Medium,366
+1471-GWHFF,18-06-2019 00:00,Paid,18-06-2020 00:00,Standard,Annual,,,16.91,863,63,0,Isha,India,Rajasthan,Female,08-12-1977 00:00,,,0,Medium,366
+1472-PVDNU,17-07-2022 00:00,Paid,17-07-2023 00:00,Premium,Monthly,,,25.75,1548,50,0,Avni,India,Uttar Pradesh,Female,11-05-1986 00:00,,,0,Medium,365
+1473-ACGPY,13-09-2023 00:00,Organic,13-09-2024 00:00,Premium,Monthly,,,21.12,1343,68,0,Kunal,India,Kerala,Male,23-01-1997 00:00,,,0,Medium,366
+1474-XXQQZ,05-12-2022 00:00,Paid,05-12-2023 00:00,Standard,Annual,,,15.11,951,63,0,Aditya,India,West Bengal,Male,14-08-1992 00:00,,,0,Medium,365
+1475-AQSLH,17-10-2019 00:00,Refferal,17-10-2020 00:00,Premium,Monthly,,,20.19,610,42,0,Aniket,India,Gujarat,Male,08-02-1987 00:00,,,0,Low,366
+1476-EDVTZ,16-05-2021 00:00,Organic,16-05-2022 00:00,Standard,Annual,,,9.66,533,95,0,Akash,India,Telangana,Male,12-02-1990 00:00,,,0,High,365
+1477-YRDEW,07-06-2019 00:00,Organic,07-06-2020 00:00,Basic,Annual,,,7.5,496,35,0,Aarav,India,Uttar Pradesh,Male,18-09-1972 00:00,,,0,Low,366
+1478-YTYCX,24-04-2024 00:00,Organic,24-04-2025 00:00,Basic,Monthly,,,9.78,558,69,0,Mira,India,Maharashtra,Female,24-05-1978 00:00,,,0,Medium,365
+1479-BSXAC,28-07-2023 00:00,Organic,28-07-2024 00:00,Premium,Annual,30-11-2023 00:00,Poor streaming quality,20.62,739,60,1,Ananya,India,Tamil Nadu,Female,21-11-1972 00:00,Y,40,2,Medium,366
+1480-FELGK,13-11-2022 00:00,Organic,13-11-2023 00:00,Standard,Monthly,09-05-2023 00:00,Poor streaming quality,17.53,1205,67,1,Yash,India,Rajasthan,Male,27-05-1981 00:00,,,0,Medium,365
+1481-RCMHC,17-05-2021 00:00,Organic,17-05-2022 00:00,Basic,Annual,,,9.45,566,68,0,Neha,India,West Bengal,Female,20-08-2000 00:00,,,0,Medium,365
+1482-KVLGB,25-04-2023 00:00,Paid,25-04-2024 00:00,Standard,Annual,,,11.14,552,60,0,Isha,India,Delhi,Female,15-05-1972 00:00,N,20,2,Medium,366
+1483-FNZWK,25-01-2019 00:00,Organic,25-01-2020 00:00,Premium,Monthly,,,19.83,914,75,0,Raghav,India,Tamil Nadu,Male,14-06-1993 00:00,,,0,High,365
+1484-FUFGC,24-01-2019 00:00,Organic,24-01-2020 00:00,Premium,Annual,,,21.04,1422,61,0,Shreya,India,Maharashtra,Female,03-02-1987 00:00,,,0,Medium,365
+1485-QHHNA,08-02-2022 00:00,Paid,08-02-2023 00:00,Premium,Monthly,,,21.52,1069,99,0,Tanvi,India,Karnataka,Female,19-11-1986 00:00,,,0,High,365
+1486-AMKJP,04-10-2022 00:00,Paid,04-10-2023 00:00,Standard,Monthly,,,10.12,549,76,0,Saurabh,India,Karnataka,Male,25-07-1971 00:00,N,25,2,High,365
+1487-TPFUG,07-12-2021 00:00,Paid,07-12-2022 00:00,Premium,Annual,06-05-2022 00:00,Not enough content,23.83,962,72,1,Meera,India,Tamil Nadu,Female,23-06-1972 00:00,,,0,High,365
+1488-PTTYL,02-02-2022 00:00,Paid,02-02-2023 00:00,Premium,Monthly,,,18.3,498,60,0,Omkar,India,Maharashtra,Male,17-03-1970 00:00,,,0,Medium,365
+1489-LACZT,07-11-2023 00:00,Organic,07-11-2024 00:00,Premium,Annual,,,19.71,1175,67,0,Pallavi,India,Delhi,Female,21-10-1993 00:00,,,0,Medium,366
+1490-HTZYD,07-04-2024 00:00,Organic,07-04-2025 00:00,Standard,Monthly,01-01-2025 00:00,Forgot to cancel trial,14.86,673,28,1,Aditi,India,Delhi,Female,16-03-1981 00:00,,,0,Low,365
+1491-PFRYG,05-10-2019 00:00,Organic,05-10-2020 00:00,Basic,Monthly,,,10.62,476,35,0,Avni,India,Gujarat,Female,25-10-1993 00:00,,,0,Low,366
+1492-RKPWQ,28-08-2020 00:00,Refferal,28-08-2021 00:00,Basic,Monthly,10-05-2021 00:00,Poor streaming quality,8.02,697,31,1,Ananya,India,Maharashtra,Female,03-04-1984 00:00,,,0,Low,365
+1493-NCPKK,23-05-2024 00:00,Organic,23-05-2025 00:00,Basic,Monthly,,,7.72,314,59,0,Nandini,India,Delhi,Female,17-06-2003 00:00,,,0,Medium,365
+1494-XREWW,17-06-2022 00:00,Organic,17-06-2023 00:00,Basic,Annual,,,7.03,531,58,0,Diya,India,Karnataka,Female,12-07-1982 00:00,,,0,Medium,365
+1495-AGRRK,24-08-2020 00:00,Paid,24-08-2021 00:00,Premium,Annual,07-10-2020 00:00,Forgot to cancel trial,24.79,1377,47,1,Mira,India,Uttar Pradesh,Female,16-12-1971 00:00,N,25,2,Low,365
+1496-CPZEQ,14-07-2024 00:00,Organic,14-07-2025 00:00,Premium,Annual,,,23.04,675,21,0,Nikhil,India,Tamil Nadu,Male,06-12-1990 00:00,,,0,Low,365
+1497-CLGEN,03-02-2019 00:00,Organic,03-02-2020 00:00,Basic,Monthly,,,5.99,294,79,0,Aarav,India,Delhi,Male,11-02-1992 00:00,N,25,1,High,365
+1498-YHSYW,09-04-2020 00:00,Organic,09-04-2021 00:00,Premium,Monthly,,,26.62,944,49,0,Raghav,India,Maharashtra,Male,09-03-1988 00:00,,,0,Low,365
+1499-PJRLR,26-11-2021 00:00,Organic,26-11-2022 00:00,Standard,Monthly,,,17.38,1219,99,0,Rohan,India,Goa,Male,18-03-1994 00:00,,,0,High,365
+1500-GNFFG,22-07-2023 00:00,Paid,22-07-2024 00:00,Standard,Monthly,,,16.65,1091,82,0,Aniket,India,Uttar Pradesh,Male,05-08-1981 00:00,N,25,1,High,366
+1501-XHMEA,20-06-2024 00:00,Organic,20-06-2025 00:00,Basic,Annual,,,9.7,554,29,0,Avni,India,Uttar Pradesh,Female,13-12-1997 00:00,,,0,Low,365
+1502-XNLUY,05-03-2023 00:00,Organic,05-03-2024 00:00,Standard,Annual,15-06-2023 00:00,Not enough content,13.98,621,44,1,Avni,India,Maharashtra,Female,10-03-2002 00:00,N,30,1,Low,366
+1503-HEWLT,22-09-2022 00:00,Organic,22-09-2023 00:00,Standard,Monthly,16-06-2023 00:00,Too expensive,15.52,904,77,1,Varun,India,Kerala,Male,16-01-1993 00:00,N,60,1,High,365
+1504-VTLKB,25-10-2023 00:00,Organic,25-10-2024 00:00,Standard,Monthly,,,17.24,547,29,0,Avni,India,Maharashtra,Female,12-04-1981 00:00,,,0,Low,366
+1505-CKEDH,12-02-2022 00:00,Refferal,12-02-2023 00:00,Standard,Monthly,,,12.41,476,13,0,Priya,India,Karnataka,Female,06-03-1996 00:00,,,0,Low,365
+1506-PKLMZ,11-12-2022 00:00,Organic,11-12-2023 00:00,Premium,Annual,15-08-2023 00:00,Forgot to cancel trial,20.72,1197,88,1,Diya,India,West Bengal,Female,09-07-1989 00:00,,,0,High,365
+1507-BAYSG,22-10-2019 00:00,Paid,22-10-2020 00:00,Standard,Monthly,,,11.74,704,99,0,Diya,India,Maharashtra,Female,04-01-1988 00:00,,,0,High,366
+1508-HLLHA,05-02-2023 00:00,Organic,05-02-2024 00:00,Standard,Annual,,,15.27,802,42,0,Yash,India,Gujarat,Male,13-12-2004 00:00,,,0,Low,365
+1509-FVWTN,03-12-2023 00:00,Organic,03-12-2024 00:00,Basic,Annual,,,7.17,786,67,0,Priya,India,Maharashtra,Female,05-01-1993 00:00,,,0,Medium,366
+1510-TTBXZ,16-10-2021 00:00,Organic,16-10-2022 00:00,Basic,Annual,,,11.39,333,30,0,Harsh,India,Karnataka,Male,17-10-1989 00:00,,,0,Low,365
+1511-BKEGA,01-04-2020 00:00,Paid,01-04-2021 00:00,Standard,Monthly,,,14.3,834,18,0,Aarav,India,West Bengal,Male,09-05-1978 00:00,,,0,Low,365
+1512-LQNMP,09-07-2024 00:00,Paid,09-07-2025 00:00,Standard,Annual,14-04-2025 00:00,Forgot to cancel trial,13.67,622,40,1,Meera,India,Delhi,Female,15-03-1998 00:00,N,50,2,Low,365
+1513-QEJLZ,04-02-2023 00:00,Organic,04-02-2024 00:00,Standard,Monthly,26-05-2023 00:00,Poor streaming quality,15.12,566,43,1,Raghav,India,Telangana,Male,13-04-2001 00:00,,,0,Low,365
+1514-FXGUR,06-08-2021 00:00,Organic,06-08-2022 00:00,Premium,Monthly,,,14.67,986,61,0,Pallavi,India,Telangana,Female,28-04-1995 00:00,,,0,Medium,365
+1515-EXKRZ,24-10-2023 00:00,Paid,24-10-2024 00:00,Standard,Monthly,08-10-2024 00:00,Poor streaming quality,17.64,818,48,1,Ananya,India,Uttar Pradesh,Female,20-03-1984 00:00,,,0,Low,366
+1516-AQUKN,01-02-2021 00:00,Organic,01-02-2022 00:00,Basic,Monthly,,,9.02,757,27,0,Rahul,India,Rajasthan,Male,16-03-1985 00:00,,,0,Low,365
+1517-ZNCQH,26-02-2022 00:00,Paid,26-02-2023 00:00,Standard,Monthly,01-02-2023 00:00,Forgot to cancel trial,15.68,853,87,1,Arjun,India,Rajasthan,Male,24-01-1974 00:00,,,0,High,365
+1518-VBVVT,28-03-2019 00:00,Paid,28-03-2020 00:00,Basic,Annual,22-07-2019 00:00,Not enough content,7.54,358,24,1,Yash,India,Meghalaya,Male,21-11-2002 00:00,,,0,Low,366
+1519-XVFCR,11-08-2024 00:00,Paid,11-08-2025 00:00,Premium,Annual,,,20.49,1240,65,0,Saurabh,India,Madhya Pradesh,Male,25-04-2001 00:00,,,0,Medium,365
+1520-GFJJG,10-10-2020 00:00,Organic,10-10-2021 00:00,Premium,Monthly,,,19.22,876,96,0,Harsh,India,Uttar Pradesh,Male,15-12-2000 00:00,N,90,1,High,365
+1521-MXZRQ,01-07-2022 00:00,Organic,01-07-2023 00:00,Standard,Monthly,15-10-2022 00:00,Not enough content,13.94,327,38,1,Pallavi,India,Nagaland,Female,06-11-2001 00:00,,,0,Low,365
+1522-CEMPR,03-09-2021 00:00,Refferal,03-09-2022 00:00,Basic,Annual,,,9.93,422,58,0,Aniket,India,Madhya Pradesh,Male,22-06-1982 00:00,,,0,Medium,365
+1523-LNFVE,07-12-2019 00:00,Refferal,07-12-2020 00:00,Standard,Annual,09-06-2020 00:00,Switched to competitor,14.14,319,59,1,Arjun,India,Gujarat,Male,02-03-1999 00:00,,,0,Medium,366
+1524-UMCXB,10-08-2023 00:00,Refferal,10-08-2024 00:00,Standard,Annual,22-04-2024 00:00,Too expensive,12.83,493,66,1,Siddharth,India,Rajasthan,Male,16-02-1998 00:00,,,0,Medium,366
+1525-UZGKG,22-05-2021 00:00,Organic,22-05-2022 00:00,Standard,Monthly,,,14.64,1019,24,0,Nikhil,India,Telangana,Male,21-05-2002 00:00,,,0,Low,365
+1526-HZMDB,07-04-2019 00:00,Paid,07-04-2020 00:00,Basic,Monthly,,,7.91,791,15,0,Riya,India,Maharashtra,Female,21-06-1998 00:00,,,0,Low,366
+1527-FSHEK,16-05-2020 00:00,Organic,16-05-2021 00:00,Premium,Annual,,,19.37,1049,35,0,Rahul,India,Uttar Pradesh,Male,17-06-1980 00:00,,,0,Low,365
+1528-HHPUA,07-12-2019 00:00,Organic,07-12-2020 00:00,Basic,Annual,,,10.52,570,18,0,Priya,India,Bihar,Female,26-11-1992 00:00,,,0,Low,366
+1529-HPEFN,23-07-2024 00:00,Organic,23-07-2025 00:00,Premium,Annual,,,21.93,1046,69,0,Kavya,India,Maharashtra,Female,24-06-1980 00:00,N,60,1,Medium,365
+1530-YCDTH,19-06-2020 00:00,Paid,19-06-2021 00:00,Standard,Annual,,,13.18,786,31,0,Neha,India,Kerala,Female,07-10-1989 00:00,,,0,Low,365
+1531-UWSTY,07-06-2021 00:00,Organic,07-06-2022 00:00,Standard,Annual,,,11.63,561,2,0,Tanvi,India,West Bengal,Female,11-03-1983 00:00,,,0,Low,365
+1532-KKMBN,11-10-2021 00:00,Paid,11-10-2022 00:00,Standard,Annual,,,15.98,732,2,0,Aditi,India,Telangana,Female,28-09-1972 00:00,,,0,Low,365
+1533-VWCYQ,21-03-2019 00:00,Paid,21-03-2020 00:00,Standard,Monthly,,,15.35,971,99,0,Aditya,India,West Bengal,Male,15-05-1997 00:00,,,0,High,366
+1534-KHQKA,07-11-2024 00:00,Organic,07-11-2025 00:00,Premium,Monthly,,,19.39,1343,57,0,Diya,India,Maharashtra,Female,22-10-1984 00:00,,,0,Medium,365
+1535-UEEAQ,06-05-2020 00:00,Refferal,06-05-2021 00:00,Standard,Monthly,03-12-2020 00:00,Switched to competitor,12.57,453,37,1,Kunal,India,Telangana,Male,28-06-1974 00:00,,,0,Low,365
+1536-LWKLT,17-03-2019 00:00,Organic,17-03-2020 00:00,Premium,Annual,,,18.89,944,56,0,Omkar,India,Maharashtra,Male,07-07-1998 00:00,,,0,Medium,366
+1537-QTHEZ,12-02-2022 00:00,Organic,12-02-2023 00:00,Standard,Monthly,,,14.7,756,50,0,Sakshi,India,Karnataka,Female,01-08-1977 00:00,,,0,Medium,365
+1538-SRVXA,16-12-2020 00:00,Paid,16-12-2021 00:00,Premium,Monthly,,,17.55,897,85,0,Meera,India,Maharashtra,Female,19-03-1985 00:00,,,0,High,365
+1539-KDEYZ,12-11-2022 00:00,Organic,12-11-2023 00:00,Premium,Monthly,,,20.59,867,99,0,Yash,India,Kerala,Male,01-03-1977 00:00,,,0,High,365
+1540-AWXBK,14-08-2022 00:00,Organic,14-08-2023 00:00,Premium,Monthly,,,19.34,1166,52,0,Rahul,India,Maharashtra,Male,03-04-1992 00:00,,,0,Medium,365
+1541-MXDRJ,03-11-2020 00:00,Organic,03-11-2021 00:00,Standard,Annual,,,14.24,786,14,0,Manish,India,Rajasthan,Male,08-03-1982 00:00,,,0,Low,365
+1542-THTMQ,26-01-2024 00:00,Organic,26-01-2025 00:00,Basic,Monthly,25-06-2024 00:00,Too expensive,6.52,670,93,1,Neha,India,Delhi,Female,05-11-1993 00:00,N,100,1,High,366
+1543-LFQPC,22-02-2024 00:00,Organic,22-02-2025 00:00,Premium,Annual,,,20.01,868,83,0,Pallavi,India,Madhya Pradesh,Female,09-03-1991 00:00,N,80,1,High,366
+1544-CTDJL,12-12-2024 00:00,Paid,12-12-2025 00:00,Standard,Annual,,,15.87,408,62,0,Aniket,India,Karnataka,Male,05-04-2002 00:00,,,0,Medium,365
+1545-NSZED,10-07-2019 00:00,Organic,10-07-2020 00:00,Standard,Monthly,,,12.57,550,79,0,Pranav,India,Karnataka,Male,20-09-1979 00:00,,,0,High,366
+1546-HBTSF,14-11-2020 00:00,Refferal,14-11-2021 00:00,Standard,Monthly,04-05-2021 00:00,Too expensive,13.1,924,34,1,Rohan,India,West Bengal,Male,16-03-1978 00:00,N,60,2,Low,365
+1547-RNNUQ,11-12-2019 00:00,Organic,11-12-2020 00:00,Premium,Annual,,,25.53,883,29,0,Saurabh,India,Delhi,Male,24-09-1977 00:00,,,0,Low,366
+1548-LETWM,27-08-2024 00:00,Organic,27-08-2025 00:00,Standard,Monthly,16-02-2025 00:00,Not enough content,17.1,1102,54,1,Isha,India,Telangana,Female,20-12-1975 00:00,,,0,Medium,365
+1549-HSGJA,27-10-2023 00:00,Refferal,27-10-2024 00:00,Standard,Annual,,,11.65,456,57,0,Isha,India,Uttar Pradesh,Female,14-10-1984 00:00,,,0,Medium,366
+1550-WRCCZ,28-10-2022 00:00,Paid,28-10-2023 00:00,Standard,Annual,,,16.16,1386,78,0,Yash,India,Uttar Pradesh,Male,23-07-1996 00:00,,,0,High,365
+1551-APAYC,26-08-2021 00:00,Refferal,26-08-2022 00:00,Basic,Monthly,16-12-2021 00:00,Too expensive,9.27,629,57,1,Aditi,India,Gujarat,Female,27-06-1986 00:00,,,0,Medium,365
+1552-RTUUE,03-12-2019 00:00,Paid,03-12-2020 00:00,Standard,Monthly,15-07-2020 00:00,Too expensive,13.21,550,66,1,Sneha,India,Delhi,Female,26-12-2004 00:00,,,0,Medium,366
+1553-JVXUZ,23-10-2022 00:00,Paid,23-10-2023 00:00,Basic,Monthly,,,8.36,411,83,0,Aditi,India,Maharashtra,Female,23-09-1989 00:00,,,0,High,365
+1554-DJJDK,22-03-2023 00:00,Organic,22-03-2024 00:00,Premium,Monthly,,,23.5,786,92,0,Kritika,India,Telangana,Female,08-06-1975 00:00,,,0,High,366
+1555-LVDHZ,23-05-2024 00:00,Paid,23-05-2025 00:00,Premium,Monthly,,,16.32,957,51,0,Tanvi,India,Meghalaya,Female,06-07-1982 00:00,,,0,Medium,365
+1556-FNBSH,08-10-2019 00:00,Paid,08-10-2020 00:00,Standard,Annual,,,13.94,830,28,0,Varun,India,Uttar Pradesh,Male,23-09-1976 00:00,,,0,Low,366
+1557-PBQML,09-12-2019 00:00,Paid,09-12-2020 00:00,Standard,Annual,,,15.84,728,63,0,Aarav,India,Telangana,Male,16-06-1973 00:00,,,0,Medium,366
+1558-YZFLN,23-01-2023 00:00,Paid,23-01-2024 00:00,Premium,Annual,26-03-2023 00:00,Forgot to cancel trial,20.18,687,47,1,Meera,India,Karnataka,Female,05-07-2002 00:00,N,30,1,Low,365
+1559-AYTHC,10-02-2020 00:00,Refferal,10-02-2021 00:00,Standard,Annual,,,17.54,879,40,0,Avni,India,Gujarat,Female,13-07-1994 00:00,,,0,Low,366
+1560-FZRJU,01-09-2019 00:00,Organic,01-09-2020 00:00,Basic,Monthly,,,11.34,584,72,0,Aditi,India,Kerala,Female,02-09-1973 00:00,,,0,High,366
+1561-YEQEF,17-03-2024 00:00,Organic,17-03-2025 00:00,Basic,Annual,16-01-2025 00:00,Switched to competitor,8.88,486,41,1,Kavya,India,Kerala,Female,12-10-1979 00:00,,,0,Low,365
+1562-GJENX,18-11-2019 00:00,Organic,18-11-2020 00:00,Basic,Monthly,,,8.7,772,22,0,Ananya,India,Uttar Pradesh,Female,22-08-1991 00:00,,,0,Low,366
+1563-ABZMW,07-11-2023 00:00,Paid,07-11-2024 00:00,Basic,Monthly,22-10-2024 00:00,Poor streaming quality,6.97,540,57,1,Aniket,India,Maharashtra,Male,19-09-1990 00:00,,,0,Medium,366
+1564-MMHMK,24-10-2021 00:00,Paid,24-10-2022 00:00,Premium,Monthly,,,20.42,848,78,0,Riya,India,West Bengal,Female,27-09-1973 00:00,N,90,1,High,365
+1565-VSLNW,16-04-2024 00:00,Organic,16-04-2025 00:00,Basic,Annual,,,9.91,533,11,0,Priya,India,Madhya Pradesh,Female,06-08-1976 00:00,,,0,Low,365
+1566-YAFVV,09-11-2023 00:00,Paid,09-11-2024 00:00,Premium,Monthly,,,25.26,1031,41,0,Omkar,India,Tamil Nadu,Male,02-07-1993 00:00,,,0,Low,366
+1567-XTGSK,25-12-2019 00:00,Organic,25-12-2020 00:00,Standard,Annual,,,15.12,642,52,0,Shreya,India,Delhi,Female,09-08-1982 00:00,,,0,Medium,366
+1568-MEHYG,18-02-2020 00:00,Paid,18-02-2021 00:00,Premium,Monthly,19-11-2020 00:00,Switched to competitor,22.07,905,79,1,Riya,India,Telangana,Female,09-10-1988 00:00,N,25,1,High,366
+1569-LJTLU,15-06-2020 00:00,Organic,15-06-2021 00:00,Basic,Annual,11-12-2020 00:00,Forgot to cancel trial,8.89,571,36,1,Siddharth,India,Gujarat,Male,01-10-1972 00:00,N,20,1,Low,365
+1570-BFNPD,12-06-2024 00:00,Paid,12-06-2025 00:00,Basic,Annual,13-07-2024 00:00,Forgot to cancel trial,12.17,328,41,1,Priya,India,Maharashtra,Female,17-07-1974 00:00,,,0,Low,365
+1571-PWUAP,22-04-2024 00:00,Refferal,22-04-2025 00:00,Standard,Monthly,,,16.43,392,53,0,Manish,India,Madhya Pradesh,Male,22-05-1994 00:00,,,0,Medium,365
+1572-LXFGT,14-08-2019 00:00,Organic,14-08-2020 00:00,Standard,Monthly,,,15.85,921,43,0,Mira,India,Kerala,Female,01-12-1993 00:00,,,0,Low,366
+1573-YLLTL,23-04-2020 00:00,Refferal,23-04-2021 00:00,Basic,Monthly,,,8.72,720,54,0,Tanvi,India,Nagaland,Female,13-11-1990 00:00,,,0,Medium,365
+1574-PUKRF,11-04-2020 00:00,Organic,11-04-2021 00:00,Standard,Monthly,,,13.03,519,67,0,Manish,India,Maharashtra,Male,27-05-1998 00:00,,,0,Medium,365
+1575-SKSGT,25-03-2024 00:00,Refferal,25-03-2025 00:00,Premium,Monthly,,,22.62,970,76,0,Omkar,India,Uttar Pradesh,Male,14-03-1982 00:00,,,0,High,365
+1576-SUCAW,20-06-2019 00:00,Refferal,20-06-2020 00:00,Premium,Annual,,,23.38,1290,41,0,Nikhil,India,Kerala,Male,07-06-1990 00:00,,,0,Low,366
+1577-CPXDK,25-02-2022 00:00,Organic,25-02-2023 00:00,Basic,Annual,,,8.8,594,84,0,Pooja,India,Telangana,Female,09-12-2000 00:00,,,0,High,365
+1578-ZJLPL,10-10-2020 00:00,Organic,10-10-2021 00:00,Standard,Annual,,,13.22,825,47,0,Manish,India,Goa,Male,03-06-1992 00:00,,,0,Low,365
+1579-RHVUJ,16-01-2023 00:00,Paid,16-01-2024 00:00,Basic,Monthly,,,9.75,334,15,0,Aditi,India,Uttar Pradesh,Female,12-03-1996 00:00,,,0,Low,365
+1580-JGZRR,13-08-2020 00:00,Organic,13-08-2021 00:00,Standard,Annual,,,11.64,911,69,0,Mansi,India,Maharashtra,Female,19-12-1970 00:00,,,0,Medium,365
+1581-ZLSDJ,01-02-2023 00:00,Organic,01-02-2024 00:00,Premium,Annual,10-09-2023 00:00,Switched to competitor,20.76,720,50,1,Mansi,India,Karnataka,Female,03-05-1988 00:00,,,0,Medium,365
+1582-UWAAV,05-12-2019 00:00,Organic,05-12-2020 00:00,Basic,Annual,19-02-2020 00:00,Switched to competitor,10.55,638,20,1,Kunal,India,Uttar Pradesh,Male,28-11-1999 00:00,,,0,Low,366
+1583-FTKRE,01-09-2020 00:00,Organic,01-09-2021 00:00,Basic,Annual,,,10.14,661,53,0,Manish,India,Uttar Pradesh,Male,10-08-1981 00:00,,,0,Medium,365
+1584-CUEWU,27-05-2022 00:00,Organic,27-05-2023 00:00,Basic,Monthly,,,10.19,784,2,0,Rahul,India,Meghalaya,Male,14-10-1988 00:00,,,0,Low,365
+1585-DBMXB,20-11-2024 00:00,Organic,20-11-2025 00:00,Standard,Monthly,,,12.55,750,13,0,Sneha,India,Gujarat,Female,24-01-1998 00:00,,,0,Low,365
+1586-MMUHZ,15-07-2021 00:00,Organic,15-07-2022 00:00,Premium,Monthly,,,24.01,1109,58,0,Arjun,India,Uttar Pradesh,Male,12-12-1972 00:00,,,0,Medium,365
+1587-WUKWD,16-07-2019 00:00,Organic,16-07-2020 00:00,Basic,Monthly,17-01-2020 00:00,Forgot to cancel trial,11.54,864,80,1,Aditi,India,Rajasthan,Female,19-03-1981 00:00,N,30,1,High,366
+1588-ZBZBH,21-05-2019 00:00,Paid,21-05-2020 00:00,Basic,Annual,,,9.62,191,46,0,Kritika,India,Delhi,Female,16-09-1985 00:00,,,0,Low,366
+1589-GTVWJ,16-11-2021 00:00,Paid,16-11-2022 00:00,Premium,Monthly,,,20.45,1117,45,0,Sneha,India,Maharashtra,Female,08-07-1993 00:00,,,0,Low,365
+1590-HRZFQ,11-10-2020 00:00,Paid,11-10-2021 00:00,Basic,Monthly,,,7.6,732,55,0,Arjun,India,Rajasthan,Male,11-01-2000 00:00,,,0,Medium,365
+1591-LUUGD,16-06-2021 00:00,Paid,16-06-2022 00:00,Premium,Annual,,,21.09,913,95,0,Manish,India,Karnataka,Male,12-06-1970 00:00,,,0,High,365
+1592-QCTTE,10-03-2020 00:00,Paid,10-03-2021 00:00,Basic,Annual,03-12-2020 00:00,Too expensive,8.42,302,27,1,Isha,India,Tamil Nadu,Female,27-12-1997 00:00,,,0,Low,365
+1593-DLHYL,18-06-2019 00:00,Refferal,18-06-2020 00:00,Standard,Monthly,,,12.64,422,55,0,Pranav,India,Rajasthan,Male,05-10-1980 00:00,,,0,Medium,366
+1594-HEQUR,05-03-2019 00:00,Paid,05-03-2020 00:00,Basic,Monthly,05-10-2019 00:00,Not enough content,6.47,448,20,1,Avni,India,West Bengal,Female,02-09-1972 00:00,,,0,Low,366
+1595-UMPNR,02-04-2020 00:00,Organic,02-04-2021 00:00,Standard,Monthly,,,10.68,547,73,0,Neha,India,Telangana,Female,15-04-1975 00:00,Y,30,1,High,365
+1596-HKRKN,19-04-2020 00:00,Organic,19-04-2021 00:00,Standard,Monthly,,,10.78,491,48,0,Sakshi,India,Maharashtra,Female,03-09-1996 00:00,,,0,Low,365
+1597-KDARQ,09-06-2020 00:00,Organic,09-06-2021 00:00,Standard,Annual,,,14.69,609,78,0,Mansi,India,Nagaland,Female,27-03-1994 00:00,,,0,High,365
+1598-UECKC,21-01-2022 00:00,Refferal,21-01-2023 00:00,Standard,Monthly,08-11-2022 00:00,Switched to competitor,14.24,767,52,1,Siddharth,India,West Bengal,Male,22-12-1989 00:00,N,70,1,Medium,365
+1599-HZQDM,10-01-2021 00:00,Refferal,10-01-2022 00:00,Standard,Annual,16-08-2021 00:00,Too expensive,14.46,740,30,1,Isha,India,Maharashtra,Female,28-01-1976 00:00,,,0,Low,365
+1600-TJGRH,01-03-2022 00:00,Organic,01-03-2023 00:00,Basic,Annual,,,6.24,528,66,0,Vivek,India,Delhi,Male,26-08-1986 00:00,,,0,Medium,365
+1601-APBSF,02-10-2019 00:00,Refferal,02-10-2020 00:00,Standard,Annual,,,18.17,837,46,0,Shreya,India,Maharashtra,Female,27-07-2001 00:00,,,0,Low,366
+1602-GSZES,03-06-2021 00:00,Organic,03-06-2022 00:00,Standard,Monthly,09-01-2022 00:00,Forgot to cancel trial,10.66,348,14,1,Rohan,India,Kerala,Male,23-09-1997 00:00,,,0,Low,365
+1603-RKPJZ,09-10-2019 00:00,Organic,09-10-2020 00:00,Premium,Monthly,,,21.58,827,73,0,Neha,India,Tamil Nadu,Female,18-11-2001 00:00,,,0,High,366
+1604-DBNWR,17-02-2022 00:00,Paid,17-02-2023 00:00,Standard,Monthly,25-12-2022 00:00,Too expensive,15.96,920,47,1,Mansi,India,Uttar Pradesh,Female,05-10-1980 00:00,,,0,Low,365
+1605-UMHWJ,21-11-2020 00:00,Refferal,21-11-2021 00:00,Standard,Annual,21-12-2020 00:00,Forgot to cancel trial,17.54,936,68,1,Pallavi,India,Uttar Pradesh,Female,19-04-1995 00:00,,,0,Medium,365
+1606-XSHUH,27-03-2020 00:00,Organic,27-03-2021 00:00,Premium,Monthly,,,19.03,697,12,0,Varun,India,Uttar Pradesh,Male,01-01-1982 00:00,,,0,Low,365
+1607-KSHKF,11-08-2019 00:00,Organic,11-08-2020 00:00,Standard,Monthly,,,13.53,785,33,0,Kritika,India,Uttar Pradesh,Female,20-11-2000 00:00,,,0,Low,366
+1608-LQXYS,24-04-2019 00:00,Organic,24-04-2020 00:00,Premium,Annual,,,21.16,715,48,0,Omkar,India,Maharashtra,Male,16-02-2001 00:00,,,0,Low,366
+1609-MHPSL,06-09-2019 00:00,Organic,06-09-2020 00:00,Standard,Annual,,,14.36,601,58,0,Kavya,India,Maharashtra,Female,28-10-1978 00:00,N,80,1,Medium,366
+1610-WAQLS,08-03-2021 00:00,Refferal,08-03-2022 00:00,Basic,Annual,,,11.09,618,39,0,Siddharth,India,Rajasthan,Male,13-01-1985 00:00,,,0,Low,365
+1611-XCDTY,02-08-2022 00:00,Organic,02-08-2023 00:00,Basic,Monthly,13-01-2023 00:00,Not enough content,9.55,751,55,1,Saurabh,India,Rajasthan,Male,23-01-1997 00:00,,,0,Medium,365
+1612-FYDAC,19-03-2024 00:00,Organic,19-03-2025 00:00,Standard,Monthly,25-06-2024 00:00,Poor streaming quality,14.62,589,41,1,Siddharth,India,Rajasthan,Male,18-06-2004 00:00,N,30,2,Low,365
+1613-YWVEM,28-03-2024 00:00,Organic,28-03-2025 00:00,Standard,Annual,,,11.47,806,50,0,Ananya,India,Maharashtra,Female,21-09-1994 00:00,,,0,Medium,365
+1614-FUWJF,24-11-2020 00:00,Paid,24-11-2021 00:00,Premium,Monthly,,,20.53,730,62,0,Diya,India,Maharashtra,Female,28-01-1997 00:00,,,0,Medium,365
+1615-QUXRU,18-02-2022 00:00,Organic,18-02-2023 00:00,Basic,Annual,,,6.78,506,44,0,Arjun,India,Uttar Pradesh,Male,25-08-1988 00:00,,,0,Low,365
+1616-MVYHN,23-02-2021 00:00,Paid,23-02-2022 00:00,Standard,Monthly,,,11.73,409,88,0,Riya,India,Kerala,Female,16-09-2000 00:00,,,0,High,365
+1617-GGNHX,20-05-2021 00:00,Paid,20-05-2022 00:00,Standard,Annual,,,16.12,493,60,0,Harsh,India,Karnataka,Male,27-04-1989 00:00,,,0,Medium,365
+1618-HSJPH,27-11-2023 00:00,Paid,27-11-2024 00:00,Basic,Annual,,,11.9,784,17,0,Avni,India,Telangana,Female,24-12-1977 00:00,,,0,Low,366
+1619-YMJGB,19-09-2022 00:00,Organic,19-09-2023 00:00,Premium,Monthly,25-05-2023 00:00,Poor streaming quality,23.19,1313,46,1,Omkar,India,Tamil Nadu,Male,03-01-1995 00:00,,,0,Low,365
+1620-KCEJV,22-12-2019 00:00,Paid,22-12-2020 00:00,Standard,Monthly,18-03-2020 00:00,Not enough content,13.44,942,65,1,Rohan,India,Kerala,Male,18-02-1987 00:00,,,0,Medium,366
+1621-GFFQU,19-02-2020 00:00,Organic,19-02-2021 00:00,Standard,Annual,,,13.69,687,66,0,Isha,India,Maharashtra,Female,06-04-1990 00:00,,,0,Medium,366
+1622-FMDEF,04-04-2020 00:00,Organic,04-04-2021 00:00,Premium,Monthly,16-11-2020 00:00,Forgot to cancel trial,17.14,644,91,1,Aarav,India,Karnataka,Male,19-07-1989 00:00,N,20,2,High,365
+1623-NKLED,13-06-2021 00:00,Refferal,13-06-2022 00:00,Basic,Annual,,,10.26,528,67,0,Pranav,India,Tamil Nadu,Male,26-03-1994 00:00,,,0,Medium,365
+1624-SPRBT,14-02-2022 00:00,Organic,14-02-2023 00:00,Basic,Monthly,,,7.09,469,24,0,Omkar,India,Telangana,Male,01-07-1993 00:00,,,0,Low,365
+1625-WRQVW,17-02-2021 00:00,Organic,17-02-2022 00:00,Premium,Monthly,,,20.31,1010,79,0,Nandini,India,Maharashtra,Female,23-02-1984 00:00,,,0,High,365
+1626-FHNFC,26-01-2020 00:00,Organic,26-01-2021 00:00,Premium,Annual,,,24.06,817,41,0,Harsh,India,Uttar Pradesh,Male,18-05-1981 00:00,,,0,Low,366
+1627-NUPJE,02-09-2023 00:00,Organic,02-09-2024 00:00,Standard,Monthly,,,10.29,703,37,0,Arjun,India,Tamil Nadu,Male,25-03-1990 00:00,,,0,Low,366
+1628-JUMLT,26-09-2022 00:00,Paid,26-09-2023 00:00,Standard,Annual,,,17.54,924,22,0,Rahul,India,Uttar Pradesh,Male,13-02-1972 00:00,,,0,Low,365
+1629-RNUPW,20-02-2020 00:00,Organic,20-02-2021 00:00,Premium,Annual,,,20.93,708,60,0,Mira,India,Telangana,Female,17-03-1996 00:00,,,0,Medium,366
+1630-AMUFU,08-01-2020 00:00,Organic,08-01-2021 00:00,Premium,Monthly,,,21.92,871,51,0,Saurabh,India,Kerala,Male,26-11-1978 00:00,,,0,Medium,366
+1631-DZFDR,18-09-2021 00:00,Refferal,18-09-2022 00:00,Standard,Annual,,,15.19,610,48,0,Raghav,India,Nagaland,Male,13-08-1992 00:00,,,0,Low,365
+1632-YDZDT,26-06-2022 00:00,Organic,26-06-2023 00:00,Standard,Monthly,,,13.75,770,53,0,Priya,India,Maharashtra,Female,17-11-1983 00:00,,,0,Medium,365
+1633-XULNR,03-04-2020 00:00,Organic,03-04-2021 00:00,Standard,Monthly,09-05-2020 00:00,Too expensive,13.42,681,92,1,Kunal,India,Madhya Pradesh,Male,22-06-1994 00:00,,,0,High,365
+1634-LVDPG,22-03-2022 00:00,Organic,22-03-2023 00:00,Standard,Monthly,,,13.34,687,72,0,Aarav,India,Bihar,Male,09-01-1980 00:00,,,0,High,365
+1635-WYGPX,16-07-2019 00:00,Organic,16-07-2020 00:00,Basic,Annual,,,10.57,754,50,0,Meera,India,Telangana,Female,09-11-2003 00:00,N,30,1,Medium,366
+1636-FUXFX,06-04-2019 00:00,Paid,06-04-2020 00:00,Standard,Annual,,,14.97,738,14,0,Varun,India,Telangana,Male,13-12-1996 00:00,N,80,1,Low,366
+1637-JJHMZ,11-10-2020 00:00,Organic,11-10-2021 00:00,Standard,Annual,14-11-2020 00:00,Too expensive,11.36,966,51,1,Avni,India,Karnataka,Female,10-04-1997 00:00,,,0,Medium,365
+1638-CZVRZ,10-03-2019 00:00,Paid,10-03-2020 00:00,Basic,Monthly,,,12.9,821,67,0,Manish,India,Karnataka,Male,27-05-1978 00:00,,,0,Medium,366
+1639-EEKZC,06-05-2023 00:00,Organic,06-05-2024 00:00,Standard,Annual,,,10.03,516,35,0,Kritika,India,Tamil Nadu,Female,10-10-1974 00:00,N,80,2,Low,366
+1640-RVLYV,04-10-2019 00:00,Organic,04-10-2020 00:00,Basic,Annual,,,6.62,370,38,0,Meera,India,Karnataka,Female,23-03-1999 00:00,,,0,Low,366
+1641-HFMKY,02-01-2019 00:00,Organic,02-01-2020 00:00,Premium,Annual,,,16.64,588,71,0,Ananya,India,Madhya Pradesh,Female,06-06-1972 00:00,,,0,High,365
+1642-UWLVT,11-08-2019 00:00,Organic,11-08-2020 00:00,Basic,Annual,,,8.52,507,89,0,Meera,India,Goa,Female,28-01-1981 00:00,,,0,High,366
+1643-TLURT,28-11-2024 00:00,Paid,28-11-2025 00:00,Standard,Monthly,,,8.42,875,52,0,Meera,India,Maharashtra,Female,07-09-2000 00:00,,,0,Medium,365
+1644-QLYVL,26-11-2023 00:00,Organic,26-11-2024 00:00,Basic,Annual,,,12.3,900,13,0,Mansi,India,Bihar,Female,10-01-1999 00:00,,,0,Low,366
+1645-YWFGX,27-04-2019 00:00,Organic,27-04-2020 00:00,Standard,Monthly,,,12.97,1283,53,0,Arjun,India,Uttar Pradesh,Male,09-07-1986 00:00,,,0,Medium,366
+1646-VPLNY,18-07-2020 00:00,Paid,18-07-2021 00:00,Standard,Monthly,24-03-2021 00:00,Switched to competitor,10.68,650,64,1,Kritika,India,Uttar Pradesh,Female,07-10-2001 00:00,,,0,Medium,365
+1647-MCYTE,18-05-2021 00:00,Organic,18-05-2022 00:00,Standard,Annual,18-08-2021 00:00,Switched to competitor,16.38,1070,50,1,Mira,India,Meghalaya,Female,24-04-1997 00:00,Y,25,2,Medium,365
+1648-NMQUJ,11-03-2020 00:00,Paid,11-03-2021 00:00,Basic,Annual,,,7.13,543,51,0,Yash,India,Karnataka,Male,09-09-1982 00:00,,,0,Medium,365
+1649-AWVLV,13-08-2023 00:00,Refferal,13-08-2024 00:00,Basic,Monthly,17-12-2023 00:00,Switched to competitor,9.36,669,41,1,Ananya,India,Maharashtra,Female,24-10-2000 00:00,N,70,2,Low,366
+1650-DCNUQ,27-09-2021 00:00,Organic,27-09-2022 00:00,Standard,Monthly,,,13.93,778,81,0,Sakshi,India,Telangana,Female,20-02-1991 00:00,,,0,High,365
+1651-SVZGW,11-05-2019 00:00,Organic,11-05-2020 00:00,Basic,Monthly,,,5.99,335,79,0,Aniket,India,Nagaland,Male,24-05-2001 00:00,N,60,1,High,366
+1652-EFVFG,14-05-2019 00:00,Paid,14-05-2020 00:00,Basic,Monthly,31-07-2019 00:00,Forgot to cancel trial,6.55,646,39,1,Varun,India,Madhya Pradesh,Male,18-05-2004 00:00,,,0,Low,366
+1653-BVKCD,23-12-2020 00:00,Refferal,23-12-2021 00:00,Basic,Annual,,,5.99,623,99,0,Aditya,India,Delhi,Male,19-11-1981 00:00,,,0,High,365
+1654-SXPTW,13-03-2021 00:00,Paid,13-03-2022 00:00,Premium,Monthly,21-02-2022 00:00,Switched to competitor,21.48,1129,63,1,Mansi,India,Karnataka,Female,20-04-1997 00:00,,,0,Medium,365
+1655-QACQT,02-12-2020 00:00,Organic,02-12-2021 00:00,Standard,Annual,27-02-2021 00:00,Forgot to cancel trial,15.14,628,62,1,Harsh,India,Karnataka,Male,08-11-1977 00:00,N,60,1,Medium,365
+1656-LDRCJ,07-06-2022 00:00,Paid,07-06-2023 00:00,Premium,Annual,,,21.19,1194,52,0,Shreya,India,Uttar Pradesh,Female,22-08-1987 00:00,,,0,Medium,365
+1657-GLDUW,25-07-2020 00:00,Paid,25-07-2021 00:00,Basic,Annual,,,7.56,599,71,0,Pallavi,India,Delhi,Female,10-02-1996 00:00,,,0,High,365
+1658-LSGMK,17-09-2020 00:00,Organic,17-09-2021 00:00,Standard,Monthly,24-02-2021 00:00,Switched to competitor,7.52,509,71,1,Manish,India,Karnataka,Male,25-01-1978 00:00,,,0,High,365
+1659-VTAPX,17-08-2024 00:00,Organic,17-08-2025 00:00,Basic,Annual,,,7.95,754,33,0,Raghav,India,Karnataka,Male,18-11-1985 00:00,,,0,Low,365
+1660-AECHU,20-08-2022 00:00,Organic,20-08-2023 00:00,Basic,Monthly,,,10.07,667,32,0,Mira,India,Uttar Pradesh,Female,27-11-1995 00:00,,,0,Low,365
+1661-JFYAB,18-11-2019 00:00,Paid,18-11-2020 00:00,Standard,Monthly,05-02-2020 00:00,Switched to competitor,11.85,456,27,1,Arjun,India,Meghalaya,Male,15-04-1972 00:00,,,0,Low,366
+1662-KZRXX,23-08-2019 00:00,Paid,23-08-2020 00:00,Basic,Monthly,,,9.89,816,74,0,Nikhil,India,Madhya Pradesh,Male,26-02-1977 00:00,,,0,High,366
+1663-ZVXCN,04-12-2019 00:00,Paid,04-12-2020 00:00,Premium,Monthly,23-03-2020 00:00,Too expensive,22.59,1023,76,1,Harsh,India,Delhi,Male,12-12-1997 00:00,,,0,High,366
+1664-EFDMR,05-07-2024 00:00,Organic,05-07-2025 00:00,Standard,Annual,,,14.94,737,66,0,Pranav,India,Maharashtra,Male,24-12-1977 00:00,N,30,1,Medium,365
+1665-BKLSD,27-10-2020 00:00,Organic,27-10-2021 00:00,Premium,Monthly,06-12-2020 00:00,Too expensive,23.61,1005,78,1,Tanvi,India,Maharashtra,Female,19-11-2004 00:00,,,0,High,365
+1666-NYWCS,06-09-2019 00:00,Organic,06-09-2020 00:00,Standard,Monthly,,,16.34,636,55,0,Arjun,India,Gujarat,Male,18-02-2004 00:00,,,0,Medium,366
+1667-XFPJN,23-04-2020 00:00,Paid,23-04-2021 00:00,Standard,Monthly,26-02-2021 00:00,Switched to competitor,13.63,685,41,1,Mira,India,Delhi,Female,02-03-1978 00:00,,,0,Low,365
+1668-DGWAU,16-04-2024 00:00,Paid,16-04-2025 00:00,Premium,Monthly,,,20.67,785,46,0,Aarav,India,Kerala,Male,11-02-1971 00:00,,,0,Low,365
+1669-TQTZH,19-11-2023 00:00,Paid,19-11-2024 00:00,Standard,Monthly,,,9.82,492,63,0,Aniket,India,Uttar Pradesh,Male,06-05-1988 00:00,,,0,Medium,366
+1670-GQBKA,11-11-2021 00:00,Organic,11-11-2022 00:00,Basic,Annual,22-06-2022 00:00,Forgot to cancel trial,6.19,584,57,1,Tanvi,India,Maharashtra,Female,22-01-1973 00:00,,,0,Medium,365
+1671-VNZJB,07-07-2019 00:00,Paid,07-07-2020 00:00,Basic,Annual,,,5.99,315,27,0,Pooja,India,West Bengal,Female,02-12-1994 00:00,,,0,Low,366
+1672-UUYWN,24-09-2023 00:00,Organic,24-09-2024 00:00,Basic,Annual,,,5.99,387,61,0,Aditya,India,Maharashtra,Male,28-02-1973 00:00,,,0,Medium,366
+1673-MYNKU,17-03-2024 00:00,Paid,17-03-2025 00:00,Standard,Annual,,,13.41,679,4,0,Omkar,India,Karnataka,Male,03-11-1979 00:00,,,0,Low,365
+1674-LTJTN,06-07-2024 00:00,Paid,06-07-2025 00:00,Standard,Annual,,,11.26,533,52,0,Vivek,India,Delhi,Male,15-02-1986 00:00,,,0,Medium,365
+1675-FSJSH,04-12-2020 00:00,Paid,04-12-2021 00:00,Standard,Monthly,24-05-2021 00:00,Not enough content,16.98,381,28,1,Aditya,India,Rajasthan,Male,26-07-1989 00:00,N,60,1,Low,365
+1676-GRZGE,13-02-2024 00:00,Paid,13-02-2025 00:00,Standard,Annual,15-01-2025 00:00,Poor streaming quality,14.39,966,92,1,Siddharth,India,Bihar,Male,27-04-1992 00:00,,,0,High,366
+1677-UPQEQ,03-12-2019 00:00,Paid,03-12-2020 00:00,Premium,Annual,,,21.45,1255,45,0,Manish,India,Karnataka,Male,11-11-1995 00:00,,,0,Low,366
+1678-KMNKP,18-02-2022 00:00,Refferal,18-02-2023 00:00,Basic,Annual,29-09-2022 00:00,Not enough content,5.99,566,52,1,Aarav,India,Madhya Pradesh,Male,26-01-1983 00:00,,,0,Medium,365
+1679-GGZCT,10-02-2019 00:00,Refferal,10-02-2020 00:00,Standard,Annual,,,16.32,897,99,0,Aditi,India,Kerala,Female,12-07-1983 00:00,N,80,1,High,365
+1680-WQUKE,14-06-2021 00:00,Organic,14-06-2022 00:00,Basic,Monthly,,,6.87,235,49,0,Siddharth,India,Uttar Pradesh,Male,03-03-2002 00:00,,,0,Low,365
+1681-NYBJA,05-12-2019 00:00,Refferal,05-12-2020 00:00,Standard,Annual,,,12.46,720,38,0,Isha,India,Rajasthan,Female,14-07-1995 00:00,N,100,3,Low,366
+1682-YUGJB,05-11-2023 00:00,Refferal,05-11-2024 00:00,Standard,Annual,,,14.33,1131,29,0,Pallavi,India,Telangana,Female,04-10-1997 00:00,,,0,Low,366
+1683-HPVZU,20-06-2024 00:00,Paid,20-06-2025 00:00,Standard,Monthly,,,13.99,742,58,0,Riya,India,Karnataka,Female,14-03-2003 00:00,,,0,Medium,365
+1684-BJPSV,19-12-2023 00:00,Paid,19-12-2024 00:00,Standard,Annual,,,14.33,520,69,0,Avni,India,Karnataka,Female,15-12-1971 00:00,,,0,Medium,366
+1685-HPQQT,19-06-2020 00:00,Paid,19-06-2021 00:00,Basic,Monthly,,,6.54,277,46,0,Sneha,India,Kerala,Female,18-03-1988 00:00,,,0,Low,365
+1686-EEEEU,01-12-2023 00:00,Organic,01-12-2024 00:00,Premium,Monthly,31-07-2024 00:00,Switched to competitor,19.19,1115,51,1,Raghav,India,West Bengal,Male,19-07-1997 00:00,Y,40,1,Medium,366
+1687-QHRXR,20-10-2024 00:00,Paid,20-10-2025 00:00,Standard,Monthly,,,14.57,849,63,0,Varun,India,West Bengal,Male,12-01-1988 00:00,,,0,Medium,365
+1688-PDRCP,27-11-2019 00:00,Organic,27-11-2020 00:00,Standard,Monthly,,,13.69,721,64,0,Nandini,India,Meghalaya,Female,01-04-1974 00:00,,,0,Medium,366
+1689-UGEGN,01-04-2022 00:00,Organic,01-04-2023 00:00,Basic,Annual,,,8.57,217,28,0,Harsh,India,Tamil Nadu,Male,09-09-1989 00:00,,,0,Low,365
+1690-BWUNB,09-11-2023 00:00,Organic,09-11-2024 00:00,Basic,Annual,,,7.69,595,74,0,Pranav,India,Delhi,Male,03-01-1971 00:00,,,0,High,366
+1691-EREPL,15-08-2022 00:00,Organic,15-08-2023 00:00,Standard,Monthly,,,16.11,986,84,0,Neha,India,Maharashtra,Female,21-04-1993 00:00,,,0,High,365
+1692-UKDDA,17-07-2019 00:00,Refferal,17-07-2020 00:00,Standard,Monthly,04-04-2020 00:00,Too expensive,14.42,498,41,1,Manish,India,Gujarat,Male,02-07-2000 00:00,N,25,3,Low,366
+1693-AWXDC,18-08-2022 00:00,Organic,18-08-2023 00:00,Standard,Monthly,25-10-2022 00:00,Forgot to cancel trial,15.34,642,83,1,Aarav,India,Nagaland,Male,08-07-1984 00:00,Y,60,1,High,365
+1694-DKNZC,04-09-2022 00:00,Paid,04-09-2023 00:00,Premium,Annual,,,20,1016,57,0,Riya,India,Bihar,Female,07-08-1985 00:00,,,0,Medium,365
+1695-BWRXX,26-08-2024 00:00,Organic,26-08-2025 00:00,Standard,Annual,,,10.81,631,2,0,Vivek,India,Uttar Pradesh,Male,14-09-1986 00:00,,,0,Low,365
+1696-NXWES,18-10-2024 00:00,Paid,18-10-2025 00:00,Standard,Monthly,,,11.3,597,47,0,Diya,India,Maharashtra,Female,25-10-1984 00:00,,,0,Low,365
+1697-KYFKU,21-04-2020 00:00,Organic,21-04-2021 00:00,Basic,Annual,,,6.99,647,75,0,Aarav,India,Nagaland,Male,18-07-1970 00:00,,,0,High,365
+1698-UNLCG,02-10-2022 00:00,Paid,02-10-2023 00:00,Standard,Monthly,16-09-2023 00:00,Forgot to cancel trial,14.65,553,73,1,Aditya,India,Telangana,Male,19-02-1981 00:00,,,0,High,365
+1699-WYDYW,21-05-2023 00:00,Organic,21-05-2024 00:00,Basic,Annual,,,10.28,733,40,0,Pranav,India,Gujarat,Male,27-11-1984 00:00,,,0,Low,366
+1700-RGLPL,18-04-2022 00:00,Organic,18-04-2023 00:00,Premium,Annual,,,18.63,880,18,0,Saurabh,India,Maharashtra,Male,18-04-1981 00:00,,,0,Low,365
+1701-ZBRZM,07-10-2023 00:00,Paid,07-10-2024 00:00,Standard,Annual,,,14.82,669,30,0,Shreya,India,Telangana,Female,16-09-1997 00:00,Y,60,1,Low,366
+1702-SXRWU,06-02-2024 00:00,Paid,06-02-2025 00:00,Basic,Monthly,,,10.47,870,25,0,Shreya,India,Gujarat,Female,15-11-1991 00:00,,,0,Low,366
+1703-YKQEJ,18-04-2020 00:00,Refferal,18-04-2021 00:00,Premium,Annual,,,19.01,620,68,0,Pooja,India,Uttar Pradesh,Female,18-11-1978 00:00,,,0,Medium,365
+1704-SHNJZ,28-04-2023 00:00,Paid,28-04-2024 00:00,Standard,Monthly,,,15.32,547,46,0,Pooja,India,Madhya Pradesh,Female,06-07-1991 00:00,,,0,Low,366
+1705-YCTJA,27-05-2024 00:00,Organic,27-05-2025 00:00,Basic,Monthly,,,8.08,767,26,0,Pallavi,India,Karnataka,Female,11-09-1994 00:00,,,0,Low,365
+1706-VBVXQ,13-04-2021 00:00,Organic,13-04-2022 00:00,Basic,Monthly,,,6.86,291,44,0,Rohan,India,Karnataka,Male,08-10-1991 00:00,,,0,Low,365
+1707-TJXVM,26-11-2024 00:00,Paid,26-11-2025 00:00,Basic,Annual,25-06-2025 00:00,Too expensive,5.99,906,40,1,Arjun,India,Tamil Nadu,Male,02-06-1998 00:00,,,0,Low,365
+1708-YCQMB,05-03-2022 00:00,Refferal,05-03-2023 00:00,Premium,Monthly,,,22.72,877,61,0,Manish,India,Maharashtra,Male,08-03-1993 00:00,,,0,Medium,365
+1709-WQKUN,09-11-2024 00:00,Paid,09-11-2025 00:00,Standard,Monthly,,,14.04,634,71,0,Riya,India,Kerala,Female,23-08-1978 00:00,,,0,High,365
+1710-TQEDY,26-03-2019 00:00,Paid,26-03-2020 00:00,Basic,Annual,,,10.44,609,61,0,Aditya,India,Tamil Nadu,Male,01-06-1997 00:00,,,0,Medium,366
+1711-RVZCH,14-11-2024 00:00,Organic,14-11-2025 00:00,Standard,Monthly,06-09-2025 00:00,Forgot to cancel trial,14.95,922,56,1,Sneha,India,Karnataka,Female,16-06-1990 00:00,,,0,Medium,365
+1712-QTDZS,28-06-2020 00:00,Organic,28-06-2021 00:00,Standard,Annual,,,15.29,522,39,0,Akash,India,Rajasthan,Male,10-12-1998 00:00,,,0,Low,365
+1713-NVEPV,02-02-2023 00:00,Organic,02-02-2024 00:00,Standard,Monthly,16-07-2023 00:00,Poor streaming quality,14.21,358,91,1,Siddharth,India,Tamil Nadu,Male,20-04-1978 00:00,,,0,High,365
+1714-MADMN,18-06-2024 00:00,Organic,18-06-2025 00:00,Standard,Monthly,,,10.76,775,59,0,Saurabh,India,Karnataka,Male,16-06-1981 00:00,,,0,Medium,365
+1715-QNUSL,22-08-2019 00:00,Paid,22-08-2020 00:00,Basic,Monthly,06-07-2020 00:00,Forgot to cancel trial,8.37,628,58,1,Vivek,India,Meghalaya,Male,15-12-1981 00:00,,,0,Medium,366
+1716-YHEPP,18-09-2020 00:00,Organic,18-09-2021 00:00,Basic,Annual,,,11.27,646,5,0,Akash,India,Kerala,Male,14-12-1976 00:00,,,0,Low,365
+1717-WNHYG,08-05-2022 00:00,Organic,08-05-2023 00:00,Premium,Monthly,,,20.76,1085,24,0,Manish,India,Gujarat,Male,24-12-1999 00:00,,,0,Low,365
+1718-QTELV,20-11-2020 00:00,Paid,20-11-2021 00:00,Standard,Monthly,28-08-2021 00:00,Not enough content,17.65,679,59,1,Aditi,India,Karnataka,Female,03-08-1981 00:00,,,0,Medium,365
+1719-YNDAS,09-01-2019 00:00,Paid,09-01-2020 00:00,Premium,Monthly,,,18.22,760,50,0,Kunal,India,Tamil Nadu,Male,26-12-1995 00:00,,,0,Medium,365
+1720-WLSST,09-01-2020 00:00,Organic,09-01-2021 00:00,Premium,Monthly,27-11-2020 00:00,Forgot to cancel trial,20.29,900,91,1,Pallavi,India,Nagaland,Female,18-11-1985 00:00,,,0,High,366
+1721-JWYWP,16-04-2021 00:00,Paid,16-04-2022 00:00,Basic,Annual,24-08-2021 00:00,Switched to competitor,5.99,583,50,1,Aarav,India,West Bengal,Male,19-12-1980 00:00,,,0,Medium,365
+1722-BSMQC,25-08-2022 00:00,Paid,25-08-2023 00:00,Standard,Monthly,,,16.5,409,95,0,Priya,India,Uttar Pradesh,Female,07-02-1979 00:00,Y,20,1,High,365
+1723-QADJT,07-06-2022 00:00,Organic,07-06-2023 00:00,Standard,Annual,,,12.21,738,19,0,Isha,India,Karnataka,Female,10-01-1983 00:00,,,0,Low,365
+1724-CUGCG,13-05-2023 00:00,Paid,13-05-2024 00:00,Basic,Annual,,,9.02,521,67,0,Pallavi,India,Maharashtra,Female,19-01-1991 00:00,,,0,Medium,366
+1725-TWBTR,04-08-2020 00:00,Refferal,04-08-2021 00:00,Basic,Monthly,,,7.29,377,53,0,Harsh,India,Uttar Pradesh,Male,19-12-1978 00:00,,,0,Medium,365
+1726-UDWGB,18-04-2022 00:00,Paid,18-04-2023 00:00,Standard,Monthly,30-06-2022 00:00,Poor streaming quality,18.59,850,22,1,Aarav,India,Maharashtra,Male,14-01-2000 00:00,,,0,Low,365
+1727-KDWNY,02-04-2019 00:00,Refferal,02-04-2020 00:00,Basic,Annual,,,12.44,638,42,0,Nikhil,India,Delhi,Male,21-11-1980 00:00,,,0,Low,366
+1728-RJXHB,27-08-2021 00:00,Organic,27-08-2022 00:00,Basic,Annual,,,7.2,679,37,0,Avni,India,Gujarat,Female,10-06-1992 00:00,,,0,Low,365
+1729-UVNAA,02-09-2022 00:00,Paid,02-09-2023 00:00,Standard,Monthly,,,9.12,303,94,0,Mansi,India,Karnataka,Female,09-07-1998 00:00,Y,20,1,High,365
+1730-CNKCB,26-04-2021 00:00,Organic,26-04-2022 00:00,Standard,Monthly,03-01-2022 00:00,Too expensive,13.4,747,46,1,Nikhil,India,Maharashtra,Male,12-05-1973 00:00,,,0,Low,365
+1731-SLSQM,27-05-2022 00:00,Refferal,27-05-2023 00:00,Standard,Monthly,21-04-2023 00:00,Switched to competitor,10.47,986,66,1,Vivek,India,Telangana,Male,22-04-1991 00:00,,,0,Medium,365
+1732-SMAZK,19-08-2019 00:00,Refferal,19-08-2020 00:00,Standard,Monthly,30-01-2020 00:00,Forgot to cancel trial,10.99,423,60,1,Kavya,India,Delhi,Female,19-11-1991 00:00,,,0,Medium,366
+1733-PVPSS,20-05-2019 00:00,Paid,20-05-2020 00:00,Standard,Monthly,,,14.93,676,59,0,Avni,India,Maharashtra,Female,23-11-1985 00:00,,,0,Medium,366
+1734-XUNMF,13-07-2019 00:00,Paid,13-07-2020 00:00,Premium,Monthly,,,22.06,918,99,0,Siddharth,India,Rajasthan,Male,04-11-1998 00:00,,,0,High,366
+1735-FVULF,28-07-2020 00:00,Organic,28-07-2021 00:00,Premium,Annual,,,22.57,815,24,0,Avni,India,Telangana,Female,15-10-1977 00:00,,,0,Low,365
+1736-NECBD,03-02-2020 00:00,Paid,03-02-2021 00:00,Premium,Annual,,,22.03,1108,91,0,Madhav,India,Maharashtra,Male,08-02-2004 00:00,,,0,High,366
+1737-YNVWZ,24-09-2023 00:00,Organic,24-09-2024 00:00,Premium,Monthly,,,20.3,646,61,0,Mira,India,Delhi,Female,25-03-1978 00:00,N,20,1,Medium,366
+1738-MMCWW,09-10-2024 00:00,Organic,09-10-2025 00:00,Premium,Annual,,,22.32,654,74,0,Avni,India,Maharashtra,Female,25-02-1995 00:00,,,0,High,365
+1739-KYSWR,04-07-2023 00:00,Refferal,04-07-2024 00:00,Standard,Monthly,,,12.96,485,62,0,Madhav,India,Maharashtra,Male,23-04-1992 00:00,,,0,Medium,366
+1740-XSPHK,13-07-2023 00:00,Refferal,13-07-2024 00:00,Standard,Annual,26-12-2023 00:00,Poor streaming quality,13.84,676,96,1,Saurabh,India,Uttar Pradesh,Male,10-03-1995 00:00,N,25,1,High,366
+1741-DZJUV,18-07-2023 00:00,Organic,18-07-2024 00:00,Standard,Monthly,,,13.2,1022,41,0,Mira,India,Telangana,Female,17-01-1978 00:00,,,0,Low,366
+1742-DZNQB,25-11-2021 00:00,Organic,25-11-2022 00:00,Premium,Annual,,,20.59,973,39,0,Pranav,India,Tamil Nadu,Male,03-05-1975 00:00,,,0,Low,365
+1743-FMKAE,06-01-2024 00:00,Paid,06-01-2025 00:00,Standard,Annual,,,17.11,355,37,0,Rohan,India,Madhya Pradesh,Male,17-09-1990 00:00,,,0,Low,366
+1744-LRWSG,20-05-2024 00:00,Paid,20-05-2025 00:00,Standard,Annual,,,16.21,1151,35,0,Shreya,India,Kerala,Female,16-12-2000 00:00,,,0,Low,365
+1745-WMPCB,09-07-2024 00:00,Paid,09-07-2025 00:00,Standard,Annual,,,9.66,299,71,0,Diya,India,Telangana,Female,27-04-1976 00:00,,,0,High,365
+1746-KQLYK,24-03-2023 00:00,Refferal,24-03-2024 00:00,Standard,Monthly,,,15.6,828,56,0,Sneha,India,Delhi,Female,26-06-1986 00:00,,,0,Medium,366
+1747-YXBCM,14-04-2021 00:00,Organic,14-04-2022 00:00,Premium,Annual,,,20.09,818,69,0,Priya,India,Karnataka,Female,26-09-2004 00:00,,,0,Medium,365
+1748-KAARP,26-05-2024 00:00,Paid,26-05-2025 00:00,Premium,Annual,21-01-2025 00:00,Switched to competitor,22.28,571,99,1,Raghav,India,Telangana,Male,02-03-1986 00:00,,,0,High,365
+1749-DVYHW,26-09-2020 00:00,Organic,26-09-2021 00:00,Standard,Monthly,,,17.55,537,58,0,Tanvi,India,Delhi,Female,15-10-1971 00:00,,,0,Medium,365
+1750-KDRUJ,22-12-2019 00:00,Organic,22-12-2020 00:00,Standard,Annual,22-04-2020 00:00,Poor streaming quality,11.06,774,43,1,Priya,India,Maharashtra,Female,20-10-1991 00:00,,,0,Low,366
+1751-SMKUQ,18-05-2023 00:00,Refferal,18-05-2024 00:00,Premium,Annual,17-03-2024 00:00,Switched to competitor,20.71,417,88,1,Aditi,India,Maharashtra,Female,23-05-1981 00:00,,,0,High,366
+1752-ZMMPE,14-12-2020 00:00,Paid,14-12-2021 00:00,Premium,Annual,,,20.96,772,28,0,Rahul,India,Uttar Pradesh,Male,26-08-1992 00:00,,,0,Low,365
+1753-DEGTX,17-05-2021 00:00,Paid,17-05-2022 00:00,Basic,Monthly,,,9.94,50,43,0,Isha,India,Rajasthan,Female,02-09-1994 00:00,,,0,Low,365
+1754-GVZGA,04-02-2020 00:00,Refferal,04-02-2021 00:00,Basic,Monthly,,,8.43,571,60,0,Mira,India,Delhi,Female,21-05-1993 00:00,,,0,Medium,366
+1755-UTMYT,07-01-2020 00:00,Organic,07-01-2021 00:00,Premium,Monthly,14-03-2020 00:00,Poor streaming quality,23.71,1030,37,1,Saurabh,India,Rajasthan,Male,08-04-1995 00:00,N,70,1,Low,366
+1756-VGTEK,01-05-2020 00:00,Paid,01-05-2021 00:00,Basic,Annual,,,10.61,550,4,0,Nikhil,India,Gujarat,Male,09-03-2002 00:00,,,0,Low,365
+1757-WLNNB,27-01-2022 00:00,Refferal,27-01-2023 00:00,Standard,Annual,,,12.88,739,46,0,Nandini,India,Bihar,Female,09-05-1987 00:00,,,0,Low,365
+1758-LUCRR,13-12-2023 00:00,Organic,13-12-2024 00:00,Premium,Monthly,,,19.92,912,46,0,Isha,India,Uttar Pradesh,Female,18-03-1977 00:00,,,0,Low,366
+1759-XSBZH,28-02-2019 00:00,Paid,28-02-2020 00:00,Standard,Annual,,,11.6,684,26,0,Manish,India,Maharashtra,Male,05-11-1998 00:00,,,0,Low,365
+1760-XVRQD,19-03-2022 00:00,Refferal,19-03-2023 00:00,Basic,Monthly,,,5.99,601,65,0,Arjun,India,Telangana,Male,04-03-1976 00:00,,,0,Medium,365
+1761-FDBCE,17-01-2019 00:00,Refferal,17-01-2020 00:00,Premium,Annual,,,17.19,1122,38,0,Aarav,India,Maharashtra,Male,15-07-2003 00:00,,,0,Low,365
+1762-CPVEK,25-09-2023 00:00,Organic,25-09-2024 00:00,Basic,Monthly,,,5.99,627,39,0,Raghav,India,Maharashtra,Male,10-09-1985 00:00,,,0,Low,366
+1763-EHWQV,11-05-2021 00:00,Organic,11-05-2022 00:00,Premium,Annual,20-06-2021 00:00,Switched to competitor,22.71,830,48,1,Rohan,India,Maharashtra,Male,27-08-1971 00:00,,,0,Low,365
+1764-SLCAR,11-09-2022 00:00,Refferal,11-09-2023 00:00,Basic,Annual,,,11.12,901,81,0,Riya,India,Kerala,Female,27-12-1975 00:00,,,0,High,365
+1765-NAUUL,15-10-2022 00:00,Paid,15-10-2023 00:00,Premium,Monthly,,,21.18,799,46,0,Raghav,India,Telangana,Male,24-09-1994 00:00,,,0,Low,365
+1766-CNSRU,23-01-2022 00:00,Refferal,23-01-2023 00:00,Standard,Monthly,24-08-2022 00:00,Poor streaming quality,15.14,1165,65,1,Yash,India,Maharashtra,Male,12-03-1997 00:00,,,0,Medium,365
+1767-PVEAZ,04-06-2023 00:00,Paid,04-06-2024 00:00,Standard,Monthly,,,15.42,784,24,0,Harsh,India,Nagaland,Male,26-02-1978 00:00,,,0,Low,366
+1768-QUCSW,16-10-2020 00:00,Organic,16-10-2021 00:00,Basic,Annual,,,5.99,593,33,0,Madhav,India,Maharashtra,Male,14-03-1995 00:00,,,0,Low,365
+1769-GTGDV,05-03-2023 00:00,Refferal,05-03-2024 00:00,Premium,Monthly,,,25.38,804,99,0,Riya,India,Nagaland,Female,14-06-1972 00:00,,,0,High,366
+1770-BKYXK,11-10-2023 00:00,Organic,11-10-2024 00:00,Premium,Annual,15-07-2024 00:00,Forgot to cancel trial,20.59,1171,66,1,Saurabh,India,Maharashtra,Male,28-05-1978 00:00,,,0,Medium,366
+1771-NDGLC,21-09-2021 00:00,Organic,21-09-2022 00:00,Standard,Annual,,,13.28,929,89,0,Sneha,India,Meghalaya,Female,01-06-2004 00:00,,,0,High,365
+1772-WXCVC,07-03-2023 00:00,Paid,07-03-2024 00:00,Basic,Monthly,,,9.09,698,68,0,Akash,India,Maharashtra,Male,12-12-1972 00:00,N,90,1,Medium,366
+1773-UPHHV,20-03-2021 00:00,Paid,20-03-2022 00:00,Basic,Annual,,,9.84,563,30,0,Harsh,India,Telangana,Male,18-10-1996 00:00,,,0,Low,365
+1774-VNDMV,22-09-2021 00:00,Organic,22-09-2022 00:00,Standard,Monthly,,,11.57,717,66,0,Siddharth,India,Madhya Pradesh,Male,09-01-1974 00:00,,,0,Medium,365
+1775-UTLNX,02-07-2023 00:00,Paid,02-07-2024 00:00,Standard,Monthly,07-12-2023 00:00,Not enough content,15,943,97,1,Nikhil,India,Kerala,Male,17-07-1979 00:00,,,0,High,366
+1776-PZHFY,23-05-2022 00:00,Paid,23-05-2023 00:00,Basic,Monthly,,,9.46,476,27,0,Shreya,India,Madhya Pradesh,Female,11-01-2004 00:00,,,0,Low,365
+1777-EEVQN,03-02-2020 00:00,Paid,03-02-2021 00:00,Premium,Monthly,05-01-2021 00:00,Switched to competitor,22.52,681,84,1,Meera,India,Maharashtra,Female,23-11-2001 00:00,,,0,High,366
+1778-SLKSE,22-02-2019 00:00,Organic,22-02-2020 00:00,Basic,Monthly,,,7.83,486,15,0,Omkar,India,Gujarat,Male,11-04-1993 00:00,,,0,Low,365
+1779-BDLVY,11-10-2024 00:00,Refferal,11-10-2025 00:00,Basic,Monthly,,,9.95,768,63,0,Nikhil,India,Maharashtra,Male,06-12-1983 00:00,,,0,Medium,365
+1780-WMPYS,01-12-2021 00:00,Organic,01-12-2022 00:00,Basic,Annual,,,8.1,333,42,0,Aditi,India,Madhya Pradesh,Female,01-01-1974 00:00,N,50,1,Low,365
+1781-BHQCF,11-10-2024 00:00,Organic,11-10-2025 00:00,Basic,Monthly,17-07-2025 00:00,Forgot to cancel trial,9.53,800,59,1,Kritika,India,Uttar Pradesh,Female,12-09-1981 00:00,N,90,1,Medium,365
+1782-BKLGU,12-12-2023 00:00,Organic,12-12-2024 00:00,Premium,Monthly,,,19.83,1246,12,0,Manish,India,Rajasthan,Male,07-12-1978 00:00,,,0,Low,366
+1783-JADJA,18-08-2019 00:00,Paid,18-08-2020 00:00,Basic,Annual,,,6.94,648,25,0,Ananya,India,Bihar,Female,05-05-1990 00:00,,,0,Low,366
+1784-FFHCA,18-09-2024 00:00,Organic,18-09-2025 00:00,Premium,Monthly,16-12-2024 00:00,Switched to competitor,20.13,945,86,1,Harsh,India,Maharashtra,Male,02-11-1996 00:00,,,0,High,365
+1785-VQAXJ,24-10-2020 00:00,Organic,24-10-2021 00:00,Standard,Monthly,26-03-2021 00:00,Poor streaming quality,15.49,1062,24,1,Meera,India,West Bengal,Female,11-08-2004 00:00,,,0,Low,365
+1786-VXDJN,03-02-2022 00:00,Organic,03-02-2023 00:00,Premium,Annual,,,21.56,653,45,0,Madhav,India,Rajasthan,Male,23-01-1999 00:00,,,0,Low,365
+1787-SERQR,19-06-2024 00:00,Organic,19-06-2025 00:00,Basic,Monthly,,,5.99,301,59,0,Yash,India,Madhya Pradesh,Male,17-02-2003 00:00,,,0,Medium,365
+1788-PTXPM,16-04-2021 00:00,Paid,16-04-2022 00:00,Standard,Annual,,,11.01,846,15,0,Pooja,India,Gujarat,Female,18-07-1976 00:00,,,0,Low,365
+1789-YNPXV,25-12-2020 00:00,Organic,25-12-2021 00:00,Standard,Monthly,23-06-2021 00:00,Forgot to cancel trial,12.61,441,91,1,Meera,India,Bihar,Female,22-01-1989 00:00,,,0,High,365
+1790-ZDYBC,19-06-2022 00:00,Organic,19-06-2023 00:00,Standard,Monthly,25-07-2022 00:00,Too expensive,10.23,687,30,1,Sakshi,India,Bihar,Female,05-12-1983 00:00,N,30,1,Low,365
+1791-TMWDX,09-07-2019 00:00,Refferal,09-07-2020 00:00,Standard,Monthly,07-06-2020 00:00,Too expensive,13.65,916,43,1,Yash,India,Gujarat,Male,17-03-1972 00:00,,,0,Low,366
+1792-MKQQF,02-10-2022 00:00,Paid,02-10-2023 00:00,Premium,Monthly,,,22.09,971,90,0,Aarav,India,Uttar Pradesh,Male,22-07-1975 00:00,,,0,High,365
+1793-GWTVB,12-01-2023 00:00,Refferal,12-01-2024 00:00,Standard,Annual,,,13.2,808,17,0,Shreya,India,Maharashtra,Female,04-04-1975 00:00,,,0,Low,365
+1794-YXAFK,21-05-2021 00:00,Organic,21-05-2022 00:00,Basic,Annual,,,8.56,335,19,0,Aditya,India,Telangana,Male,12-06-1995 00:00,,,0,Low,365
+1795-TPJHQ,09-03-2021 00:00,Organic,09-03-2022 00:00,Basic,Monthly,,,8.75,527,48,0,Saurabh,India,Karnataka,Male,05-07-1980 00:00,,,0,Low,365
+1796-SGDSW,27-05-2024 00:00,Paid,27-05-2025 00:00,Standard,Annual,,,12.32,400,45,0,Varun,India,Gujarat,Male,20-12-1976 00:00,,,0,Low,365
+1797-VXTZG,27-04-2021 00:00,Organic,27-04-2022 00:00,Basic,Annual,,,9.95,226,65,0,Pooja,India,Kerala,Female,18-06-1973 00:00,,,0,Medium,365
+1798-MAZGW,11-11-2024 00:00,Organic,11-11-2025 00:00,Premium,Monthly,,,18.95,736,27,0,Avni,India,Gujarat,Female,26-06-2001 00:00,,,0,Low,365
+1799-KYQNZ,18-01-2021 00:00,Organic,18-01-2022 00:00,Standard,Monthly,,,13.81,597,22,0,Akash,India,Karnataka,Male,03-03-1987 00:00,,,0,Low,365
+1800-NVEKD,05-05-2022 00:00,Paid,05-05-2023 00:00,Basic,Annual,04-09-2022 00:00,Poor streaming quality,5.99,424,49,1,Avni,India,Nagaland,Female,06-08-1989 00:00,,,0,Low,365
+1801-BSGPE,08-07-2023 00:00,Organic,08-07-2024 00:00,Standard,Monthly,,,12.4,724,60,0,Akash,India,Tamil Nadu,Male,10-06-1989 00:00,N,90,1,Medium,366
+1802-YDCJP,09-08-2023 00:00,Refferal,09-08-2024 00:00,Basic,Annual,,,7.39,677,80,0,Varun,India,Delhi,Male,12-04-1980 00:00,,,0,High,366
+1803-ZWYSS,13-07-2023 00:00,Organic,13-07-2024 00:00,Standard,Monthly,01-01-2024 00:00,Switched to competitor,11.13,829,75,1,Meera,India,Kerala,Female,15-04-1979 00:00,Y,80,2,High,366
+1804-RRBAD,10-10-2019 00:00,Paid,10-10-2020 00:00,Basic,Monthly,,,5.99,706,71,0,Kunal,India,Maharashtra,Male,15-06-1981 00:00,,,0,High,366
+1805-VSMDA,01-12-2020 00:00,Paid,01-12-2021 00:00,Standard,Monthly,,,11.52,927,37,0,Siddharth,India,Nagaland,Male,23-06-1992 00:00,,,0,Low,365
+1806-TZJXR,20-10-2023 00:00,Refferal,20-10-2024 00:00,Basic,Monthly,,,8.59,704,62,0,Arjun,India,Maharashtra,Male,23-11-1979 00:00,,,0,Medium,366
+1807-FJDLC,16-10-2022 00:00,Paid,16-10-2023 00:00,Premium,Monthly,25-02-2023 00:00,Poor streaming quality,21.85,842,34,1,Priya,India,Rajasthan,Female,18-01-1975 00:00,N,90,1,Low,365
+1808-XPPZS,15-06-2020 00:00,Organic,15-06-2021 00:00,Premium,Monthly,,,23.56,799,56,0,Diya,India,Madhya Pradesh,Female,28-09-1986 00:00,,,0,Medium,365
+1809-DYYNR,12-12-2020 00:00,Refferal,12-12-2021 00:00,Standard,Monthly,,,10.62,879,67,0,Mira,India,Bihar,Female,22-09-1992 00:00,,,0,Medium,365
+1810-RXFXU,27-02-2021 00:00,Organic,27-02-2022 00:00,Basic,Monthly,,,7.85,581,75,0,Isha,India,Maharashtra,Female,02-09-1977 00:00,,,0,High,365
+1811-RHARF,16-12-2023 00:00,Organic,16-12-2024 00:00,Standard,Monthly,,,15.23,742,32,0,Pooja,India,Meghalaya,Female,26-09-1973 00:00,,,0,Low,366
+1812-GBERB,01-05-2022 00:00,Paid,01-05-2023 00:00,Standard,Annual,,,13.61,840,56,0,Akash,India,Bihar,Male,03-02-1987 00:00,,,0,Medium,365
+1813-LMVBV,24-03-2019 00:00,Organic,24-03-2020 00:00,Standard,Monthly,25-08-2019 00:00,Poor streaming quality,13.7,799,74,1,Aarav,India,Karnataka,Male,22-03-1997 00:00,,,0,High,366
+1814-MPLAY,21-08-2020 00:00,Organic,21-08-2021 00:00,Standard,Annual,12-07-2021 00:00,Forgot to cancel trial,10.46,873,88,1,Ananya,India,Maharashtra,Female,16-08-1997 00:00,,,0,High,365
+1815-PJWYY,17-01-2020 00:00,Paid,17-01-2021 00:00,Standard,Annual,19-04-2020 00:00,Too expensive,11.15,392,66,1,Ananya,India,Maharashtra,Female,25-11-1975 00:00,N,80,1,Medium,366
+1816-GGRVG,25-11-2023 00:00,Paid,25-11-2024 00:00,Standard,Monthly,,,14.57,880,65,0,Rohan,India,Maharashtra,Male,15-09-1996 00:00,,,0,Medium,366
+1817-CVKJS,16-04-2024 00:00,Organic,16-04-2025 00:00,Basic,Annual,,,6.27,309,26,0,Madhav,India,Kerala,Male,14-01-1972 00:00,,,0,Low,365
+1818-MBXPJ,12-06-2020 00:00,Organic,12-06-2021 00:00,Basic,Monthly,,,6.16,342,48,0,Isha,India,Delhi,Female,12-12-1973 00:00,,,0,Low,365
+1819-BHGNW,28-05-2021 00:00,Paid,28-05-2022 00:00,Premium,Annual,05-11-2021 00:00,Switched to competitor,22.49,1067,91,1,Kritika,India,Meghalaya,Female,22-07-1988 00:00,Y,100,1,High,365
+1820-UFSWG,02-04-2020 00:00,Organic,02-04-2021 00:00,Standard,Monthly,,,14.52,918,67,0,Riya,India,Karnataka,Female,09-07-1987 00:00,,,0,Medium,365
+1821-PVRXP,06-12-2019 00:00,Organic,06-12-2020 00:00,Basic,Monthly,26-09-2020 00:00,Not enough content,8.16,556,67,1,Kavya,India,Karnataka,Female,25-01-1976 00:00,,,0,Medium,366
+1822-UJMQW,05-02-2022 00:00,Organic,05-02-2023 00:00,Standard,Monthly,05-09-2022 00:00,Switched to competitor,11.27,675,75,1,Rohan,India,Karnataka,Male,09-05-1972 00:00,N,70,2,High,365
+1823-HJSMA,11-12-2021 00:00,Organic,11-12-2022 00:00,Standard,Monthly,,,12.31,811,56,0,Sneha,India,Madhya Pradesh,Female,09-02-1983 00:00,N,70,1,Medium,365
+1824-YTAFH,23-08-2024 00:00,Paid,23-08-2025 00:00,Standard,Monthly,,,13.53,1089,83,0,Pooja,India,Karnataka,Female,04-11-1983 00:00,,,0,High,365
+1825-VAUZR,03-05-2022 00:00,Organic,03-05-2023 00:00,Standard,Monthly,12-11-2022 00:00,Switched to competitor,12.26,596,24,1,Harsh,India,Kerala,Male,02-10-1994 00:00,,,0,Low,365
+1826-UJBDP,17-03-2020 00:00,Organic,17-03-2021 00:00,Premium,Annual,23-06-2020 00:00,Not enough content,22.58,1172,48,1,Diya,India,Meghalaya,Female,25-08-1981 00:00,,,0,Low,365
+1827-FXFFG,05-07-2022 00:00,Organic,05-07-2023 00:00,Premium,Annual,,,18.05,597,69,0,Tanvi,India,Maharashtra,Female,14-11-1977 00:00,,,0,Medium,365
+1828-ERFBX,26-12-2021 00:00,Organic,26-12-2022 00:00,Basic,Monthly,18-11-2022 00:00,Switched to competitor,11.77,371,95,1,Harsh,India,Telangana,Male,06-08-1986 00:00,,,0,High,365
+1829-YRDBJ,23-11-2024 00:00,Organic,23-11-2025 00:00,Standard,Annual,,,12.78,741,67,0,Diya,India,Madhya Pradesh,Female,18-11-1986 00:00,,,0,Medium,365
+1830-EGKRF,11-03-2020 00:00,Paid,11-03-2021 00:00,Standard,Annual,,,13.89,323,51,0,Neha,India,Tamil Nadu,Female,05-11-2000 00:00,,,0,Medium,365
+1831-GGNTY,03-02-2020 00:00,Organic,03-02-2021 00:00,Premium,Monthly,,,20.96,674,46,0,Isha,India,Uttar Pradesh,Female,25-10-1998 00:00,,,0,Low,366
+1832-SKYQS,19-02-2021 00:00,Paid,19-02-2022 00:00,Premium,Annual,30-08-2021 00:00,Switched to competitor,24.17,1167,28,1,Saurabh,India,Kerala,Male,23-05-2001 00:00,Y,50,1,Low,365
+1833-FLDJG,24-12-2020 00:00,Organic,24-12-2021 00:00,Basic,Monthly,,,7.38,618,43,0,Vivek,India,Nagaland,Male,11-11-1994 00:00,,,0,Low,365
+1834-XANNN,25-10-2019 00:00,Paid,25-10-2020 00:00,Premium,Monthly,,,21.74,1207,78,0,Aditi,India,Karnataka,Female,01-03-1971 00:00,,,0,High,366
+1835-KRFYQ,19-06-2020 00:00,Refferal,19-06-2021 00:00,Basic,Monthly,,,7.26,232,35,0,Diya,India,Karnataka,Female,16-08-1981 00:00,,,0,Low,365
+1836-DRPYD,19-12-2024 00:00,Organic,19-12-2025 00:00,Standard,Monthly,,,12.17,763,99,0,Kavya,India,Maharashtra,Female,02-04-1996 00:00,,,0,High,365
+1837-VTRYB,24-04-2020 00:00,Paid,24-04-2021 00:00,Basic,Annual,10-10-2020 00:00,Forgot to cancel trial,5.99,573,14,1,Sneha,India,Delhi,Female,17-10-1986 00:00,,,0,Low,365
+1838-SDVCW,28-03-2023 00:00,Paid,28-03-2024 00:00,Standard,Monthly,,,15.19,889,71,0,Rahul,India,West Bengal,Male,10-12-1993 00:00,N,90,1,High,366
+1839-BHHDW,17-06-2020 00:00,Organic,17-06-2021 00:00,Basic,Annual,,,7.71,650,49,0,Rohan,India,Tamil Nadu,Male,17-10-1981 00:00,,,0,Low,365
+1840-HTQTF,23-05-2019 00:00,Paid,23-05-2020 00:00,Basic,Monthly,,,5.99,380,47,0,Vivek,India,Uttar Pradesh,Male,06-03-1997 00:00,,,0,Low,366
+1841-TYYPW,17-03-2024 00:00,Paid,17-03-2025 00:00,Standard,Monthly,23-11-2024 00:00,Poor streaming quality,14.38,759,99,1,Aditya,India,Rajasthan,Male,27-03-1998 00:00,,,0,High,365
+1842-TSBJE,11-01-2024 00:00,Refferal,11-01-2025 00:00,Premium,Monthly,,,20.3,1026,83,0,Varun,India,Delhi,Male,07-07-2004 00:00,Y,100,1,High,366
+1843-RPQBK,13-10-2023 00:00,Organic,13-10-2024 00:00,Standard,Annual,,,14.91,1076,61,0,Pooja,India,Tamil Nadu,Female,28-04-1997 00:00,,,0,Medium,366
+1844-NRXZX,07-02-2019 00:00,Organic,07-02-2020 00:00,Basic,Monthly,,,5.99,352,60,0,Pooja,India,Meghalaya,Female,14-04-1976 00:00,,,0,Medium,365
+1845-SWTFX,13-08-2022 00:00,Paid,13-08-2023 00:00,Basic,Monthly,,,9.21,591,31,0,Kritika,India,Gujarat,Female,16-09-1974 00:00,,,0,Low,365
+1846-RYNWV,04-12-2023 00:00,Paid,04-12-2024 00:00,Standard,Annual,,,13.34,764,73,0,Aditya,India,Uttar Pradesh,Male,15-10-1999 00:00,,,0,High,366
+1847-JMTAT,15-06-2020 00:00,Paid,15-06-2021 00:00,Basic,Annual,,,5.99,291,46,0,Omkar,India,Nagaland,Male,13-09-1995 00:00,,,0,Low,365
+1848-QSRAL,10-10-2022 00:00,Paid,10-10-2023 00:00,Basic,Monthly,,,5.99,435,48,0,Neha,India,Uttar Pradesh,Female,09-08-1971 00:00,,,0,Low,365
+1849-QHSGJ,15-07-2019 00:00,Paid,15-07-2020 00:00,Basic,Annual,,,13.33,334,54,0,Shreya,India,Delhi,Female,26-04-2002 00:00,,,0,Medium,366
+1850-NNZHQ,04-03-2021 00:00,Organic,04-03-2022 00:00,Premium,Annual,23-11-2021 00:00,Switched to competitor,19.75,1207,77,1,Madhav,India,Delhi,Male,06-10-1970 00:00,N,90,1,High,365
+1851-GWJCF,04-12-2021 00:00,Refferal,04-12-2022 00:00,Standard,Monthly,19-08-2022 00:00,Not enough content,10.5,1083,12,1,Rohan,India,Delhi,Male,27-11-1989 00:00,N,70,1,Low,365
+1852-QWQRA,19-08-2022 00:00,Refferal,19-08-2023 00:00,Basic,Annual,,,8.85,703,22,0,Shreya,India,Delhi,Female,07-10-1986 00:00,,,0,Low,365
+1853-DXVAR,20-03-2021 00:00,Paid,20-03-2022 00:00,Standard,Monthly,,,8.19,716,59,0,Akash,India,Nagaland,Male,08-01-1977 00:00,,,0,Medium,365
+1854-YVJHA,25-07-2021 00:00,Organic,25-07-2022 00:00,Basic,Annual,,,10.02,565,18,0,Kunal,India,Maharashtra,Male,20-10-1992 00:00,,,0,Low,365
+1855-RRLAM,11-07-2023 00:00,Paid,11-07-2024 00:00,Basic,Annual,,,5.99,285,50,0,Shreya,India,Delhi,Female,26-11-1988 00:00,,,0,Medium,366
+1856-BDHJC,08-08-2024 00:00,Paid,08-08-2025 00:00,Premium,Annual,,,20.09,813,34,0,Aarav,India,West Bengal,Male,22-03-1995 00:00,,,0,Low,365
+1857-NPFJH,28-12-2020 00:00,Refferal,28-12-2021 00:00,Basic,Monthly,,,9.88,564,44,0,Mansi,India,Delhi,Female,22-10-1981 00:00,,,0,Low,365
+1858-BJBWB,07-11-2021 00:00,Organic,07-11-2022 00:00,Standard,Monthly,,,10.8,694,49,0,Kritika,India,Maharashtra,Female,10-08-1998 00:00,,,0,Low,365
+1859-CUMJH,04-04-2020 00:00,Refferal,04-04-2021 00:00,Standard,Monthly,14-08-2020 00:00,Too expensive,19.76,1349,30,1,Ananya,India,Karnataka,Female,11-01-1983 00:00,,,0,Low,365
+1860-QEYNN,14-09-2021 00:00,Organic,14-09-2022 00:00,Basic,Annual,19-03-2022 00:00,Poor streaming quality,10.18,869,48,1,Varun,India,Maharashtra,Male,18-08-1981 00:00,,,0,Low,365
+1861-YTMVN,16-07-2021 00:00,Paid,16-07-2022 00:00,Basic,Monthly,,,8.81,579,61,0,Aniket,India,Telangana,Male,14-06-1976 00:00,,,0,Medium,365
+1862-YZFVD,18-01-2019 00:00,Organic,18-01-2020 00:00,Standard,Monthly,16-06-2019 00:00,Not enough content,16.68,520,81,1,Shreya,India,Uttar Pradesh,Female,11-05-1997 00:00,,,0,High,365
+1863-NKNXE,18-03-2022 00:00,Paid,18-03-2023 00:00,Premium,Monthly,,,18.09,772,60,0,Shreya,India,Delhi,Female,10-09-2002 00:00,,,0,Medium,365
+1864-UDNCQ,18-09-2021 00:00,Refferal,18-09-2022 00:00,Basic,Annual,,,7.85,444,70,0,Kunal,India,Maharashtra,Male,18-12-1999 00:00,,,0,High,365
+1865-UNXGH,03-02-2023 00:00,Organic,03-02-2024 00:00,Basic,Monthly,,,7.9,652,51,0,Madhav,India,Tamil Nadu,Male,16-07-1983 00:00,,,0,Medium,365
+1866-NUPQZ,19-08-2022 00:00,Paid,19-08-2023 00:00,Basic,Monthly,,,5.99,504,39,0,Madhav,India,Goa,Male,01-10-1991 00:00,,,0,Low,365
+1867-VJRRT,24-12-2019 00:00,Paid,24-12-2020 00:00,Basic,Monthly,29-05-2020 00:00,Forgot to cancel trial,10.63,162,41,1,Saurabh,India,Bihar,Male,11-11-1970 00:00,,,0,Low,366
+1868-MDWJF,11-05-2019 00:00,Organic,11-05-2020 00:00,Basic,Monthly,,,9.35,338,35,0,Priya,India,Uttar Pradesh,Female,27-06-2003 00:00,,,0,Low,366
+1869-YVNEU,08-06-2020 00:00,Organic,08-06-2021 00:00,Premium,Monthly,19-12-2020 00:00,Poor streaming quality,19.62,539,57,1,Saurabh,India,Maharashtra,Male,24-09-1992 00:00,,,0,Medium,365
+1870-HRCJK,13-04-2021 00:00,Paid,13-04-2022 00:00,Premium,Annual,,,16.14,1213,77,0,Isha,India,Uttar Pradesh,Female,12-06-1981 00:00,,,0,High,365
+1871-EADQZ,03-05-2021 00:00,Organic,03-05-2022 00:00,Premium,Annual,,,22.42,1019,27,0,Diya,India,Maharashtra,Female,06-05-1985 00:00,,,0,Low,365
+1872-ZHXJW,07-08-2020 00:00,Organic,07-08-2021 00:00,Basic,Monthly,,,7.98,764,63,0,Diya,India,Tamil Nadu,Female,04-06-1972 00:00,,,0,Medium,365
+1873-CRSLN,09-07-2022 00:00,Paid,09-07-2023 00:00,Standard,Annual,,,12.37,926,52,0,Harsh,India,Delhi,Male,19-01-1983 00:00,,,0,Medium,365
+1874-PENWY,04-08-2020 00:00,Organic,04-08-2021 00:00,Standard,Annual,,,17.19,1116,64,0,Mira,India,Kerala,Female,28-02-1992 00:00,,,0,Medium,365
+1875-ZUUWV,16-09-2020 00:00,Refferal,16-09-2021 00:00,Standard,Annual,12-02-2021 00:00,Too expensive,14.17,758,80,1,Siddharth,India,Delhi,Male,17-10-1983 00:00,,,0,High,365
+1876-LVCTQ,09-06-2020 00:00,Refferal,09-06-2021 00:00,Premium,Annual,04-10-2020 00:00,Too expensive,19.1,1225,86,1,Yash,India,Karnataka,Male,06-01-1996 00:00,,,0,High,365
+1877-TJMAU,12-05-2020 00:00,Paid,12-05-2021 00:00,Premium,Monthly,25-04-2021 00:00,Poor streaming quality,20.02,1083,53,1,Aarav,India,Maharashtra,Male,19-12-2001 00:00,,,0,Medium,365
+1878-YYDGY,06-03-2020 00:00,Refferal,06-03-2021 00:00,Standard,Annual,,,15.01,665,52,0,Harsh,India,Gujarat,Male,24-03-2000 00:00,N,30,2,Medium,365
+1879-AHNCK,20-01-2019 00:00,Organic,20-01-2020 00:00,Basic,Annual,,,11.73,764,66,0,Manish,India,Maharashtra,Male,15-07-2004 00:00,,,0,Medium,365
+1880-JKPAJ,01-01-2023 00:00,Organic,01-01-2024 00:00,Premium,Monthly,17-02-2023 00:00,Poor streaming quality,23.06,836,38,1,Kritika,India,Delhi,Female,16-02-1973 00:00,N,90,1,Low,365
+1881-XRMEA,18-03-2023 00:00,Organic,18-03-2024 00:00,Premium,Annual,26-08-2023 00:00,Not enough content,24.97,705,48,1,Meera,India,Kerala,Female,14-12-1987 00:00,N,60,4,Low,366
+1882-DTYTQ,14-03-2024 00:00,Organic,14-03-2025 00:00,Standard,Monthly,,,12.56,524,30,0,Tanvi,India,Tamil Nadu,Female,13-03-2000 00:00,,,0,Low,365
+1883-MVTAZ,04-03-2019 00:00,Organic,04-03-2020 00:00,Basic,Annual,,,7.17,535,9,0,Madhav,India,Goa,Male,18-10-1992 00:00,,,0,Low,366
+1884-ELXZS,02-07-2022 00:00,Organic,02-07-2023 00:00,Premium,Monthly,,,22.98,934,41,0,Mira,India,Rajasthan,Female,22-09-1997 00:00,,,0,Low,365
+1885-LRZZC,24-10-2022 00:00,Refferal,24-10-2023 00:00,Standard,Monthly,,,15.11,850,79,0,Manish,India,Delhi,Male,14-02-1978 00:00,,,0,High,365
+1886-ZRWUZ,19-04-2019 00:00,Organic,19-04-2020 00:00,Premium,Monthly,23-05-2019 00:00,Too expensive,22.87,849,36,1,Mansi,India,Karnataka,Female,15-05-1997 00:00,Y,20,2,Low,366
+1887-UAAPK,04-05-2019 00:00,Paid,04-05-2020 00:00,Standard,Monthly,,,14.37,344,71,0,Shreya,India,Rajasthan,Female,01-10-1977 00:00,,,0,High,366
+1888-TDFSE,26-09-2019 00:00,Refferal,26-09-2020 00:00,Standard,Monthly,,,12.02,650,69,0,Avni,India,Gujarat,Female,23-12-1999 00:00,,,0,Medium,366
+1889-PMGFB,03-09-2019 00:00,Paid,03-09-2020 00:00,Basic,Annual,,,9.01,658,13,0,Isha,India,Karnataka,Female,24-02-1977 00:00,,,0,Low,366
+1890-UZHZE,15-01-2022 00:00,Paid,15-01-2023 00:00,Basic,Annual,08-12-2022 00:00,Not enough content,5.99,658,57,1,Aditi,India,Maharashtra,Female,25-06-1983 00:00,,,0,Medium,365
+1891-DBBDX,17-04-2024 00:00,Organic,17-04-2025 00:00,Standard,Annual,03-12-2024 00:00,Too expensive,12.46,546,61,1,Kunal,India,Gujarat,Male,23-02-2004 00:00,,,0,Medium,365
+1892-XMSXM,06-02-2021 00:00,Paid,06-02-2022 00:00,Standard,Annual,24-08-2021 00:00,Switched to competitor,12.8,350,27,1,Ananya,India,Meghalaya,Female,12-04-1980 00:00,,,0,Low,365
+1893-YRUZJ,09-01-2020 00:00,Organic,09-01-2021 00:00,Standard,Monthly,,,14.76,770,20,0,Raghav,India,Uttar Pradesh,Male,02-02-1995 00:00,,,0,Low,366
+1894-ATTEZ,18-05-2024 00:00,Paid,18-05-2025 00:00,Standard,Monthly,,,13.41,578,74,0,Harsh,India,Gujarat,Male,12-02-1997 00:00,,,0,High,365
+1895-UTZGK,20-02-2019 00:00,Organic,20-02-2020 00:00,Basic,Monthly,,,7.27,644,66,0,Raghav,India,Uttar Pradesh,Male,14-08-1979 00:00,,,0,Medium,365
+1896-ZHWGJ,05-11-2024 00:00,Organic,05-11-2025 00:00,Premium,Annual,,,21.69,351,64,0,Sneha,India,Rajasthan,Female,06-09-1996 00:00,,,0,Medium,365
+1897-LVYYU,26-05-2023 00:00,Refferal,26-05-2024 00:00,Standard,Monthly,,,15.65,623,70,0,Kunal,India,Delhi,Male,15-10-1974 00:00,,,0,High,366
+1898-JAZCN,24-05-2019 00:00,Organic,24-05-2020 00:00,Standard,Annual,18-08-2019 00:00,Too expensive,13.45,513,47,1,Riya,India,Bihar,Female,11-04-1978 00:00,,,0,Low,366
+1899-LGTJJ,20-12-2024 00:00,Paid,20-12-2025 00:00,Standard,Monthly,,,14.72,920,91,0,Aarav,India,Bihar,Male,21-05-1987 00:00,Y,90,2,High,365
+1900-VTNGV,06-02-2020 00:00,Organic,06-02-2021 00:00,Premium,Monthly,,,18.1,855,76,0,Omkar,India,Meghalaya,Male,28-06-1971 00:00,,,0,High,366
+1901-FASBQ,07-01-2019 00:00,Organic,07-01-2020 00:00,Basic,Annual,,,8.84,941,67,0,Aditi,India,Tamil Nadu,Female,05-08-1985 00:00,,,0,Medium,365
+1902-QYBVA,25-08-2023 00:00,Paid,25-08-2024 00:00,Standard,Monthly,09-04-2024 00:00,Too expensive,16.24,1102,64,1,Siddharth,India,Delhi,Male,08-02-2000 00:00,,,0,Medium,366
+1903-SQUBN,15-04-2019 00:00,Organic,15-04-2020 00:00,Basic,Monthly,11-01-2020 00:00,Too expensive,8.31,501,50,1,Harsh,India,Uttar Pradesh,Male,11-09-1999 00:00,,,0,Medium,366
+1904-WNADM,27-08-2023 00:00,Paid,27-08-2024 00:00,Basic,Annual,,,11.43,949,26,0,Arjun,India,Rajasthan,Male,14-02-1996 00:00,,,0,Low,366
+1905-GMCEJ,01-09-2021 00:00,Organic,01-09-2022 00:00,Standard,Annual,,,15.09,985,15,0,Rohan,India,Rajasthan,Male,28-09-1996 00:00,,,0,Low,365
+1906-ARSHV,22-10-2022 00:00,Refferal,22-10-2023 00:00,Premium,Monthly,20-07-2023 00:00,Switched to competitor,16.37,896,76,1,Siddharth,India,Kerala,Male,27-03-1981 00:00,,,0,High,365
+1907-SBQCP,01-02-2022 00:00,Organic,01-02-2023 00:00,Standard,Monthly,25-11-2022 00:00,Not enough content,12.69,1182,58,1,Neha,India,Maharashtra,Female,04-12-1973 00:00,N,50,2,Medium,365
+1908-BAHCL,24-08-2022 00:00,Paid,24-08-2023 00:00,Standard,Annual,,,12.88,872,26,0,Aarav,India,Delhi,Male,05-01-1984 00:00,,,0,Low,365
+1909-FSYWF,16-03-2021 00:00,Paid,16-03-2022 00:00,Standard,Annual,,,18.31,824,51,0,Aditya,India,Maharashtra,Male,25-02-1971 00:00,,,0,Medium,365
+1910-PHUWD,11-02-2023 00:00,Refferal,11-02-2024 00:00,Standard,Monthly,,,16.94,854,38,0,Saurabh,India,Madhya Pradesh,Male,05-02-1991 00:00,,,0,Low,365
+1911-MFKDU,04-08-2019 00:00,Refferal,04-08-2020 00:00,Basic,Monthly,06-03-2020 00:00,Poor streaming quality,10.7,820,88,1,Nandini,India,West Bengal,Female,15-08-1997 00:00,,,0,High,366
+1912-MZUMT,27-02-2021 00:00,Paid,27-02-2022 00:00,Basic,Annual,,,6.05,365,90,0,Vivek,India,Rajasthan,Male,17-04-1989 00:00,N,70,1,High,365
+1913-NZXEN,05-04-2024 00:00,Refferal,05-04-2025 00:00,Standard,Monthly,25-10-2024 00:00,Too expensive,13.25,1067,63,1,Priya,India,Rajasthan,Female,05-05-1997 00:00,,,0,Medium,365
+1914-KLDQF,08-11-2023 00:00,Paid,08-11-2024 00:00,Basic,Annual,,,9.87,608,54,0,Pallavi,India,Tamil Nadu,Female,22-07-1973 00:00,,,0,Medium,366
+1915-ANWUM,07-06-2019 00:00,Organic,07-06-2020 00:00,Standard,Annual,05-03-2020 00:00,Forgot to cancel trial,14.09,308,60,1,Sneha,India,Goa,Female,28-10-1990 00:00,,,0,Medium,366
+1916-TJDWQ,27-12-2022 00:00,Organic,27-12-2023 00:00,Basic,Annual,,,7.34,242,47,0,Arjun,India,Tamil Nadu,Male,05-05-2003 00:00,,,0,Low,365
+1917-MCBMJ,18-10-2020 00:00,Refferal,18-10-2021 00:00,Standard,Monthly,,,14.84,1085,51,0,Diya,India,Uttar Pradesh,Female,14-02-2001 00:00,Y,100,1,Medium,365
+1918-EWEAE,02-02-2022 00:00,Organic,02-02-2023 00:00,Standard,Monthly,,,17.45,999,45,0,Avni,India,Tamil Nadu,Female,09-02-1970 00:00,N,40,1,Low,365
+1919-XAJAA,06-08-2019 00:00,Organic,06-08-2020 00:00,Standard,Annual,,,13.83,773,37,0,Siddharth,India,Karnataka,Male,09-03-1999 00:00,,,0,Low,366
+1920-YAKYG,23-08-2020 00:00,Organic,23-08-2021 00:00,Basic,Annual,,,6.32,537,15,0,Yash,India,Uttar Pradesh,Male,23-02-1990 00:00,,,0,Low,365
+1921-VFRHU,28-08-2020 00:00,Organic,28-08-2021 00:00,Basic,Annual,,,9.37,739,23,0,Priya,India,Maharashtra,Female,14-12-1997 00:00,,,0,Low,365
+1922-RJLAW,18-01-2020 00:00,Organic,18-01-2021 00:00,Basic,Annual,,,6.6,714,47,0,Riya,India,Tamil Nadu,Female,16-12-1996 00:00,,,0,Low,366
+1923-DUXUY,07-06-2020 00:00,Refferal,07-06-2021 00:00,Basic,Monthly,10-08-2020 00:00,Switched to competitor,7.92,362,60,1,Pranav,India,Maharashtra,Male,19-09-1986 00:00,,,0,Medium,365
+1924-RHWBQ,20-04-2024 00:00,Organic,20-04-2025 00:00,Basic,Annual,23-09-2024 00:00,Poor streaming quality,7.56,487,37,1,Nikhil,India,Delhi,Male,28-04-1972 00:00,,,0,Low,365
+1925-DVAPT,13-10-2021 00:00,Paid,13-10-2022 00:00,Basic,Annual,,,7.6,338,9,0,Vivek,India,Maharashtra,Male,03-05-1987 00:00,,,0,Low,365
+1926-ZKBMQ,15-04-2023 00:00,Organic,15-04-2024 00:00,Basic,Annual,03-12-2023 00:00,Poor streaming quality,7.36,384,36,1,Pooja,India,Maharashtra,Female,06-07-1970 00:00,,,0,Low,366
+1927-MFKYW,01-12-2020 00:00,Organic,01-12-2021 00:00,Premium,Monthly,,,20.85,787,73,0,Sakshi,India,Delhi,Female,13-11-2002 00:00,,,0,High,365
+1928-DTNGW,04-06-2019 00:00,Organic,04-06-2020 00:00,Basic,Annual,,,6.56,232,14,0,Priya,India,Karnataka,Female,12-02-1976 00:00,,,0,Low,366
+1929-WNLYM,18-09-2019 00:00,Paid,18-09-2020 00:00,Basic,Annual,,,6.92,411,36,0,Madhav,India,Rajasthan,Male,23-06-1978 00:00,,,0,Low,366
+1930-CEYAU,19-03-2020 00:00,Organic,19-03-2021 00:00,Standard,Monthly,,,11.14,706,45,0,Sakshi,India,Maharashtra,Female,13-11-2001 00:00,N,70,1,Low,365
+1931-BNRUJ,24-01-2020 00:00,Organic,24-01-2021 00:00,Standard,Monthly,,,15.3,532,43,0,Varun,India,Maharashtra,Male,14-12-1990 00:00,,,0,Low,366
+1932-FUWTB,12-03-2023 00:00,Paid,12-03-2024 00:00,Standard,Annual,11-09-2023 00:00,Poor streaming quality,11.95,388,50,1,Pooja,India,Telangana,Female,28-03-1981 00:00,,,0,Medium,366
+1933-QGEAW,23-10-2019 00:00,Refferal,23-10-2020 00:00,Standard,Monthly,,,15.25,525,14,0,Rahul,India,Karnataka,Male,10-02-1987 00:00,,,0,Low,366
+1934-GVJWZ,20-04-2024 00:00,Organic,20-04-2025 00:00,Basic,Annual,25-11-2024 00:00,Too expensive,8.65,1054,46,1,Diya,India,Karnataka,Female,27-08-1974 00:00,N,100,1,Low,365
+1935-KABZY,14-12-2024 00:00,Refferal,14-12-2025 00:00,Premium,Monthly,,,21.76,864,38,0,Saurabh,India,Rajasthan,Male,13-06-1972 00:00,,,0,Low,365
+1936-NYAPF,07-02-2024 00:00,Paid,07-02-2025 00:00,Premium,Annual,18-01-2025 00:00,Not enough content,17.08,551,55,1,Siddharth,India,Karnataka,Male,27-08-1975 00:00,Y,25,1,Medium,366
+1937-JXGXE,07-12-2022 00:00,Organic,07-12-2023 00:00,Premium,Annual,,,23,1189,41,0,Saurabh,India,Rajasthan,Male,12-09-1994 00:00,,,0,Low,365
+1938-VMWCP,06-12-2021 00:00,Paid,06-12-2022 00:00,Basic,Monthly,21-05-2022 00:00,Not enough content,6.59,356,92,1,Aditya,India,Tamil Nadu,Male,20-10-2001 00:00,,,0,High,365
+1939-FJUVN,13-04-2024 00:00,Paid,13-04-2025 00:00,Premium,Monthly,07-01-2025 00:00,Too expensive,25.02,911,83,1,Avni,India,Karnataka,Female,12-03-1970 00:00,,,0,High,365
+1940-SBAYQ,09-12-2022 00:00,Paid,09-12-2023 00:00,Basic,Annual,,,8.8,94,54,0,Aniket,India,Kerala,Male,24-08-1990 00:00,,,0,Medium,365
+1941-MBSBM,13-01-2022 00:00,Paid,13-01-2023 00:00,Standard,Monthly,,,13.38,878,78,0,Kavya,India,Delhi,Female,17-09-1999 00:00,,,0,High,365
+1942-KXWDX,20-12-2023 00:00,Organic,20-12-2024 00:00,Standard,Annual,,,10.9,998,46,0,Omkar,India,Telangana,Male,22-06-1974 00:00,,,0,Low,366
+1943-CUHAL,23-04-2019 00:00,Organic,23-04-2020 00:00,Basic,Monthly,,,10.73,700,48,0,Aditi,India,Delhi,Female,14-06-1985 00:00,,,0,Low,366
+1944-RRAKS,09-11-2023 00:00,Paid,09-11-2024 00:00,Premium,Annual,,,20.18,828,17,0,Varun,India,Madhya Pradesh,Male,06-12-1981 00:00,,,0,Low,366
+1945-FUSVB,24-01-2022 00:00,Paid,24-01-2023 00:00,Premium,Annual,,,24.43,1241,50,0,Ananya,India,Telangana,Female,22-05-1983 00:00,,,0,Medium,365
+1946-PDCLG,06-04-2022 00:00,Organic,06-04-2023 00:00,Premium,Annual,13-05-2022 00:00,Poor streaming quality,20.33,1015,97,1,Sneha,India,Telangana,Female,24-11-1995 00:00,,,0,High,365
+1947-PUNQS,15-02-2022 00:00,Paid,15-02-2023 00:00,Standard,Annual,,,18.87,811,47,0,Manish,India,Maharashtra,Male,23-07-1979 00:00,,,0,Low,365
+1948-KHATQ,25-06-2021 00:00,Organic,25-06-2022 00:00,Standard,Annual,,,10.65,441,81,0,Aditya,India,Gujarat,Male,10-06-1985 00:00,N,20,1,High,365
+1949-GQDZF,17-08-2022 00:00,Paid,17-08-2023 00:00,Premium,Monthly,,,21.47,691,39,0,Isha,India,Tamil Nadu,Female,22-12-1979 00:00,,,0,Low,365
+1950-CXNWU,07-01-2021 00:00,Organic,07-01-2022 00:00,Premium,Annual,09-12-2021 00:00,Too expensive,19.15,727,40,1,Vivek,India,Nagaland,Male,24-10-1986 00:00,,,0,Low,365
+1951-LBARA,27-05-2024 00:00,Paid,27-05-2025 00:00,Basic,Monthly,05-07-2024 00:00,Poor streaming quality,6.78,233,72,1,Saurabh,India,Maharashtra,Male,06-09-1979 00:00,,,0,High,365
+1952-PJPRM,26-03-2019 00:00,Organic,26-03-2020 00:00,Standard,Monthly,02-07-2019 00:00,Switched to competitor,14.48,529,84,1,Sneha,India,Maharashtra,Female,14-01-2004 00:00,Y,70,1,High,366
+1953-SXGFV,24-01-2020 00:00,Refferal,24-01-2021 00:00,Standard,Annual,16-05-2020 00:00,Not enough content,12.41,779,42,1,Pooja,India,Uttar Pradesh,Female,22-09-1991 00:00,,,0,Low,366
+1954-QYDFJ,21-07-2023 00:00,Refferal,21-07-2024 00:00,Premium,Monthly,28-02-2024 00:00,Not enough content,21.42,794,49,1,Rahul,India,Telangana,Male,15-10-1987 00:00,,,0,Low,366
+1955-SBJSL,27-05-2024 00:00,Organic,27-05-2025 00:00,Premium,Monthly,13-04-2025 00:00,Poor streaming quality,18.56,1208,77,1,Varun,India,Tamil Nadu,Male,22-05-1993 00:00,N,40,1,High,365
+1956-FAKMU,02-12-2020 00:00,Paid,02-12-2021 00:00,Premium,Monthly,30-07-2021 00:00,Forgot to cancel trial,20.31,823,45,1,Riya,India,Uttar Pradesh,Female,19-06-1978 00:00,Y,100,1,Low,365
+1957-KEJQQ,15-09-2023 00:00,Organic,15-09-2024 00:00,Standard,Monthly,,,15.17,610,84,0,Harsh,India,Madhya Pradesh,Male,11-04-1985 00:00,,,0,High,366
+1958-FNBYV,01-07-2020 00:00,Organic,01-07-2021 00:00,Basic,Annual,26-03-2021 00:00,Poor streaming quality,9,369,2,1,Vivek,India,Delhi,Male,07-12-2003 00:00,,,0,Low,365
+1959-TBVTR,16-10-2023 00:00,Refferal,16-10-2024 00:00,Basic,Annual,,,7.92,258,21,0,Raghav,India,Gujarat,Male,10-04-1974 00:00,,,0,Low,366
+1960-LHSHT,27-06-2020 00:00,Paid,27-06-2021 00:00,Basic,Monthly,,,6.52,483,59,0,Raghav,India,Madhya Pradesh,Male,23-10-1991 00:00,,,0,Medium,365
+1961-QGXKX,15-01-2024 00:00,Refferal,15-01-2025 00:00,Standard,Monthly,,,9.07,417,7,0,Yash,India,Meghalaya,Male,03-01-1978 00:00,,,0,Low,366
+1962-URTZG,22-02-2020 00:00,Organic,22-02-2021 00:00,Basic,Annual,,,9,348,2,0,Raghav,India,Karnataka,Male,09-08-1989 00:00,,,0,Low,366
+1963-MRBZJ,07-08-2023 00:00,Organic,07-08-2024 00:00,Basic,Monthly,03-02-2024 00:00,Not enough content,6.83,390,81,1,Akash,India,Maharashtra,Male,05-01-1981 00:00,,,0,High,366
+1964-PAGLL,03-10-2019 00:00,Refferal,03-10-2020 00:00,Premium,Annual,,,21.83,803,57,0,Neha,India,West Bengal,Female,01-02-1990 00:00,,,0,Medium,366
+1965-CSZDN,12-01-2023 00:00,Paid,12-01-2024 00:00,Basic,Annual,,,9.68,630,49,0,Sneha,India,Karnataka,Female,09-04-1994 00:00,,,0,Low,365
+1966-GTQSF,27-04-2023 00:00,Organic,27-04-2024 00:00,Premium,Annual,,,29.63,1535,6,0,Omkar,India,Maharashtra,Male,01-08-2001 00:00,,,0,Low,366
+1967-ZFYTD,12-09-2020 00:00,Organic,12-09-2021 00:00,Premium,Monthly,,,20.36,981,68,0,Varun,India,Maharashtra,Male,13-10-1983 00:00,,,0,Medium,365
+1968-ALNDH,11-04-2024 00:00,Organic,11-04-2025 00:00,Standard,Monthly,05-01-2025 00:00,Not enough content,13.06,659,42,1,Sneha,India,Bihar,Female,23-05-1994 00:00,Y,20,3,Low,365
+1969-EZTQQ,11-02-2019 00:00,Paid,11-02-2020 00:00,Standard,Monthly,03-10-2019 00:00,Too expensive,10.65,444,76,1,Isha,India,Maharashtra,Female,28-11-1982 00:00,N,80,1,High,365
+1970-SDAFX,26-12-2024 00:00,Refferal,26-12-2025 00:00,Basic,Monthly,,,5.99,781,39,0,Manish,India,Rajasthan,Male,23-06-1987 00:00,,,0,Low,365
+1971-BUGTV,08-03-2022 00:00,Organic,08-03-2023 00:00,Basic,Annual,03-08-2022 00:00,Switched to competitor,6.81,299,50,1,Isha,India,Uttar Pradesh,Female,26-08-1996 00:00,,,0,Medium,365
+1972-THDMP,02-04-2022 00:00,Refferal,02-04-2023 00:00,Standard,Monthly,07-07-2022 00:00,Forgot to cancel trial,15.66,1284,71,1,Aditi,India,Karnataka,Female,13-09-1994 00:00,Y,100,1,High,365
+1973-QAFBC,09-10-2019 00:00,Paid,09-10-2020 00:00,Basic,Annual,,,7.6,516,60,0,Rohan,India,Tamil Nadu,Male,01-11-1985 00:00,,,0,Medium,366
+1974-QFCRE,22-05-2022 00:00,Refferal,22-05-2023 00:00,Basic,Annual,,,10.84,641,25,0,Priya,India,Maharashtra,Female,02-07-2004 00:00,,,0,Low,365
+1975-TZGGH,17-06-2024 00:00,Refferal,17-06-2025 00:00,Basic,Annual,,,7.56,520,40,0,Vivek,India,Telangana,Male,18-12-1977 00:00,,,0,Low,365
+1976-WQSDM,10-03-2022 00:00,Organic,10-03-2023 00:00,Standard,Monthly,,,14.54,836,53,0,Priya,India,Delhi,Female,01-07-1996 00:00,,,0,Medium,365
+1977-XKDJZ,24-11-2020 00:00,Paid,24-11-2021 00:00,Standard,Monthly,28-07-2021 00:00,Switched to competitor,17.46,900,81,1,Pallavi,India,Nagaland,Female,07-06-1974 00:00,,,0,High,365
+1978-BDGBF,22-02-2020 00:00,Refferal,22-02-2021 00:00,Premium,Annual,,,19.99,804,33,0,Riya,India,Rajasthan,Female,23-01-1986 00:00,,,0,Low,366
+1979-CYBRN,04-07-2021 00:00,Organic,04-07-2022 00:00,Standard,Monthly,,,15.92,556,89,0,Diya,India,Bihar,Female,13-12-1989 00:00,,,0,High,365

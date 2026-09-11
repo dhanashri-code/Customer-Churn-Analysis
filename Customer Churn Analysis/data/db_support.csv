@@ -1,0 +1,207 @@
+customerid,complaint_date,escalations,csat_score,col_1,comment
+0003-MKNFE,28-08-2024,N,60,,service issue
+0003-MKNFE,28-08-2024,Y,10,,demaned refund
+0013-EXCHZ,20-01-2024,Y,20,,
+0013-MHZWF,18-03-2025,N,90,,guidance to renew
+0013-SMEOE,01-11-2024,N,30,,
+0017-IUDMW,10-04-2024,Y,25,,
+0019-EFAEP,27-09-2024,Y,30,,
+0022-TCJCI,13-09-2024,Y,10,,
+0022-TCJCI,14-09-2024,N,90,,received refund
+1001-RAGFT,15-12-2023,N,30,,billing query
+1001-RAGFT,01-11-2023,N,70,,service issue
+1003-WDJSS,29-04-2022,N,100,,
+1007-MPGWL,23-09-2023,N,20,,guidance to renew
+1007-MPGWL,29-09-2023,N,50,,
+1008-MNTXP,21-04-2023,N,70,,billing query
+1010-GSTUR,08-06-2019,N,100,,billing query
+1012-NDJBF,03-12-2024,N,50,,technical issue
+1022-VKUYA,03-07-2022,Y,90,,service issue
+1023-XQRCL,06-10-2022,N,20,,service issue
+1023-XQRCL,18-10-2022,N,20,,technical issue
+1023-XQRCL,31-08-2022,N,80,,
+1028-PJLHF,27-04-2022,N,20,,service issue
+1030-YCFPK,29-11-2023,N,70,,received refund
+1033-AUMRX,22-01-2022,Y,70,,technical issue
+1046-EVPQV,16-05-2020,N,90,,service issue
+1050-JPFRF,15-04-2024,Y,60,,service issue
+1052-BBLLQ,27-03-2025,N,50,,guidance to renew
+1068-HBRHQ,03-09-2024,N,25,,billing query
+1068-HBRHQ,18-12-2024,N,70,,technical issue
+1071-VFMJP,01-08-2023,N,30,,billing query
+1071-VFMJP,01-06-2023,N,20,,service issue
+1090-TFAAH,06-03-2021,N,80,,technical issue
+1093-BKKNK,04-11-2019,Y,20,,billing query
+1093-BKKNK,07-09-2019,Y,25,,
+1093-BKKNK,02-02-2020,Y,100,,
+1096-BVBAD,11-09-2024,Y,20,,technical issue
+1096-BVBAD,19-09-2024,N,30,,service issue
+1100-FBQQQ,29-10-2021,N,70,,guidance to renew
+1102-KCXXZ,12-12-2020,N,70,,guidance to renew
+1112-ULFLT,10-08-2019,Y,20,,technical issue
+1123-NGZRM,24-01-2021,N,70,,billing query
+1123-NGZRM,19-06-2021,N,60,,guidance to renew
+1123-NGZRM,14-02-2021,N,25,,technical issue
+1133-DYWVZ,01-11-2023,N,90,,guidance to renew
+1133-DYWVZ,27-09-2023,N,70,,technical issue
+1137-VAAGC,10-02-2024,N,90,,
+1141-QCUEZ,06-06-2023,Y,100,,technical issue
+1151-LHTUM,04-09-2022,Y,60,,technical issue
+1153-ZMUDX,15-06-2020,N,20,,service issue
+1153-ZMUDX,10-09-2019,N,70,,service issue
+1153-ZMUDX,18-04-2020,N,30,,billing query
+1153-ZMUDX,30-05-2020,N,70,,
+1154-CNQSL,29-08-2023,N,80,,guidance to renew
+1164-SYDTZ,21-03-2025,N,30,,guidance to renew
+1166-SZBTE,08-01-2022,N,100,,guidance to renew
+1179-XAXLF,02-03-2022,N,20,,technical issue
+1211-UYVYN,03-08-2020,Y,25,,technical issue
+1211-UYVYN,03-08-2020,N,100,,received refund
+1212-BBUJV,24-12-2019,Y,100,,technical issue
+1212-BBUJV,19-02-2020,N,70,,guidance to renew
+1217-HXKZN,19-06-2024,N,40,,technical issue
+1217-HXKZN,10-05-2024,Y,50,,received refund
+1223-GDHYS,14-11-2024,Y,30,,
+1225-ZGEXZ,17-01-2024,N,90,,billing query
+1225-ZGEXZ,22-09-2023,N,20,,
+1225-ZGEXZ,22-02-2024,N,20,,
+1230-BNPSP,18-10-2021,N,40,,guidance to renew
+1231-LYFHC,04-09-2020,N,90,,service issue
+1231-LYFHC,08-07-2020,N,20,,
+1248-GAQBQ,29-04-2025,N,60,,guidance to renew
+1258-BRGLJ,14-06-2023,N,40,,received refund
+1262-SKFJF,31-10-2022,Y,60,,technical issue
+1274-RMSCN,06-07-2020,N,25,,technical issue
+1286-VQURK,12-09-2024,N,70,,guidance to renew
+1286-VQURK,18-06-2024,N,100,,service issue
+1290-WXRWG,24-07-2019,N,50,,
+1300-VTVAN,10-12-2020,N,50,,
+1319-UXCNK,02-09-2024,N,90,,guidance to renew
+1320-CUYLP,05-09-2021,Y,60,,received refund
+1333-ZAMSQ,06-02-2021,Y,40,,technical issue
+1338-LQCRS,14-06-2023,N,70,,technical issue
+1340-SSZQH,07-08-2020,N,60,,service issue
+1340-SSZQH,07-08-2020,N,50,,received refund
+1340-SSZQH,19-05-2020,N,60,,service issue
+1340-SSZQH,25-02-2020,N,50,,billing query
+1349-CCPAS,01-05-2025,N,70,,billing query
+1353-EAGTD,21-06-2022,N,30,,received refund
+1353-EAGTD,28-08-2022,N,20,,
+1365-YWCPV,11-10-2019,N,25,,received refund
+1373-ABNWZ,09-06-2022,Y,20,,technical issue
+1384-NSWPQ,04-10-2023,N,40,,
+1384-NSWPQ,18-10-2023,N,80,,billing query
+1393-AEWKN,12-11-2019,N,80,,guidance to renew
+1398-SNHFS,22-04-2021,Y,60,,service issue
+1401-HXVSE,12-03-2024,N,20,,service issue
+1416-TFVAW,08-11-2021,N,100,,received refund
+1419-LXPVP,08-06-2022,N,100,,service issue
+1426-HNFUU,04-11-2022,N,80,,
+1438-PCMCC,29-04-2021,N,70,,
+1445-MDZQR,06-11-2023,N,90,,billing query
+1445-MDZQR,07-04-2023,N,30,,
+1479-BSXAC,30-11-2023,Y,40,,service issue
+1479-BSXAC,30-11-2023,N,90,,technical issue
+1482-KVLGB,25-11-2023,N,60,,guidance to renew
+1482-KVLGB,22-02-2024,N,20,,technical issue
+1486-AMKJP,01-07-2023,N,25,,billing query
+1486-AMKJP,18-05-2023,N,80,,technical issue
+1495-AGRRK,07-10-2020,N,25,,service issue
+1495-AGRRK,07-10-2020,N,20,,guidance to renew
+1497-CLGEN,15-01-2020,N,25,,
+1500-GNFFG,29-01-2024,N,25,,billing query
+1502-XNLUY,08-06-2023,N,30,,guidance to renew
+1503-HEWLT,19-12-2022,N,60,,guidance to renew
+1512-LQNMP,14-04-2025,N,50,,guidance to renew
+1512-LQNMP,17-03-2025,N,20,,billing query
+1520-GFJJG,04-05-2021,N,90,,received refund
+1529-HPEFN,03-02-2025,N,60,,received refund
+1542-THTMQ,25-06-2024,N,100,,received refund
+1543-LFQPC,30-04-2024,N,80,,service issue
+1546-HBTSF,04-05-2021,N,80,,billing query
+1546-HBTSF,04-05-2021,N,60,,service issue
+1558-YZFLN,26-03-2023,N,30,,billing query
+1564-MMHMK,17-02-2022,N,90,,service issue
+1568-MEHYG,20-04-2020,N,25,,billing query
+1569-LJTLU,11-12-2020,N,20,,received refund
+1587-WUKWD,17-01-2020,N,30,,received refund
+1595-UMPNR,19-08-2020,Y,30,,technical issue
+1598-UECKC,30-07-2022,N,70,,
+1609-MHPSL,16-06-2020,N,80,,guidance to renew
+1612-FYDAC,04-06-2024,N,50,,technical issue
+1612-FYDAC,25-06-2024,N,30,,guidance to renew
+1622-FMDEF,07-08-2020,Y,80,,received refund
+1622-FMDEF,16-11-2020,N,20,,received refund
+1635-WYGPX,14-12-2019,N,30,,technical issue
+1636-FUXFX,03-12-2019,N,80,,service issue
+1639-EEKZC,30-04-2024,N,80,,received refund
+1639-EEKZC,25-11-2023,Y,50,,guidance to renew
+1647-MCYTE,18-08-2021,Y,25,,received refund
+1647-MCYTE,18-08-2021,N,90,,received refund
+1649-AWVLV,17-12-2023,N,70,,
+1649-AWVLV,05-09-2023,Y,80,,service issue
+1651-SVZGW,13-10-2019,N,60,,service issue
+1655-QACQT,29-12-2020,N,60,,billing query
+1664-EFDMR,25-02-2025,N,30,,billing query
+1675-FSJSH,24-01-2021,N,60,,service issue
+1679-GGZCT,28-06-2019,N,80,,guidance to renew
+1681-NYBJA,26-06-2020,N,100,,service issue
+1681-NYBJA,07-01-2020,N,80,,service issue
+1681-NYBJA,06-06-2020,Y,40,,service issue
+1686-EEEEU,31-07-2024,Y,40,,technical issue
+1692-UKDDA,05-02-2020,N,30,,billing query
+1692-UKDDA,29-01-2020,Y,70,,service issue
+1692-UKDDA,01-04-2020,N,25,,received refund
+1693-AWXDC,25-10-2022,Y,60,,service issue
+1701-ZBRZM,11-09-2024,Y,60,,service issue
+1722-BSMQC,19-11-2022,Y,20,,service issue
+1729-UVNAA,16-11-2022,Y,20,,received refund
+1737-YNVWZ,27-10-2023,N,20,,received refund
+1740-XSPHK,19-10-2023,N,25,,received refund
+1755-UTMYT,01-03-2020,N,70,,billing query
+1772-WXCVC,24-02-2024,N,90,,technical issue
+1780-WMPYS,13-01-2022,N,50,,service issue
+1781-BHQCF,17-07-2025,N,90,,service issue
+1790-ZDYBC,25-07-2022,N,30,,billing query
+1801-BSGPE,28-09-2023,N,90,,guidance to renew
+1803-ZWYSS,01-01-2024,Y,80,,technical issue
+1803-ZWYSS,03-09-2023,N,60,,guidance to renew
+1807-FJDLC,25-02-2023,N,90,,billing query
+1815-PJWYY,18-02-2020,N,80,,received refund
+1819-BHGNW,05-11-2021,Y,100,,billing query
+1822-UJMQW,05-09-2022,N,70,,guidance to renew
+1822-UJMQW,05-09-2022,N,70,,billing query
+1823-HJSMA,03-04-2022,N,70,,billing query
+1832-SKYQS,30-08-2021,Y,50,,billing query
+1838-SDVCW,13-01-2024,N,90,,technical issue
+1842-TSBJE,22-04-2024,Y,100,,billing query
+1850-NNZHQ,24-04-2021,N,90,,billing query
+1851-GWJCF,18-06-2022,N,70,,service issue
+1878-YYDGY,19-02-2021,N,30,,received refund
+1878-YYDGY,16-05-2020,N,100,,service issue
+1880-JKPAJ,17-02-2023,N,90,,received refund
+1881-XRMEA,31-07-2023,N,50,,billing query
+1881-XRMEA,10-07-2023,N,25,,
+1881-XRMEA,26-08-2023,N,60,,billing query
+1881-XRMEA,25-07-2023,Y,50,,service issue
+1886-ZRWUZ,23-05-2019,N,30,,service issue
+1886-ZRWUZ,23-05-2019,Y,20,,billing query
+1899-LGTJJ,08-05-2025,N,60,,
+1899-LGTJJ,05-11-2025,Y,90,,technical issue
+1907-SBQCP,19-04-2022,N,40,,technical issue
+1907-SBQCP,02-05-2022,N,50,,technical issue
+1912-MZUMT,29-07-2021,N,70,,
+1917-MCBMJ,30-12-2020,Y,100,,service issue
+1918-EWEAE,04-04-2022,N,40,,received refund
+1930-CEYAU,10-01-2021,N,70,,guidance to renew
+1934-GVJWZ,25-11-2024,N,100,,billing query
+1936-NYAPF,07-05-2024,Y,25,,received refund
+1948-KHATQ,16-04-2022,N,20,,guidance to renew
+1952-PJPRM,02-07-2019,Y,70,,billing query
+1955-SBJSL,06-01-2025,N,40,,billing query
+1956-FAKMU,28-01-2021,Y,100,,technical issue
+1968-ALNDH,28-05-2024,N,70,,received refund
+1968-ALNDH,22-05-2024,N,100,,technical issue
+1968-ALNDH,03-01-2025,Y,20,,technical issue
+1969-EZTQQ,25-09-2019,N,80,,
+1972-THDMP,07-07-2022,Y,100,,technical issue
